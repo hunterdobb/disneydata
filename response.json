@@ -24704,7 +24704,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:05:00:0",
-      "endDate" : "2023-11-30",
+      "endDate" : "2023-12-31",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24746,7 +24746,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2023-11-30",
+      "endDate" : "2023-12-31",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24786,7 +24786,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2023-11-30",
+      "endDate" : "2023-12-31",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -27998,11 +27998,21 @@
       "webLink" : "http://disneyworld.disney.go.com/shops/disney-springs/pearl-factory/"
     },
     {
-      "about" : "Rustle up some grub at this Old West saloon! Tell tall tales over chicken fajitas, southwestern salad and the bacon cheeseburger—all before riding off into the sunset to the taste of sweet treats like mini churros with dipping chocolate.",
+      "about" : "Rustle up some grub at this Old West saloon! Tell tall tales over a fajita platter, southwestern salad and the bacon cheeseburger—all before riding off into the sunset with sweet treats like mini churros with dipping chocolate.",
       "changeLog" : [
         {
           "date" : "2023-11-21T00:10:56Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-11-22T22:30:27Z",
+          "descriptions" : [
+            "about: Optional(\"Rustle up some grub at this Old West saloon! Tell tall tales over chicken fajitas, southwestern salad and the bacon cheeseburger—all before riding off into the sunset to the taste of sweet treats like mini churros with dipping chocolate.\") -> Optional(\"Rustle up some grub at this Old West saloon! Tell tall tales over a fajita platter, southwestern salad and the bacon cheeseburger—all before riding off into the sunset with sweet treats like mini churros with dipping chocolate.\")"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "about"
+          ]
         }
       ],
       "contentType" : "Dining",
@@ -28026,7 +28036,7 @@
       "id" : "90002610;entityType=restaurant",
       "isActive" : true,
       "land" : "Frontierland",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/pecos-bill-cafe-fajitas-plate-16x9.jpg?1668201121227",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/pecos-bill/WDW_MK_PecosBills-_Fajita-Platter_FULL_100923_8256_CJ-16x9.jpg?2023-11-14T18:20:10+00:00",
       "location" : {
         "id" : "90002610;entityType=restaurant",
         "latitude" : 28.4188897676,
@@ -28045,7 +28055,7 @@
       "serviceStyles" : [
         "Quick Service"
       ],
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/pecos-bill-cafe-fajitas-plate-1x1.jpg?1668201121227",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/pecos-bill/WDW_MK_PecosBills-_Fajita-Platter_FULL_100923_8256_CJ-1x1.jpg?2023-11-14T18:20:10+00:00",
       "webLink" : "http://disneyworld.disney.go.com/dining/magic-kingdom/pecos-bill-tall-tale-inn-and-cafe/"
     },
     {
