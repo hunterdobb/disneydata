@@ -8739,6 +8739,16 @@
         {
           "date" : "2023-11-21T00:10:55Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-11-22T17:33:34Z",
+          "descriptions" : [
+            "subType: Optional(\"Game Show\") -> Optional(\"Atmosphere\")"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "subType"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -8770,7 +8780,7 @@
       "searchTerms" : "The Dapper Dans ~ dapper dans dapper dans magic kingdom dapper dans barbershop quartet magic kingdom barbershop quartet magic kingdom live music magic kingdom live performance magic kingdom singers magic kingdom chorus group",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/magic-kingdom/dapper-dans/quartet-barber-shop-1x1.jpg?1689268818474",
       "startDate" : "2023-11-21",
-      "subType" : "Game Show",
+      "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/dapper-dans/"
     },
     {
@@ -24149,7 +24159,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2023-11-30",
+      "endDate" : "2023-12-31",
       "entertainmentType" : [
         "Character Experiences"
       ],
