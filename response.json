@@ -10658,7 +10658,7 @@
       "id" : "90001951;entityType=restaurant",
       "isActive" : true,
       "land" : "Echo Lake",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/DHS_DocksideDiner_FULL_ShrimpRoll-16x9.jpg?2022-03-10T19:27:14+00:00",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-16x9.jpg?2022-03-10T19:41:03+00:00",
       "location" : {
         "id" : "90001951;entityType=restaurant",
         "latitude" : 28.3570985,
@@ -43100,7 +43100,7 @@
       "webLink" : "https://disneyworld.disney.go.com/dining/epcot/holiday-kitchens-allergy-friendly/"
     },
     {
-      "about" : "Celebrate the most bountiful time of year with a special voyage through greenhouses decorated with dazzling lights—available during <a href=\"https://disneyworld.disney.go.com/events-tours/epcot/holiday-festival/\">EPCOT International Festival of the Holidays</a> starting November 24, 2023.",
+      "about" : "Celebrate the most bountiful time of year with a special voyage through greenhouses decorated with dazzling lights—available during <a href=\"https://disneyworld.disney.go.com/events-tours/epcot/holiday-festival/\">EPCOT International Festival of the Holidays</a>.",
       "aboutThis" : [
         "Supervise children at all times. Children under age 7 years must be accompanied by a person age 14 years or older."
       ],
@@ -43121,6 +43121,20 @@
         {
           "date" : "2023-11-24T16:35:39Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-11-24T21:33:38Z",
+          "descriptions" : [
+            "name: Living with the Land – Glimmering Greenhouses – Beginning November 24, 2023 -> Living with the Land – Glimmering Greenhouses",
+            "searchTerms: Living with the Land – Glimmering Greenhouses – Beginning November 24, 2023 ~ living with the land – glimmering greenhouses – beginning november 24, 2023 living with the land glimmering greenhouses holiday greenhouses -> Living with the Land – Glimmering Greenhouses ~ living with the land – glimmering greenhouses living with the land glimmering greenhouses holiday greenhouses",
+            "about: Optional(\"Celebrate the most bountiful time of year with a special voyage through greenhouses decorated with dazzling lights—available during <a href=\\\"https://disneyworld.disney.go.com/events-tours/epcot/holiday-festival/\\\">EPCOT International Festival of the Holidays</a> starting November 24, 2023.\") -> Optional(\"Celebrate the most bountiful time of year with a special voyage through greenhouses decorated with dazzling lights—available during <a href=\\\"https://disneyworld.disney.go.com/events-tours/epcot/holiday-festival/\\\">EPCOT International Festival of the Holidays</a>.\")"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "name",
+            "searchTerms",
+            "about"
+          ]
         }
       ],
       "contentType" : "Attractions",
@@ -43139,7 +43153,7 @@
         "latitude" : 28.374245,
         "longitude" : -81.552301
       },
-      "name" : "Living with the Land – Glimmering Greenhouses – Beginning November 24, 2023",
+      "name" : "Living with the Land – Glimmering Greenhouses",
       "park" : "EPCOT",
       "parkInterests" : [
         "Water Rides",
@@ -43149,7 +43163,7 @@
         "Seasonal Offerings"
       ],
       "resortArea" : "EPCOT Resort Area",
-      "searchTerms" : "Living with the Land – Glimmering Greenhouses – Beginning November 24, 2023 ~ living with the land – glimmering greenhouses – beginning november 24, 2023 living with the land glimmering greenhouses holiday greenhouses",
+      "searchTerms" : "Living with the Land – Glimmering Greenhouses ~ living with the land – glimmering greenhouses living with the land glimmering greenhouses holiday greenhouses",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/1201ZO_2865AFN-1x1.jpg?2023-09-15T21:41:45+00:00",
       "thrillFactor" : [
         "Slow Rides"
