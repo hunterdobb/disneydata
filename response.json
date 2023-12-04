@@ -497,7 +497,7 @@
       ],
       "isActive" : true,
       "land" : "World Discovery",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/epcot/mission-space-advanced-training-lab/mission-space-advanced-training-lab-00.jpg?1682017111501",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/epcot/mission-space-advanced-training-lab/mission-space-advanced-training-lab-00.jpg?1699630842502",
       "location" : {
         "id" : "3831;entityType=Attraction",
         "latitude" : 28.374185,
@@ -511,7 +511,7 @@
       ],
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Advanced Training Lab ~ advanced training lab simulator simulation",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/epcot/mission-space-advanced-training-lab/mission-space-advanced-training-lab-00-sq.jpg?1682017111502",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/epcot/mission-space-advanced-training-lab/mission-space-advanced-training-lab-00-sq.jpg?1699630842502",
       "webLink" : "http://disneyworld.disney.go.com/attractions/epcot/mission-space-advanced-training-lab/"
     },
     {
@@ -569,7 +569,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -590,7 +590,7 @@
       "park" : "Animal Kingdom",
       "searchTerms" : "Adventure Flotilla ~ adventure flotilla",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/tree-of-life/child-with-binoculars-at-tree-of-life-1x1.jpg?2022-03-11T15:14:08+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -629,7 +629,7 @@
       "park" : "Animal Kingdom",
       "searchTerms" : "Adventure Flotilla - Up ~ adventure flotilla  up",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/tree-of-life/child-with-binoculars-at-tree-of-life-1x1.jpg?2022-03-11T15:14:08+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -1340,7 +1340,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "id" : "16917380;entityType=Entertainment",
       "isActive" : true,
       "land" : "West Side",
@@ -1354,7 +1354,7 @@
       "park" : "Disney Springs",
       "searchTerms" : "AMC® Disney Springs 24 Dine-In Theatres ~ amc disney springs 24 dinein theatres amc theater dine in theater dinner and a movie",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/downtown-disney/amc-downtown-disney-24/amc-downtown-disney-24-hero-00-sq.jpg?1660110444986",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/disney-springs/amc-disney-springs-24/"
     },
@@ -1662,7 +1662,7 @@
       ],
       "searchTerms" : "Animal Encounters: Winged Encounters – The Kingdom Takes Flight ~ animal encounters: winged encounters – the kingdom takes flight",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/animal-kingdom/winged-encounters/wdw-kingdom-flight-00-sq.JPG?1682004598508",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/animal-kingdom/winged-encounters/"
     },
@@ -2237,7 +2237,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "id" : "141853;entityType=Entertainment",
       "interests" : [
         "Indoor"
@@ -2253,7 +2253,7 @@
       "park" : "Disney's BoardWalk",
       "searchTerms" : "Atlantic Dance Hall ~ atlantic dance hall",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/boardwalk/atlantic-dance-hall/atlantic-dance-hall-00-sq.jpg?1675102658971",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/boardwalk/atlantic-dance-hall/"
     },
@@ -2280,7 +2280,7 @@
       "park" : "EPCOT",
       "searchTerms" : "Atlas Fusion ~ atlas fusion",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/Atlas-Fusion-444-1x1.jpg?2022-07-20T20:48:44+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -3539,7 +3539,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:30:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Stage Shows"
       ],
@@ -3564,7 +3564,7 @@
       ],
       "searchTerms" : "Beauty and the Beast – Live on Stage ~ beauty and the beast – live on stage live musical theater",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/hollywood-studios/beauty-and-the-beast-live-on-stage/beauty-and-the-beast-live-on-stage-06-sq.jpg?1689268712751",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/hollywood-studios/beauty-and-the-beast-live-on-stage/"
     },
@@ -5763,7 +5763,7 @@
       "park" : "Magic Kingdom",
       "searchTerms" : "Casey's Corner Pianist ~ caseys corner pianist caseys corner pianist caseys corner piano player magic kingdom caseys corner magic kingdom caseys corner pianist magic kingdom caseys corner piano player",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/caseys-corner-pianist/caseys-corner-pianist-00-sq.jpg?1673631455016",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/caseys-corner-pianist/"
     },
@@ -6940,7 +6940,7 @@
       "park" : "Magic Kingdom",
       "searchTerms" : "Club Tinsel at Mickey's Very Merry Christmas Party ~ club tinsel at mickeys very merry christmas party",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/christmas/4023260_0104ZR_2031CM_aRGB_r1_2-1x1.jpg?2022-06-13T13:37:04+00:00",
-      "startDate" : "2023-11-26",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -7223,7 +7223,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:30:00:0",
-      "endDate" : "2024-02-01",
+      "endDate" : "2024-02-08",
       "id" : "411702927;entityType=Entertainment",
       "isActive" : true,
       "land" : "World Showcase",
@@ -7237,7 +7237,7 @@
       "park" : "EPCOT",
       "searchTerms" : "Command Performance ~ command performance",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/entertainment/live-performances/The-Hooligans-845657371-1x1.jpg?2022-05-27T03:36:25+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/epcot/command-performance/"
     },
@@ -8779,7 +8779,7 @@
       ],
       "searchTerms" : "The Dapper Dans ~ dapper dans dapper dans magic kingdom dapper dans barbershop quartet magic kingdom barbershop quartet magic kingdom live music magic kingdom live performance magic kingdom singers magic kingdom chorus group",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/magic-kingdom/dapper-dans/quartet-barber-shop-1x1.jpg?1689268818474",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/dapper-dans/"
     },
@@ -9090,7 +9090,7 @@
       "park" : "Animal Kingdom",
       "searchTerms" : "Dino-Bash Flotilla ~ dinobash flotilla",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/dino-bash-flotilla/DinoBash-with-Goofy-and-Pluto-1x1.jpg?2023-04-27T03:27:14+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -9328,7 +9328,7 @@
       "park" : "Animal Kingdom",
       "searchTerms" : "Discovery Island Drummers Festive Flotilla ~ discovery island drummers festive flotilla",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/animal-kingdom/new-entertainment/cavalcade-guest-1x1.jpg?1700082883380",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/animal-kingdom/discovery-island-drummers-festive-flotilla/"
     },
@@ -9407,7 +9407,7 @@
       "park" : "Animal Kingdom",
       "searchTerms" : "Discovery River Cruise - Pocahontas ~ discovery river cruise  pocahontas",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/discovery-river-cruise/Pocahontas_flotilla-1x1.jpg?2022-05-13T20:20:57+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -9442,7 +9442,7 @@
       "park" : "Animal Kingdom",
       "searchTerms" : "Discovery River Cruise - The Lion King ~ discovery river cruise  the lion king",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/animal-kingdom/new-entertainment/timon-1x1.jpg?1653660413516",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -9528,7 +9528,7 @@
       ],
       "searchTerms" : "Disney Adventure Friends Cavalcade ~ disney adventure friends cavalcade",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/cavalcade/Adventure-Friends-opening-day-16x9.jpg?2022-09-14T02:07:23+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Parade",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/disney-adventure-friends-cavalcade/"
     },
@@ -9564,7 +9564,7 @@
       ],
       "isActive" : true,
       "land" : "World Celebration",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/epcot/disney-pixar-short-film-festival/disney-pixar-short-film-festival-00.jpg?1658971020516",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/epcot/disney-pixar-short-film-festival/disney-pixar-short-film-festival-00.jpg?1701358609041",
       "location" : {
         "id" : "18269694;entityType=Attraction",
         "latitude" : 28.37263,
@@ -9577,7 +9577,7 @@
       ],
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Disney and Pixar Short Film Festival ~ disney and pixar short film festival",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/epcot/disney-pixar-short-film-festival/disney-pixar-short-film-festival-00-sq.jpg?1658971020516",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/epcot/disney-pixar-short-film-festival/disney-pixar-short-film-festival-00-sq.jpg?1701358609041",
       "thrillFactor" : [
         "Dark"
       ],
@@ -9697,7 +9697,7 @@
       ],
       "searchTerms" : "Disney Festival of Fantasy Parade ~ disney festival of fantasy parade",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/mickeys-magical-friendship-faire/Mickey_facing_front_New-1x1.jpg?2022-03-10T19:33:14+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Parade",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/magic-kingdom/festival-fantasy-parade/"
     },
@@ -9759,7 +9759,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:30:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "id" : "412017439;entityType=Entertainment",
       "isActive" : true,
       "land" : "Sunset Boulevard",
@@ -9773,7 +9773,7 @@
       "park" : "Hollywood Studios",
       "searchTerms" : "Disney Holidays in Hollywood at Disney Jollywood Nights ~ disney holidays in hollywood at disney jollywood nights Disney Holidays in Hollywood at Disney Jollywood Nights",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/theater-of-the-stars/TOTS_ART-FINAL_PRINT-1x1.jpg?2023-06-26T17:01:51+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/hollywood-studios/disney-holidays-in-hollywood/"
     },
@@ -9800,7 +9800,7 @@
       "park" : "Magic Kingdom",
       "searchTerms" : "Disney Junior Jingle Jam at Mickey's Very Merry Christmas Party ~ disney junior jingle jam at mickeys very merry christmas party",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/mdx/mvmcp/2018-storybook-circus-disney-junior-jam-1x1.jpg?1699287912649",
-      "startDate" : "2023-11-26",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -9819,7 +9819,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:10:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -9840,7 +9840,7 @@
       "park" : "Hollywood Studios",
       "searchTerms" : "Disney Junior Play and Dance! ~ disney junior play and dance!",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/hollywood-studios/new-entertainment/dinsey-jurnior-play-dance-1x1.jpg?1659996818319",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/hollywood-studios/disney-junior-play-dance/"
     },
@@ -9873,7 +9873,7 @@
       ],
       "searchTerms" : "Disney Movie Magic ~ disney movie magic",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/hollywood-studios/disney-movie-magic/new-disney-movie-magic-chinese-theater-1x1.jpg?1660100441412",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/hollywood-studios/disney-movie-magic/"
     },
@@ -9959,7 +9959,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-02",
+      "endDate" : "2024-02-13",
       "id" : "411847207;entityType=Entertainment",
       "isActive" : true,
       "land" : "The Landing",
@@ -9973,7 +9973,7 @@
       "park" : "Disney Springs",
       "searchTerms" : "Disney Springs Kids Club ~ disney springs kids club disney springs kids club disney springs kids club entertainment activities family activities family-friendly waterview park orlando florida lake buena vista DJ dance party drum circle music",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/entertainment/kids-club/0128ZN_0912AFN-1x1.jpg?2023-04-07T16:08:02+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/disney-springs/disney-springs-kids-club/"
     },
@@ -10091,7 +10091,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "id" : "15958368;entityType=Entertainment",
       "interests" : [
         "Mickey & Friends"
@@ -10111,7 +10111,7 @@
       ],
       "searchTerms" : "Disney® Visa® Cardmember Photo Opportunity at EPCOT ~ disney visa cardmember photo opportunity at epcot",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/lifestyle/10636_DD.com_WDW_Vacation_PerksPage_Update_PlutoMickey_782x600-1x1.jpg?2022-05-18T16:48:50+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/visa-card-character-experience/"
     },
@@ -10130,7 +10130,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "id" : "18299758;entityType=Entertainment",
       "interests" : [
         "Star Wars"
@@ -10147,7 +10147,7 @@
       "park" : "Hollywood Studios",
       "searchTerms" : "Disney® Visa® Cardmember Star Wars Photo Opportunity at Disney's Hollywood Studios ~ disney visa cardmember star wars photo opportunity at disneys hollywood studios",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/SCENARIO-12_Darth_03002_Final-1x1.jpg?2023-06-08T13:39:25+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/hollywood-studios/visa-cardmember-star-wars-character-experience/"
     },
@@ -10521,7 +10521,7 @@
       "park" : "Animal Kingdom",
       "searchTerms" : "DiVine ~ divine",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/vision-dam/digital/parks-platform/parks-global-assets/disney-world/0201ZX_1264AN-1x1.jpg?2021-11-01T17:02:14+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -10779,7 +10779,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Stage Shows",
         "Character Experiences",
@@ -10810,7 +10810,7 @@
       ],
       "searchTerms" : "Donald's Dino-Bash! ~ donalds dinobash!",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/destinations/animal-kingdom/donalds-dino-bash-characters-1x1.jpg?1681319267170",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/animal-kingdom/donalds-dino-bash/"
     },
@@ -10915,7 +10915,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Ticketed Experiences",
         "Live Music",
@@ -10927,7 +10927,7 @@
       "id" : "19382527;entityType=Entertainment",
       "isActive" : true,
       "land" : "West Side",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/DTL_AnimationTable_01-16x9.jpg?2022-01-05T21:40:42+00:00",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/entertainment/drawn-to-life/Teeterboard_1364_HR-16x9.jpg?2023-11-17T15:29:51+00:00",
       "location" : {
         "id" : "19382527;entityType=Entertainment",
         "latitude" : 28.370719,
@@ -10936,8 +10936,8 @@
       "name" : "Drawn to Life Presented by Cirque du Soleil® & Disney",
       "park" : "Disney Springs",
       "searchTerms" : "Drawn to Life Presented by Cirque du Soleil® & Disney ~ drawn to life presented by cirque du soleil & disney",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/DTL_AnimationTable_01-1x1.jpg?2022-01-05T21:40:42+00:00",
-      "startDate" : "2023-11-23",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/entertainment/drawn-to-life/Teeterboard_1364_HR-1x1.jpg?2023-11-17T15:29:51+00:00",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/disney-springs/cirque-du-soleil/"
     },
@@ -11317,6 +11317,18 @@
         {
           "date" : "2023-11-21T00:10:55Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-04T16:51:15Z",
+          "descriptions" : [
+            "name: eet by Maneet Chauhan - Coming Soon! -> eet by Maneet Chauhan - Now Open!",
+            "searchTerms: eet by Maneet Chauhan - Coming Soon! ~ eet by maneet chauhan  coming soon! -> eet by Maneet Chauhan - Now Open! ~ eet by maneet chauhan  now open!"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "name",
+            "searchTerms"
+          ]
         }
       ],
       "contentType" : "Dining",
@@ -11332,13 +11344,13 @@
         "latitude" : 28.37318511,
         "longitude" : -81.51492566
       },
-      "name" : "eet by Maneet Chauhan - Coming Soon!",
+      "name" : "eet by Maneet Chauhan - Now Open!",
       "park" : "Disney Springs",
       "priceRangeDining" : [
         "$$ ($15 to $34.99 per adult)"
       ],
       "resortArea" : "Disney Springs Resort Area",
-      "searchTerms" : "eet by Maneet Chauhan - Coming Soon! ~ eet by maneet chauhan  coming soon!",
+      "searchTerms" : "eet by Maneet Chauhan - Now Open! ~ eet by maneet chauhan  now open!",
       "serviceStyles" : [
         "Quick Service"
       ],
@@ -11490,7 +11502,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "id" : "157989;entityType=Entertainment",
       "interests" : [
         "Classic Characters"
@@ -11506,7 +11518,7 @@
       "park" : "Disney's Wilderness Lodge",
       "searchTerms" : "Electrical Water Pageant ~ electrical water pageant main street electrical parade main street parade electrical parade electric parade magic kingdom parade main street usa electric lights electric light parade night time parade evening parade parades",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-00-sq.jpg?1680272354479",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Show",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/electrical-water-pageant/"
     },
@@ -11530,7 +11542,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "id" : "157985;entityType=Entertainment",
       "interests" : [
         "Classic Characters"
@@ -11546,7 +11558,7 @@
       "park" : "Disney's Contemporary Resort",
       "searchTerms" : "Electrical Water Pageant - Disney's Contemporary Resort ~ electrical water pageant  disneys contemporary resort",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04-sq.jpg?1590452081897",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Show"
     },
     {
@@ -11569,7 +11581,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Nighttime Spectaculars"
       ],
@@ -11588,7 +11600,7 @@
       "park" : "The Campsites at Disney's Fort Wilderness Resort",
       "searchTerms" : "Electrical Water Pageant - Disney's Fort Wilderness Resort & Campground ~ electrical water pageant  disneys fort wilderness resort & campground",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04-sq.jpg?1590451951964",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Show"
     },
     {
@@ -11611,7 +11623,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Nighttime Spectaculars"
       ],
@@ -11630,7 +11642,7 @@
       "park" : "Disney's Grand Floridian Resort & Spa",
       "searchTerms" : "Electrical Water Pageant - Disney's Grand Floridian Resort & Spa ~ electrical water pageant  disneys grand floridian resort & spa",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04-sq.jpg?1590452077195",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Show"
     },
     {
@@ -11653,7 +11665,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Nighttime Spectaculars"
       ],
@@ -11672,7 +11684,7 @@
       "park" : "Disney's Polynesian Village Resort",
       "searchTerms" : "Electrical Water Pageant - Disney's Polynesian Village Resort ~ electrical water pageant  disneys polynesian village resort",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04-sq.jpg?1590451970276",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Show"
     },
     {
@@ -11695,7 +11707,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Nighttime Spectaculars"
       ],
@@ -11714,7 +11726,7 @@
       "park" : "Disney's Wilderness Lodge",
       "searchTerms" : "Electrical Water Pageant - Disney's Wilderness Lodge ~ electrical water pageant  disneys wilderness lodge",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04-sq.jpg?1590451974953",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Show"
     },
     {
@@ -11921,7 +11933,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2023-12-26",
+      "endDate" : "",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -11943,7 +11955,7 @@
       ],
       "searchTerms" : "Entertainment at Canada Mill Stage ~ entertainment at canada mill stage",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/Bodhaktan-2023-MDX-Final-1x1.jpg?2023-03-10T19:25:05+00:00",
-      "startDate" : "2023-11-27",
+      "startDate" : "",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/canada-pavilion-entertainment/"
     },
@@ -11984,7 +11996,7 @@
       ],
       "searchTerms" : "Entertainment at Germany Gazebo ~ entertainment at germany gazebo",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/Tanzhaus-Johann-Promo-1x1.jpg?2023-11-16T16:40:25+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/epcot/germany-pavilion-entertainment/"
     },
@@ -12003,7 +12015,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-01",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Concerts",
         "Live Entertainment"
@@ -12023,7 +12035,7 @@
       "park" : "Disney's Port Orleans Resort - French Quarter",
       "searchTerms" : "Entertainment at Scat Cat's Club ~ entertainment at scat cats club",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/gallery/dining/resort-dining/port-orleans-resort-french-quarter/scat-cats-club/scat-cats-club-gallery03-sq.jpg?1660125748258",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-04",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/port-orleans-resort-french-quarter/live-music-at-scat-cat-club/"
     },
@@ -12101,7 +12113,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Fireworks"
       ],
@@ -12122,7 +12134,7 @@
       ],
       "searchTerms" : "EPCOT Forever ~ epcot forever",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/epcot/epcot-forever/epcot-forever-fireworks-1-1x1.jpg?1680492626711",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Fireworks",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/epcot/epcot-forever/"
     },
@@ -12814,7 +12826,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:29:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Fireworks",
         "Nighttime Spectaculars"
@@ -12839,7 +12851,7 @@
       ],
       "searchTerms" : "Fantasmic! ~ fantasmic! fireworks fantasmic shows",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/fantasmic/1024ZO_3792AFN_xak-1x1.jpg?2022-11-29T22:40:18+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Nighttime Spectacular",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/hollywood-studios/fantasmic/"
     },
@@ -12914,7 +12926,7 @@
       ],
       "searchTerms" : "Feathered Friends in Flight! ~ feathered friends in flight!",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/magic-kingdom/new-experiences/vulture-1x1.jpg?1675102786290",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/animal-kingdom/feathered-friends/"
     },
@@ -12967,7 +12979,7 @@
       ],
       "searchTerms" : "Festival of the Lion King ~ festival of the lion king lion king festival of the lion king the lion king lion king show",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/animal-kingdom/festival-of-the-lion-king/festival-of-the-lion-king-gallery00-sq.jpg?1660094390982",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/animal-kingdom/festival-of-the-lion-king/"
     },
@@ -13068,7 +13080,7 @@
       ],
       "searchTerms" : "Finding Nemo: The Big Blue... and Beyond! ~ finding nemo: the big blue and beyond!",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/Nemo_Hero-1x1.jpg?2022-08-02T20:00:11+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/animal-kingdom/finding-nemo-big-blue-and-beyond/"
     },
@@ -13120,7 +13132,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:25:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences",
         "Live Entertainment",
@@ -13139,7 +13151,7 @@
       "park" : "Hollywood Studios",
       "searchTerms" : "First Order Searches for the Resistance ~ first order searches for the resistance",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/mdx/tiles/First-Order-Searches-for-the-Resistance-Media-1x1.jpg?2023-07-25T19:53:47+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/hollywood-studios/first-order-searches-for-the-resistance/ "
     },
@@ -13228,7 +13240,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -13245,7 +13257,7 @@
       "park" : "Magic Kingdom",
       "searchTerms" : "Flag Retreat ~ flag retreat",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/flag-retreat/flag-retreat-00-sq.jpg?1675891830438",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/flag-retreat/"
     },
@@ -13452,7 +13464,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:45:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Stage Shows",
         "Character Experiences",
@@ -13480,7 +13492,7 @@
       ],
       "searchTerms" : "For the First Time in Forever: A Frozen Sing-Along Celebration ~ for the first time in forever: a frozen singalong celebration",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/hollywood-studios/frozen-sing-along-celebration/frozen-sing-along-olaf-1x1.jpg?1700497860090",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/hollywood-studios/frozen-sing-along-celebration/"
     },
@@ -14015,7 +14027,7 @@
       "park" : "Magic Kingdom",
       "searchTerms" : "Frozen Holiday Surprise ~ frozen holiday surprise",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/frozen-holiday-surprise/0727ZN_0033KP-1x1.jpg?2023-10-13T18:06:57+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/magic-kingdom/frozen-holiday-surprise/"
     },
@@ -15536,7 +15548,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -15555,7 +15567,7 @@
       "park" : "Disney's Grand Floridian Resort & Spa",
       "searchTerms" : "Grand Floridian Lobby Pianist ~ grand floridian lobby pianist",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/resorts/grand-floridian-lobby-resort-and-spa/grand-floridian-lobby-pianist/grand-floridian-piano-00-sq.jpg?1660098968712",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/grand-floridian-resort-and-spa/grand-floridian-lobby-pianist/"
     },
@@ -15622,7 +15634,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences",
         "Concerts",
@@ -15644,7 +15656,7 @@
       "park" : "Hollywood Studios",
       "searchTerms" : "Green Army Drum Corps ~ green army drum corps",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/hollywood-studios/green-army-drum-corps/green-army-men-drum-corps-1x1.jpg?1660120754169",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/hollywood-studios/green-army-drum-corps/"
     },
@@ -15899,7 +15911,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:18:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Fireworks",
         "Nighttime Spectaculars"
@@ -15924,7 +15936,7 @@
       "searchTerms" : "Happily Ever After ~ happily ever after",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/cinderella-castle/MK17-HappilyEverAfter0507-263_1-1x1.jpg?2022-03-10T19:31:46+00:00",
       "sponsorName" : "Presented by Pandora® Jewelry",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Fireworks",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/happily-ever-after-fireworks/"
     },
@@ -16128,7 +16140,7 @@
       ],
       "searchTerms" : "Harambe Village Acrobats ~ harambe village acrobats",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/harambe-village-acrobats/Harambe-Village-Acrobats-people-1x1.jpg?2022-06-30T20:57:20+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/animal-kingdom/harambe-village-acrobats/"
     },
@@ -16192,7 +16204,7 @@
       ],
       "isActive" : true,
       "land" : "Liberty Square",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-haunted-mansion/haunted-mansion-00.jpg?1696019942649",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-haunted-mansion/haunted-mansion-00.jpg?1701359595315",
       "location" : {
         "id" : "80010208;entityType=Attraction",
         "latitude" : 28.4202,
@@ -16206,7 +16218,7 @@
       ],
       "resortArea" : "Magic Kingdom Resort Area",
       "searchTerms" : "Haunted Mansion ~ haunted mansion haunted house ghosts",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-haunted-mansion/haunted-mansion-00-sq.jpg?1696019942650",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/magic-kingdom/the-haunted-mansion/haunted-mansion-00-sq.jpg?1701359595315",
       "thrillFactor" : [
         "Slow Rides",
         "Dark"
@@ -16285,6 +16297,10 @@
         {
           "date" : "2023-11-21T00:10:55Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-04T16:51:16Z",
+          "message" : "Deactivated"
         }
       ],
       "contentType" : "Attractions",
@@ -16292,7 +16308,7 @@
       "interests" : [
         "Holiday Entertainment"
       ],
-      "isActive" : true,
+      "isActive" : false,
       "land" : "Fantasyland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/christmas/4023260_0104ZR_2222CM_aRGB_r1_1-16x9.jpg?2022-06-13T13:37:03+00:00",
       "location" : {
@@ -17273,7 +17289,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:45:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Stage Shows"
       ],
@@ -17296,7 +17312,7 @@
       ],
       "searchTerms" : "Indiana Jones™ Epic Stunt Spectacular! ~ indiana jones™ epic stunt spectacular! indiana jones epic stunt espectacular indiana jones indiana jones show indiana joes ride indiana indiana jones theater indiana jones the ride mild but wild rides backlot hollywood studios entertainment",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/hollywood-studios/indiana-jones-epic-stunt-spectacular/indiana-jones-epic-stunt-spectacular-00-sq.jpg?1660166673731",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/hollywood-studios/indiana-jones-epic-stunt-spectacular/"
     },
@@ -17848,7 +17864,7 @@
       ],
       "searchTerms" : "JAMMitors ~ jammitors",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/gallery/entertainment/epcot/jammitors/jammitors-gallery01-sq.jpg?1663182419067",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/jammitors/"
     },
@@ -17867,7 +17883,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -17886,7 +17902,7 @@
       "park" : "Disney's BoardWalk",
       "searchTerms" : "Jellyrolls ~ jellyrolls jellyrolls boardwalk jellyrolls boardwalk bar boardwalk piano bar boardwalk dueling piano bar boardwalk dueling pianos jellyrolls pianos jellyrolls piano bar jellyrolls piano players dueling pianos boardwalk live music boardwalk entertainment",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/boardwalk/jellyrolls/jellyrolls-00-sq.jpg?1660096153376",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/boardwalk/jellyrolls/"
     },
@@ -18006,7 +18022,7 @@
       "park" : "Hollywood Studios",
       "searchTerms" : "Jingle Bell, Jingle BAM! at Disney Jollywood Nights ~ jingle bell, jingle bam! at disney jollywood nights Jingle Bell Jingle BAM! at Disney Jollywood Nights",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/holiday/entertainment/DHS16-JBJJ1103-328-1x1.jpg?2023-06-08T15:07:58+00:00",
-      "startDate" : "2023-11-27",
+      "startDate" : "2023-12-04",
       "subType" : "Fireworks",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/hollywood-studios/jingle-bell-jingle-bam-jollywood-nights/"
     },
@@ -20068,7 +20084,7 @@
       ],
       "searchTerms" : "Kora Tinga Tinga ~ kora tinga tinga",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/viva-gaia-street-band/Kora-TT-1x1.jpg?2022-02-07T18:09:39+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -21464,7 +21480,7 @@
       ],
       "searchTerms" : "Let the Magic Begin ~ let the magic begin minnie",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/cinderella-castle/0724ZQ_0195MS_JLM-1x1.jpg?2023-03-06T17:58:34+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/magic-kingdom-welcome/"
     },
@@ -22108,7 +22124,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Fireworks"
       ],
@@ -22129,7 +22145,7 @@
       ],
       "searchTerms" : "Luminous The Symphony of Us – Starting December 5, 2023 ~ luminous the symphony of us – starting december 5, 2023",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/luminous-the-symphony-of-us/Echo-FOUND-FINAL-1x1.jpg?2023-10-11T17:09:32+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Fireworks",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/epcot/luminous-the-symphony-us/"
     },
@@ -22822,7 +22838,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:20:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-10",
       "entertainmentType" : [
         "Concerts",
         "Live Entertainment",
@@ -22843,7 +22859,7 @@
       "park" : "Magic Kingdom",
       "searchTerms" : "Main Street Philharmonic at Main Street, U.S.A. ~ main street philharmonic at main street, usa",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/gallery/entertainment/magic-kingdom/main-street-philharmonic/main-street-philharmonic-gallery01-sq.jpg?1689268800852",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/main-street-philharmonic/"
     },
@@ -23304,7 +23320,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:25:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-10",
       "id" : "19322758;entityType=Entertainment",
       "isActive" : true,
       "land" : "World Showcase",
@@ -23322,7 +23338,7 @@
       ],
       "searchTerms" : "Mariachi Cobre ~ mariachi cobre",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/DSC_2208-1x1.jpg?2022-02-03T15:09:36+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-08",
       "subType" : "Atmosphere"
     },
     {
@@ -23334,7 +23350,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:25:00:0",
-      "endDate" : "2024-02-01",
+      "endDate" : "2024-02-13",
       "id" : "19277873;entityType=Entertainment",
       "isActive" : true,
       "land" : "World Showcase",
@@ -23348,7 +23364,7 @@
       "park" : "EPCOT",
       "searchTerms" : "Marimba de las Américas ~ marimba de las américas",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/mdx/entertainment/marimba-performers-1x1.jpg?1583988628748",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -23903,7 +23919,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-01-31",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Stage Shows",
         "Live Entertainment"
@@ -23925,7 +23941,7 @@
       ],
       "searchTerms" : "Matsuriza ~ matsuriza",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/epcot/matsuriza/matsuriza-00-sq.jpg?1663182536117",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/matsuriza/"
     },
@@ -24179,7 +24195,7 @@
       "park" : "EPCOT",
       "searchTerms" : "Meet a Friend from the Hundred Acre Wood in the United Kingdom ~ meet a friend from the hundred acre wood in the united kingdom",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/epcot/character-meet-winnie-the-pooh/christopher-robin-winnie-the-pooh-1x1.jpg?1696122939399",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/epcot/character-meet-winnie-the-pooh/"
     },
@@ -24200,7 +24216,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:25:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24229,7 +24245,7 @@
       ],
       "searchTerms" : "Meet Anna and Elsa at Royal Sommerhus ~ meet anna and elsa at royal sommerhus",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/Anna-and-Elsa-New-Look-02-full-outside-1x1.jpg?2022-03-10T19:24:17+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/character-meet-anna-elsa-royal-sommerhus/"
     },
@@ -24250,7 +24266,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24275,7 +24291,7 @@
       ],
       "searchTerms" : "Meet Ariel at Her Grotto ~ meet ariel at her grotto",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/magic-kingdom/character-meet-ariel-grotto-fantasyland/meet-ariel-character-grotto-1x1.jpg?1685990998313",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/character-meet-ariel-grotto-fantasyland/"
     },
@@ -24294,7 +24310,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24314,7 +24330,7 @@
       "park" : "Hollywood Studios",
       "searchTerms" : "Meet Ariel at Walt Disney Presents ~ meet ariel at walt disney presents",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/MDX_TLM-LA_HeroImage_v3-1x1.jpg?2023-05-23T13:04:59+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://stage.disneyworld.disney.go.com/entertainment/hollywood-studios/character-meet-ariel-walt-disney-presents/"
     },
@@ -24357,7 +24373,7 @@
       "park" : "EPCOT",
       "searchTerms" : "Meet Asha Near World Showcase Plaza ~ meet asha near world showcase plaza",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/1101ZN_0417AFN-1x1.jpg?2023-11-03T15:55:18+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/epcot/character-meet-asha/"
     },
@@ -24378,7 +24394,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:10:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24403,7 +24419,7 @@
       ],
       "searchTerms" : "Meet Cinderella and a Visiting Princess at Princess Fairytale Hall ~ meet cinderella and a visiting princess at princess fairytale hall",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/character-meet-cinderella-fairytale-hall-00-1x1.jpg?2022-04-11T12:40:32+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/magic-kingdom/character-meet-princess-fantasyland/"
     },
@@ -24424,7 +24440,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:20:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24448,7 +24464,7 @@
       ],
       "searchTerms" : "Meet Daring Disney Pals as Circus Stars at Pete's Silly Sideshow ~ meet daring disney pals as circus stars at petes silly sideshow",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/magic-kingdom/character-meet-goofy-donald/character-meet-and-greet-goofy-donald-petes-silly-slideshow-00-sq.jpg?1660122490477",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/character-meet-goofy-donald/"
     },
@@ -24469,7 +24485,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:20:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24494,7 +24510,7 @@
       ],
       "searchTerms" : "Meet Dashing Disney Pals as Circus Stars at Pete's Silly Sideshow ~ meet dashing disney pals as circus stars at petes silly sideshow",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/magic-kingdom/character-meet-minnie-daisy-donald-goofy/character-meet-and-greet-minnie-daisy-petes-silly-slideshow-00-sq.jpg?1674100871212",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/character-meet-minnie-daisy/"
     },
@@ -24567,7 +24583,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:10:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24592,7 +24608,7 @@
       ],
       "searchTerms" : "Meet Disney Stars at Red Carpet Dreams ~ meet disney stars at red carpet dreams",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/Red-Carpet-Dreams-Minnie-1x1.jpg?2022-03-10T19:34:03+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/hollywood-studios/character-meet-mickey-minnie-red-carpet/"
     },
@@ -24611,7 +24627,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24638,7 +24654,7 @@
       ],
       "searchTerms" : "Meet Edna Mode at the Edna Mode Experience ~ meet edna mode at the edna mode experience",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/campaign/pixar/DHS19-Edna0117-1031-1x1.jpg?2023-04-27T03:27:05+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/hollywood-studios/character-meet-edna-mode-experience/"
     },
@@ -24659,7 +24675,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:10:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24684,7 +24700,7 @@
       ],
       "searchTerms" : "Meet Favorite Disney Pals at Adventurers Outpost ~ meet favorite disney pals at adventurers outpost",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/animal-kingdom/character-meet-disney-pals-adventurers-outpost/adventurers-outpost-mickey-minnie-1x1.jpg?1659975182477",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/animal-kingdom/character-meet-disney-pals-adventurers-outpost/"
     },
@@ -24727,7 +24743,7 @@
       "park" : "EPCOT",
       "searchTerms" : "Meet Favorite Disney Pals at Disney and Pixar Short Film Festival ~ meet favorite disney pals at disney and pixar short film festival",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/d100/entertainment/0417ZN_0093AFN-Edit-1x1.jpg?2023-07-12T20:26:49+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/character-meet-mickey-minnie-mouse/"
     },
@@ -24766,7 +24782,7 @@
       ],
       "searchTerms" : "Meet Figment Inside ImageWorks ~ meet figment inside imageworks",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/imageworks/Figment-1x1.jpg?2023-09-08T20:12:42+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/epcot/character-meet-figment/"
     },
@@ -24811,7 +24827,7 @@
       ],
       "searchTerms" : "Meet Joy Inside ImageWorks ~ meet joy inside imageworks",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/epcot/character-meet-joy-sadness/joy-imagination-land-1x1.jpg?1680797476170",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/character-meet-joy/"
     },
@@ -24832,7 +24848,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24857,7 +24873,7 @@
       ],
       "searchTerms" : "Meet Mickey at Town Square Theater ~ meet mickey at town square theater",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/Meet-Mickey-at-Town-Square-1x1.jpg?2023-09-25T17:03:52+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/magic-kingdom/character-meet-mickey-town-square/"
     },
@@ -24876,7 +24892,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2023-11-30",
+      "endDate" : "2023-12-19",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -24893,7 +24909,7 @@
       "park" : "Magic Kingdom",
       "searchTerms" : "Meet Mirabel at Fairytale Garden – New! ~ meet mirabel at fairytale garden – new!",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/0106Z0_0869CR_JRoh-1x1.jpg?2023-08-12T01:55:07+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/magic-kingdom/character-meet-mirabel/"
     },
@@ -24938,7 +24954,7 @@
       ],
       "searchTerms" : "Meet Moana at Character Landing ~ meet moana at character landing",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/Moana-at-DAK-1x1.jpg?2023-04-05T16:05:22+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/animal-kingdom/character-meet-moana-character-landing/"
     },
@@ -24983,7 +24999,7 @@
       ],
       "searchTerms" : "Meet Mulan in China ~ meet mulan in china",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/epcot/character-meet-mulan/character-meet-mulan-02-sq.jpg?1680797219478",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/character-meet-mulan/"
     },
@@ -25008,7 +25024,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:10:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -25033,7 +25049,7 @@
       ],
       "searchTerms" : "Meet Olaf at Celebrity Spotlight ~ meet olaf at celebrity spotlight",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/hollywood-studios/character-meet-olaf-frozen/character-meet-olaf-frozen-03-sq.jpg?1682085799688",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/hollywood-studios/character-meet-olaf-frozen/"
     },
@@ -25111,14 +25127,14 @@
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/epcot/character-meet-aurora-france/character-meet-aurora-france-00.jpg?1679619416767",
       "location" : {
         "id" : "15574092;entityType=Entertainment",
-        "latitude" : 28.3692293967321,
-        "longitude" : -81.5528612898052
+        "latitude" : 28.368768,
+        "longitude" : -81.552121
       },
       "name" : "Meet Princess Aurora in France",
       "park" : "EPCOT",
       "searchTerms" : "Meet Princess Aurora in France ~ meet princess aurora in france",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/epcot/character-meet-aurora-france/character-meet-aurora-france-00-sq.jpg?1679619416766",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/epcot/character-meet-aurora-france/"
     },
@@ -25139,7 +25155,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -25164,7 +25180,7 @@
       ],
       "searchTerms" : "Meet Princess Tiana and a Visiting Princess at Princess Fairytale Hall ~ meet princess tiana and a visiting princess at princess fairytale hall",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/PFTH-Tiana-no-ropes-tight-1x1.jpg?2022-04-11T12:40:32+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/magic-kingdom/character-meet-princess-fairytale-hall/"
     },
@@ -25184,7 +25200,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2023-11-29",
+      "endDate" : "2023-12-17",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -25208,7 +25224,7 @@
       ],
       "searchTerms" : "Meet Winnie the Pooh and Tigger at The Thotful Spot ~ meet winnie the pooh and tigger at the thotful spot",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/magic-kingdom/character-meet-winnie-tigger-fantasyland/character-meet-winnie-tigger-fantasyland-00-sq.jpg?1692216038845",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/character-meet-winnie-tigger-fantasyland/"
     },
@@ -25313,7 +25329,7 @@
       "park" : "Animal Kingdom",
       "searchTerms" : "Merry Menagerie ~ merry menagerie",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/lifestyle/1217ZR_0978DR_xak-1x1.jpg?2022-11-04T16:12:52+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -25456,7 +25472,7 @@
       ],
       "searchTerms" : "Mickey's Magical Friendship Faire ~ mickeys magical friendship faire",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/cinderella-castle/MickeysMagicalFriendshipFaire_April-2023-1x1.jpg?2023-04-18T12:11:31+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/mickeys-magical-friendship-faire/"
     },
@@ -25495,7 +25511,7 @@
       ],
       "searchTerms" : "Mickey's Most Merriest Celebration at Mickey's Very Merry Christmas Party ~ mickeys most merriest celebration at mickeys very merry christmas party Mickey’s Most Merriest Celebration",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/christmas/1123ZP_2532MS_JB-1x1.jpg?2023-05-25T17:46:29+00:00",
-      "startDate" : "2023-11-26",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/mickeys-most-merriest-celebration/"
     },
@@ -25590,7 +25606,7 @@
       ],
       "searchTerms" : "Mickey's Once Upon a Christmastime Parade at Mickey's Very Merry Christmas Party ~ mickeys once upon a christmastime parade at mickeys very merry christmas party Once Upon a Time Christmas Parade Christmas parade holiday parade mickey parade Christmas time parade parades magic kingdom events holiday events holiday party",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/christmas/1123ZP_8749MS_JB_5-1x1.jpg?2022-06-13T13:34:06+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Parade",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/magic-kingdom/mickeys-once-upon-christmastime-parade/"
     },
@@ -25955,7 +25971,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Fireworks",
         "Nighttime Spectaculars"
@@ -25982,7 +25998,7 @@
       ],
       "searchTerms" : "Minnie's Wonderful Christmastime Fireworks at Mickey's Very Merry Christmas Party ~ minnies wonderful christmastime fireworks at mickeys very merry christmas party",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/christmas/1024ZR_0086DR_JB_1-1x1.jpg?2022-06-13T13:24:57+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Nighttime Spectacular",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/magic-kingdom/minnies-wonderful-christmastime-fireworks-show/"
     },
@@ -27292,7 +27308,7 @@
       ],
       "isActive" : true,
       "land" : "Africa",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/disney-animals/disney-animals-okapis/disney-animals-okapis-00.jpg?1693426909311",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/disney-animals/disney-animals-okapis/disney-animals-okapis-00.jpg?1701357920559",
       "location" : {
         "id" : "18478578;entityType=Attraction",
         "latitude" : 28.359414,
@@ -27302,7 +27318,7 @@
       "park" : "Animal Kingdom",
       "resortArea" : "Disney's Animal Kingdom Resort Area",
       "searchTerms" : "Okapis - Disney Animals ~ okapis  disney animals disney animals animals at disney animal kingdom wildlife things to do at animal kingdom safari animal information okapis what is a okapis where to find okapis rainforest animal gorilla falls exploration trail Kilimanjaro Safari sense of Africa animal kingdom lodge congo animals from the congo conservation rainforest ghosts of the forest snare art",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/disney-animals/disney-animals-okapis/disney-animals-okapis-00-sq.jpg?1693426909311",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/animal-kingdom/disney-animals/disney-animals-okapis/disney-animals-okapis-00-sq.jpg?1701357920559",
       "webLink" : "http://disneyworld.disney.go.com/attractions/animal-kingdom/disney-animals-okapis/"
     },
     {
@@ -28898,13 +28914,22 @@
         {
           "date" : "2023-11-21T00:10:56Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-04T16:51:16Z",
+          "descriptions" : [
+            "land: Optional(\"Tomorrowland\") -> nil"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "land"
+          ]
         }
       ],
       "contentType" : "Attractions",
       "id" : "19062768;entityType=Attraction",
       "isActive" : true,
-      "land" : "Tomorrowland",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/mdx/playapp/pdp-trivia-template_1920-generic-orange.png?1700246095270",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-standard-assets/parks/playapp1/pdp-trivia-wk79-happy-birthday-walt-disney_1920.png?2022-11-28T14:40:39+00:00",
       "location" : {
         "id" : "19062768;entityType=Attraction",
         "latitude" : 28.41571,
@@ -28914,7 +28939,7 @@
       "park" : "Magic Kingdom",
       "resortArea" : "Magic Kingdom Resort Area",
       "searchTerms" : "Play Disney Parks ~ play disney parks",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/dlr/help/guest-services/play-app/play-guest-services-icon-square.png?1700246095270"
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/dlr/help/guest-services/play-app/play-guest-services-icon-square.png?1701457157404"
     },
     {
       "about" : "Stroll this “open air” marketplace for piñatas, sombreros, ceramics, baskets, leather goods, Latin foodstuffs and more.",
@@ -31077,7 +31102,7 @@
       ],
       "searchTerms" : "Rose & Crown Pub Musician ~ rose & crown pub musician",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rose-crown/UK-4-1x1.jpg?2022-09-30T20:39:02+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/rose-crown-pub-music/"
     },
@@ -31110,7 +31135,7 @@
       "id" : "90002090;entityType=restaurant",
       "isActive" : true,
       "land" : "Sunset Boulevard",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-studios-backlot/WDW-HSBacklot-03-Angus-Bacon-Cheeseburger-16x9.jpg?2023-05-26T17:39:44+00:00",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rosies-all-american-cafe/rosies-all-america-cafe-16x9.jpg?2023-11-16T18:41:07+00:00",
       "location" : {
         "id" : "90002090;entityType=restaurant",
         "latitude" : 28.358821,
@@ -31129,7 +31154,7 @@
       "serviceStyles" : [
         "Quick Service"
       ],
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-studios-backlot/WDW-HSBacklot-03-Angus-Bacon-Cheeseburger-1x1.jpg?2023-05-26T17:39:44+00:00",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rosies-all-american-cafe/rosies-all-america-cafe-1x1.jpg?2023-11-16T18:41:07+00:00",
       "webLink" : "http://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/"
     },
     {
@@ -32331,7 +32356,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:20:00:0",
-      "endDate" : "2024-01-29",
+      "endDate" : "2024-02-12",
       "entertainmentType" : [
         "Streetmosphere"
       ],
@@ -32352,7 +32377,7 @@
       ],
       "searchTerms" : "Sergio ~ sergio",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/performers/image-2022-01-04-16-42-57-540-1x1.jpg?2022-01-10T15:54:07+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/sergio-italian-juggler/"
     },
@@ -32451,7 +32476,7 @@
       "park" : "Magic Kingdom",
       "searchTerms" : "The Seven Dwarfs in Storybook Circus at Mickey's Very Merry Christmas Party ~ seven dwarfs in storybook circus at mickeys very merry christmas party",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/meet-greet/1180610836-1x1.jpg?2023-09-22T17:27:36+00:00",
-      "startDate" : "2023-11-26",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet"
     },
     {
@@ -34069,7 +34094,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -34089,7 +34114,7 @@
       "park" : "Disney Springs",
       "searchTerms" : "Splitsville Luxury Lanes™ ~ splitsville luxury lanes™",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/downtown-disney/splitsville-lanes/splitsvile-00-sq.jpg?1660095274638",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/disney-springs/splitsville-entertainment/"
     },
@@ -34645,7 +34670,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:20:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Character Experiences"
       ],
@@ -34667,7 +34692,7 @@
       ],
       "searchTerms" : "Star Wars Launch Bay: Meet Chewbacca ~ star wars launch bay: meet chewbacca",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/character-experience/hollywood-studios/character-meet-chewbacca-star-wars-launch-bay/chewbacca-family-outstretched-arms-photopass-1x1.jpg?1660098950754",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Character Experience - Meet & Greet",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/hollywood-studios/character-meet-chewbacca-star-wars-launch-bay/"
     },
@@ -34931,7 +34956,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-10",
       "entertainmentType" : [
         "Live Music"
       ],
@@ -34949,7 +34974,7 @@
       "park" : "Disney Springs",
       "searchTerms" : "Stargazers Live Entertainment ~ stargazers live entertainment",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/Disney%20Assets/assets_dprd/Production/disney-world/entertainment/disney-springs/stargazers-entertainment/stargazers-bar-1x1.jpg?1660096106143",
-      "startDate" : "2023-11-24",
+      "startDate" : "2023-12-08",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/disney-springs/stargazers-entertainment/"
     },
@@ -35657,7 +35682,7 @@
       "searchTerms" : "Sunset Seasons Greetings ~ sunset seasons greetings",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/events-tours/hollywood-studios/sunset-seasons-greetings/tower-terror-holiday-1x1.jpg?1699629087198",
       "sponsorName" : "at Disney's Hollywood Studios",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -36151,7 +36176,7 @@
       ],
       "searchTerms" : "Tam Tam Drummers of Harambe ~ tam tam drummers of harambe",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/animal-kingdom/tam-tam-congo/tam-tam-congo-00-sq.jpg?1660094382351",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/animal-kingdom/tam-tam-congo/"
     },
@@ -38076,6 +38101,16 @@
         {
           "date" : "2023-11-21T00:10:56Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-04T16:51:16Z",
+          "descriptions" : [
+            "serviceStyles: Optional([\"A la Carte\", \"Family-style\"]) -> Optional([\"A la Carte\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "serviceStyles"
+          ]
         }
       ],
       "contentType" : "Dining",
@@ -38113,8 +38148,7 @@
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Trattoria al Forno ~ trattoria al forno",
       "serviceStyles" : [
-        "A la Carte",
-        "Family-style"
+        "A la Carte"
       ],
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/dining/boardwalk/trattoria-al-forno/Trattoria-al-Forno-couple-16x9.jpg?1700010910307",
       "tableService" : [
@@ -39808,7 +39842,7 @@
       ],
       "searchTerms" : "Viva Gaia Street Band! ~ viva gaia street band!",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/performers/Viva-Gaia-16x9.jpg?2022-02-07T18:09:39+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/animal-kingdom/viva-gaia-street-band/"
     },
@@ -39828,7 +39862,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:25:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -39846,7 +39880,7 @@
       "park" : "EPCOT",
       "searchTerms" : "Viva Mexico ~ viva mexico",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/parks-and-tickets/entertainment/epcot/viva-mexico/viva-mexico-band-1x1.jpg?1681760194147",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -39950,7 +39984,7 @@
       ],
       "searchTerms" : "Voices of Liberty – Dickens Carolers Through December 30, 2023! ~ voices of liberty – dickens carolers through december 30, 2023!",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/voices-of-liberty/2022-Dickens-Final-1x1.jpg?2022-11-22T22:42:38+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Concert",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/voices-of-liberty/"
     },
@@ -40658,7 +40692,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:30:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "id" : "412017440;entityType=Entertainment",
       "isActive" : true,
       "land" : "Echo Lake",
@@ -40672,7 +40706,7 @@
       "park" : "Hollywood Studios",
       "searchTerms" : "What’s This? Tim Burton’s The Nightmare Before Christmas Sing-Along at Disney Jollywood Nights ~ what’s this? tim burton’s the nightmare before christmas singalong at disney jollywood nights What’s This? Tim Burton’s THE NIGHTMARE BEFORE CHRISTMAS Sing-Along at Disney Jollywood Nights",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/jollywood-nights/experience/Whats-This-Logo-PRINT-LG-1x1.jpg?2023-10-24T20:05:28+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Stage Show",
       "webLink" : "https://disneyworld.disney.go.com/entertainment/hollywood-studios/tim-burtons-the-nightmare-before-christmas-sing-along/"
     },
@@ -41084,7 +41118,7 @@
       ],
       "searchTerms" : "Wonderful World of Animation ~ wonderful world of animation",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/entertainment/hollywood-studios/wonderful-world-of-animation/wonderful-world-of-animation-16x9_1.jpg?1660121593906",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Fireworks",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/hollywood-studios/wonderful-world-of-animation/"
     },
@@ -41606,7 +41640,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "01:30:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "entertainmentType" : [
         "Concerts",
         "Live Entertainment"
@@ -41626,7 +41660,7 @@
       "park" : "Disney's Port Orleans Resort - Riverside",
       "searchTerms" : "Yehaa Bob Jackson at River Roost Lounge ~ yehaa bob jackson at river roost lounge",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/resorts/port-orleans-resort-french-quarter/river-roost-lounge/yehaa-bob-jackson-at-river-roost-00-sq.jpg?1660125977383",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/port-orleans-resort-riverside/yehaa-bob-jackson-at-river-roost/"
     },
@@ -42033,7 +42067,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-03-03",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -42060,7 +42094,7 @@
       ],
       "searchTerms" : "Between the Morocco and France Pavilions – Hanukkah Storyteller ~ between the morocco and france pavilions – hanukkah storyteller",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/2022-Hannukah-2-1x1.jpg?2023-11-03T16:42:02+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -42079,7 +42113,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-03-03",
       "id" : "245275;entityType=Entertainment",
       "interests" : [
         "Holiday Entertainment"
@@ -42103,7 +42137,7 @@
       ],
       "searchTerms" : "Canada Pavilion – Canadian Holiday Voyageurs ~ canada pavilion – canadian holiday voyageurs",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/2022-Canadian-Holiday-Voyageurs-1x1.jpg?2022-12-12T18:45:34+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -42122,7 +42156,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-03-03",
       "id" : "245272;entityType=Entertainment",
       "interests" : [
         "Holiday Entertainment"
@@ -42146,7 +42180,7 @@
       ],
       "searchTerms" : "China Pavilion – Chinese Lion Dancer ~ china pavilion – chinese lion dancer",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/2022-China-Lion-Dancer-1x1.jpg?2023-11-03T16:42:02+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -42165,7 +42199,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-03-03",
       "id" : "245274;entityType=Entertainment",
       "interests" : [
         "Holiday Entertainment"
@@ -42189,7 +42223,7 @@
       ],
       "searchTerms" : "France Pavilion – Père Noël ~ france pavilion – père noël",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/1215ZP_2492MS_JRoh1-1x1.jpg?2023-11-03T16:42:02+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -42293,7 +42327,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-03-03",
       "id" : "245263;entityType=Entertainment",
       "interests" : [
         "Holiday Entertainment"
@@ -42317,7 +42351,7 @@
       ],
       "searchTerms" : "Italy Pavilion – La Befana ~ italy pavilion – la befana",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/2022-La-Befana-2-16x9.jpg?2023-11-03T16:42:02+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -42336,7 +42370,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-03-03",
       "id" : "245268;entityType=Entertainment",
       "interests" : [
         "Holiday Entertainment"
@@ -42360,7 +42394,7 @@
       ],
       "searchTerms" : "Japan Pavilion – Daruma Storyteller ~ japan pavilion – daruma storyteller",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/2022-Daruma-Vendor-3-1x1.jpg?2023-11-03T16:42:02+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -42372,7 +42406,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-03",
+      "endDate" : "2024-02-13",
       "id" : "3427049;entityType=Entertainment",
       "isActive" : true,
       "land" : "World Showcase",
@@ -42393,7 +42427,7 @@
       ],
       "searchTerms" : "JOYFUL! A Celebration of the Season ~ joyful! a celebration of the season",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/appearances/EC-FOTH-2022-Joyful-0776-1x1.jpg?2023-09-26T16:52:02+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -42538,7 +42572,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-03-03",
       "id" : "245264;entityType=Entertainment",
       "interests" : [
         "Holiday Entertainment"
@@ -42562,7 +42596,7 @@
       ],
       "searchTerms" : "Mexico Pavilion – Las Posadas Celebration ~ mexico pavilion – las posadas celebration",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/EC-FOTH-2022-Mexico-0237-FINAL-1x1.jpg?2022-12-05T18:22:34+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -42621,7 +42655,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-03-03",
       "id" : "19423795;entityType=Entertainment",
       "interests" : [
         "Holiday Entertainment"
@@ -42645,7 +42679,7 @@
       ],
       "searchTerms" : "Norway Pavilion – A Mischievous Magical Barn Santa ~ norway pavilion – a mischievous magical barn santa",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/1212ZT_4080MS_aRGB-1x1.jpg?2023-11-03T16:42:02+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -42664,7 +42698,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-03-03",
       "id" : "245271;entityType=Entertainment",
       "interests" : [
         "Holiday Entertainment"
@@ -42688,7 +42722,7 @@
       ],
       "searchTerms" : "The Odyssey Pavilion – Santa Greeting ~ odyssey pavilion – santa greeting",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/1217ZO_3646SD_xak-1x1.jpg?2023-09-15T21:41:45+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -42832,7 +42866,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-03-03",
       "id" : "245270;entityType=Entertainment",
       "interests" : [
         "Holiday Entertainment"
@@ -42856,7 +42890,7 @@
       ],
       "searchTerms" : "United Kingdom Pavilion – Father Christmas ~ united kingdom pavilion – father christmas",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-holidays/entertainment/1215ZP_7573MS_JRoh-1x1.jpg?2023-11-03T16:42:02+00:00",
-      "startDate" : "2023-11-23",
+      "startDate" : "2023-12-03",
       "subType" : "Atmosphere"
     },
     {
@@ -43169,6 +43203,132 @@
         "Slow Rides"
       ],
       "webLink" : "https://disneyworld.disney.go.com/attractions/epcot/glimmering-greenhouses/"
+    },
+    {
+      "about" : "Behold a nighttime fireworks spectacular that empowers you to believe in yourself… and in magic.",
+      "ages" : [
+        "All Ages"
+      ],
+      "changeLog" : [
+        {
+          "date" : "2023-12-04T16:51:15Z",
+          "message" : "Initial Add"
+        }
+      ],
+      "contentType" : "Entertainment",
+      "duration" : "00:15:00:0",
+      "endDate" : "2024-02-13",
+      "entertainmentType" : [
+        "Nighttime Spectaculars"
+      ],
+      "id" : "412040920;entityType=Entertainment",
+      "isActive" : true,
+      "land" : "Main Street, U.S.A.",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/cinderella-castle/0923ZP_0938KP_xak-16x9.jpg?2023-11-20T17:43:10+00:00",
+      "location" : {
+        "id" : "412040920;entityType=Entertainment",
+        "latitude" : 28.419507,
+        "longitude" : -81.581177
+      },
+      "name" : "Disney Enchantment at Disney After Hours at Magic Kingdom",
+      "park" : "Magic Kingdom",
+      "parkInterests" : [
+        "Experiences for Little Ones",
+        "Fireworks",
+        "Live Entertainment"
+      ],
+      "searchTerms" : "Disney Enchantment at Disney After Hours at Magic Kingdom ~ disney enchantment at disney after hours at magic kingdom orlando florida  wdw walt disney world walt disney Walt Disney World Walt Disney World Magical Celebration Disney Enchantment Enchantment Disney Music Fireworks Cinderella Castle Main Street U.S.A Magic Kingdom after hours fireworks after hours magic kingdom",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/cinderella-castle/0923ZP_0938KP_xak-1x1.jpg?2023-11-20T17:43:10+00:00",
+      "sponsorName" : "Presented by Pandora Jewelry",
+      "startDate" : "2023-12-03",
+      "subType" : "Nighttime Spectacular",
+      "webLink" : "https://disneyworld.disney.go.com/entertainment/magic-kingdom/enchantment-fireworks-disney-after-hours/"
+    },
+    {
+      "about" : "This family-friendly British pub features traditional favorites and waterfront dining.",
+      "annualPass" : "10%",
+      "changeLog" : [
+        {
+          "date" : "2023-12-04T16:51:16Z",
+          "message" : "Initial Add"
+        }
+      ],
+      "contentType" : "Dining",
+      "cuisine" : [
+        "British"
+      ],
+      "dining" : [
+        "Dinner",
+        "Lunch",
+        "walkupWaitList",
+        "EPCOT Area",
+        "Theme Park Dining",
+        "Table Service",
+        "a la Carte"
+      ],
+      "diningInterests" : [
+        "Table Service"
+      ],
+      "diningPlan" : [
+        "Disney Dining Plan – For stays beginning January 9, 2024"
+      ],
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
+      "id" : "90002084;entityType=restaurant",
+      "isActive" : true,
+      "land" : "World Showcase",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/epcot/rose-and-crown-pub-and-dining-room/rose-and-crown-pub-and-dining-room-gallery11.jpg?1682922492806",
+      "location" : {
+        "id" : "90002084;entityType=restaurant",
+        "latitude" : 28.370508,
+        "longitude" : -81.551684
+      },
+      "name" : "Rose & Crown Dining Room",
+      "park" : "EPCOT",
+      "priceRangeDining" : [
+        "$$ ($15 to $34.99 per adult)"
+      ],
+      "reservationOfferings" : [
+        "Dining Add-Ons Are Available"
+      ],
+      "resortArea" : "EPCOT Resort Area",
+      "searchTerms" : "Rose & Crown Dining Room ~ rose & crown dining room rose and crown restaurant rose & crown dinning british cuisine a la carte unique dining united kingdom pavilion epcot restaurants epcot dining",
+      "serviceStyles" : [
+        "A la Carte"
+      ],
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/gallery/dining/epcot/rose-and-crown-pub-and-dining-room/rose-and-crown-pub-and-dining-room-gallery11-sq.jpg?1682922492806",
+      "tableService" : [
+        "Casual Dining",
+        "Reservations Accepted"
+      ],
+      "webLink" : "http://disneyworld.disney.go.com/dining/epcot/rose-and-crown-dining-room/"
+    },
+    {
+      "changeLog" : [
+        {
+          "date" : "2023-12-04T16:51:16Z",
+          "message" : "Initial Add"
+        }
+      ],
+      "contentType" : "Entertainment",
+      "endDate" : "2023-12-24",
+      "id" : "18588096;entityType=Entertainment",
+      "isActive" : true,
+      "land" : "Liberty Square",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/holiday/entertainment/752059924_1218AR_2754GV-16x9.jpg?2022-03-10T19:23:58+00:00",
+      "location" : {
+        "id" : "18588096;entityType=Entertainment",
+        "latitude" : 28.4188138,
+        "longitude" : -81.5821776
+      },
+      "name" : "See Santa Near Ye Olde Christmas Shoppe",
+      "operationalStatus" : "openSeasonally",
+      "park" : "Magic Kingdom",
+      "searchTerms" : "See Santa Near Ye Olde Christmas Shoppe ~ see santa near ye olde christmas shoppe",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/holiday/entertainment/752059924_1218AR_2754GV-1x1.jpg?2022-03-10T19:23:58+00:00",
+      "startDate" : "2023-12-03",
+      "subType" : "Character Experience - Meet & Greet"
     }
   ],
   "entityTypes" : [
