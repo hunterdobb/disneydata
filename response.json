@@ -34674,6 +34674,16 @@
         {
           "date" : "2023-11-21T00:10:56Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-07T18:13:48Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"What\\'s New\"]) -> nil"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Attractions",
@@ -34697,10 +34707,6 @@
       },
       "name" : "Star Wars Launch Bay",
       "park" : "Hollywood Studios",
-      "parkInterests" : [
-        "Experiences for Little Ones",
-        "What's New"
-      ],
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Star Wars Launch Bay ~ star wars launch bay bb8",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/launch-bay/1209ZV_2948MS.JPG?2022-08-01T20:08:08+00:00",
