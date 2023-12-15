@@ -2302,7 +2302,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2023-12-31",
+      "endDate" : "2024-02-24",
       "id" : "19496225;entityType=Entertainment",
       "isActive" : true,
       "land" : "World Showcase",
@@ -7296,7 +7296,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:30:00:0",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-02-24",
       "id" : "411702927;entityType=Entertainment",
       "isActive" : true,
       "land" : "World Showcase",
@@ -12030,7 +12030,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "",
+      "endDate" : "2024-02-24",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -12052,7 +12052,7 @@
       ],
       "searchTerms" : "Entertainment at Canada Mill Stage ~ entertainment at canada mill stage",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/Bodhaktan-2023-MDX-Final-1x1.jpg?2023-03-10T19:25:05+00:00",
-      "startDate" : "",
+      "startDate" : "2023-12-31",
       "subType" : "Atmosphere",
       "webLink" : "http://disneyworld.disney.go.com/entertainment/epcot/canada-pavilion-entertainment/"
     },
@@ -12071,7 +12071,7 @@
         }
       ],
       "contentType" : "Entertainment",
-      "endDate" : "2023-12-31",
+      "endDate" : "2024-02-24",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -17995,7 +17995,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:10:00:0",
-      "endDate" : "2023-12-31",
+      "endDate" : "2024-02-24",
       "entertainmentType" : [
         "Live Entertainment",
         "Streetmosphere"
@@ -23565,7 +23565,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:25:00:0",
-      "endDate" : "2024-02-22",
+      "endDate" : "2024-02-24",
       "id" : "19277873;entityType=Entertainment",
       "isActive" : true,
       "land" : "World Showcase",
@@ -24134,7 +24134,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2024-02-21",
+      "endDate" : "2024-02-24",
       "entertainmentType" : [
         "Stage Shows",
         "Live Entertainment"
@@ -29164,7 +29164,7 @@
       "id" : "19062768;entityType=Attraction",
       "isActive" : true,
       "land" : "Tomorrowland",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-standard-assets/parks/playapp1/pdp-trivia-wk79-happy-birthday-walt-disney_1920.png?2022-11-28T14:40:39+00:00",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-standard-assets/parks/playapp1/pdp-trivia-wk81-full-of-yuletide-cheer_1920.png?2022-11-28T14:40:38+00:00",
       "location" : {
         "id" : "19062768;entityType=Attraction",
         "latitude" : 28.41571,
@@ -29174,7 +29174,7 @@
       "park" : "Magic Kingdom",
       "resortArea" : "Magic Kingdom Resort Area",
       "searchTerms" : "Play Disney Parks ~ play disney parks",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/dlr/help/guest-services/play-app/play-guest-services-icon-square.png?1701457157404"
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/dlr/help/guest-services/play-app/play-guest-services-icon-square.png?1702667196394"
     },
     {
       "about" : "Stroll this “open air” marketplace for piñatas, sombreros, ceramics, baskets, leather goods, Latin foodstuffs and more.",
@@ -31324,7 +31324,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:20:00:0",
-      "endDate" : "2023-12-31",
+      "endDate" : "2024-02-24",
       "entertainmentType" : [
         "Live Entertainment"
       ],
@@ -32601,7 +32601,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:20:00:0",
-      "endDate" : "2024-02-19",
+      "endDate" : "2024-02-24",
       "entertainmentType" : [
         "Streetmosphere"
       ],
@@ -40289,7 +40289,7 @@
       ],
       "contentType" : "Entertainment",
       "duration" : "00:15:00:0",
-      "endDate" : "2023-12-31",
+      "endDate" : "2024-02-24",
       "entertainmentType" : [
         "Concerts",
         "Live Entertainment"
@@ -42418,6 +42418,16 @@
         {
           "date" : "2023-11-21T15:32:00Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-15T23:08:03Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"What\\'s New\", \"Seasonal Offerings\"]) -> Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"Seasonal Offerings\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -42443,7 +42453,6 @@
       "parkInterests" : [
         "Experiences for Little Ones",
         "Live Entertainment",
-        "What's New",
         "Seasonal Offerings"
       ],
       "searchTerms" : "Between the Morocco and France Pavilions – Hanukkah Storyteller ~ between the morocco and france pavilions – hanukkah storyteller",
@@ -42464,6 +42473,16 @@
         {
           "date" : "2023-11-21T15:32:00Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-15T23:08:03Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"What\\'s New\", \"Seasonal Offerings\"]) -> Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"Seasonal Offerings\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -42486,7 +42505,6 @@
       "parkInterests" : [
         "Experiences for Little Ones",
         "Live Entertainment",
-        "What's New",
         "Seasonal Offerings"
       ],
       "searchTerms" : "Canada Pavilion – Canadian Holiday Voyageurs ~ canada pavilion – canadian holiday voyageurs",
@@ -42550,6 +42568,16 @@
         {
           "date" : "2023-11-21T15:32:00Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-15T23:08:03Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"What\\'s New\", \"Seasonal Offerings\"]) -> Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"Seasonal Offerings\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -42572,7 +42600,6 @@
       "parkInterests" : [
         "Experiences for Little Ones",
         "Live Entertainment",
-        "What's New",
         "Seasonal Offerings"
       ],
       "searchTerms" : "France Pavilion – Père Noël ~ france pavilion – père noël",
@@ -42678,6 +42705,16 @@
         {
           "date" : "2023-11-21T15:32:01Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-15T23:08:04Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"What\\'s New\", \"Seasonal Offerings\"]) -> Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"Seasonal Offerings\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -42700,7 +42737,6 @@
       "parkInterests" : [
         "Experiences for Little Ones",
         "Live Entertainment",
-        "What's New",
         "Seasonal Offerings"
       ],
       "searchTerms" : "Italy Pavilion – La Befana ~ italy pavilion – la befana",
@@ -42721,6 +42757,16 @@
         {
           "date" : "2023-11-21T15:32:01Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-15T23:08:04Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"What\\'s New\", \"Seasonal Offerings\"]) -> Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"Seasonal Offerings\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -42743,7 +42789,6 @@
       "parkInterests" : [
         "Experiences for Little Ones",
         "Live Entertainment",
-        "What's New",
         "Seasonal Offerings"
       ],
       "searchTerms" : "Japan Pavilion – Daruma Storyteller ~ japan pavilion – daruma storyteller",
@@ -42756,6 +42801,16 @@
         {
           "date" : "2023-11-21T15:32:01Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-15T23:08:04Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"What\\'s New\", \"Seasonal Offerings\"]) -> Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"Seasonal Offerings\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -42776,7 +42831,6 @@
       "parkInterests" : [
         "Experiences for Little Ones",
         "Live Entertainment",
-        "What's New",
         "Seasonal Offerings"
       ],
       "searchTerms" : "JOYFUL! A Celebration of the Season ~ joyful! a celebration of the season",
@@ -42923,6 +42977,16 @@
         {
           "date" : "2023-11-21T15:32:01Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-15T23:08:04Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"What\\'s New\", \"Seasonal Offerings\"]) -> Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"Seasonal Offerings\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -42945,7 +43009,6 @@
       "parkInterests" : [
         "Experiences for Little Ones",
         "Live Entertainment",
-        "What's New",
         "Seasonal Offerings"
       ],
       "searchTerms" : "Mexico Pavilion – Las Posadas Celebration ~ mexico pavilion – las posadas celebration",
@@ -43006,6 +43069,16 @@
         {
           "date" : "2023-11-21T15:32:01Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-15T23:08:04Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"What\\'s New\", \"Seasonal Offerings\"]) -> Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"Seasonal Offerings\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -43028,7 +43101,6 @@
       "parkInterests" : [
         "Experiences for Little Ones",
         "Live Entertainment",
-        "What's New",
         "Seasonal Offerings"
       ],
       "searchTerms" : "Norway Pavilion – A Mischievous Magical Barn Santa ~ norway pavilion – a mischievous magical barn santa",
@@ -43049,6 +43121,16 @@
         {
           "date" : "2023-11-21T15:32:01Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-15T23:08:04Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"What\\'s New\", \"Seasonal Offerings\"]) -> Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"Seasonal Offerings\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -43071,7 +43153,6 @@
       "parkInterests" : [
         "Experiences for Little Ones",
         "Live Entertainment",
-        "What's New",
         "Seasonal Offerings"
       ],
       "searchTerms" : "The Odyssey Pavilion – Santa Greeting ~ odyssey pavilion – santa greeting",
@@ -43217,6 +43298,16 @@
         {
           "date" : "2023-11-21T15:32:01Z",
           "message" : "Initial Add"
+        },
+        {
+          "date" : "2023-12-15T23:08:04Z",
+          "descriptions" : [
+            "parkInterests: Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"What\\'s New\", \"Seasonal Offerings\"]) -> Optional([\"Experiences for Little Ones\", \"Live Entertainment\", \"Seasonal Offerings\"])"
+          ],
+          "message" : "Updated",
+          "propertiesChanged" : [
+            "parkInterests"
+          ]
         }
       ],
       "contentType" : "Entertainment",
@@ -43239,7 +43330,6 @@
       "parkInterests" : [
         "Experiences for Little Ones",
         "Live Entertainment",
-        "What's New",
         "Seasonal Offerings"
       ],
       "searchTerms" : "United Kingdom Pavilion – Father Christmas ~ united kingdom pavilion – father christmas",
