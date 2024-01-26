@@ -1506,6 +1506,13 @@
       {
         "date" : "2024-01-19T20:18:46Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-01-26T19:38:06Z",
+        "type" : "Updated"
       }
     ]
   },
