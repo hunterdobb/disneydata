@@ -2786,6 +2786,14 @@
       {
         "date" : "2024-01-19T20:18:46Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "merchandise := Gifts & Housewares, Mickey Ears, Pins, Vinylmation --> Gifts & Housewares, Pins",
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-01-30T14:17:26Z",
+        "type" : "Updated"
       }
     ]
   },
