@@ -2066,6 +2066,13 @@
       {
         "date" : "2024-01-19T20:18:46Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "land := World Celebration --> Empty"
+        ],
+        "date" : "2024-02-01T19:52:59Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2793,6 +2800,13 @@
           "discounts := Empty --> Disney® Visa® Cardmember Perks"
         ],
         "date" : "2024-01-30T14:17:26Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "land := Marketplace --> Empty"
+        ],
+        "date" : "2024-02-01T19:52:59Z",
         "type" : "Updated"
       }
     ]
@@ -7814,6 +7828,13 @@
       {
         "date" : "2024-01-19T20:18:46Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "land := Adventureland --> Empty"
+        ],
+        "date" : "2024-02-01T19:52:59Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9343,6 +9364,13 @@
       {
         "date" : "2024-01-19T20:18:46Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "land := Tomorrowland --> Empty"
+        ],
+        "date" : "2024-02-01T19:52:59Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9628,6 +9656,14 @@
       {
         "date" : "2024-01-19T20:18:46Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "discountAnnualPass := Empty --> 10%",
+          "discountInfo := Empty --> Discount applies to food and beverages (including alcoholic beverages) for the Passholder and one Guest."
+        ],
+        "date" : "2024-02-01T19:52:59Z",
+        "type" : "Updated"
       }
     ]
   },
