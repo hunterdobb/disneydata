@@ -2795,6 +2795,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -2803,7 +2806,7 @@
       "id" : "90001272;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/beach-club-resort/beaches-and-cream-soda-shop/beaches-and-cream-soda-shop-02.jpg?1700004753332",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.371298,
         "longitude" : -81.557352
@@ -4509,6 +4512,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -4517,7 +4523,7 @@
       "id" : "90001347;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/resort-dining/beach-club-resort/cape-may-cafe/cape-may-cafe-gallery03.jpg?1701729788685",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.371071,
         "longitude" : -81.556771
@@ -7231,6 +7237,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -7240,7 +7249,7 @@
       "isActive" : true,
       "land" : "Main Street, U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/magic-kingdom/the-crystal-palace/crystal-palace-gallery09.jpg?1704798958688",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4181214892,
         "longitude" : -81.5818970259
@@ -7648,6 +7657,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -7657,7 +7669,7 @@
       "isActive" : true,
       "land" : "Liberty Square",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/diamond-horseshoe/0303ZV_0066MW-16x9.jpg?2022-03-10T19:15:27+00:00",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4189329813,
         "longitude" : -81.5829262845
@@ -16103,11 +16115,14 @@
       ],
       "discountAnnualPass" : "20%",
       "discountInfo" : "<p>Discount applies to the regular price of food and nonalcoholic beverages at all Joffrey's Coffee & Tea Company locations throughout Walt Disney World Resort. <a href=\"https://joffreys.com/disney-parks-resorts-coffee/\">View locations</a> where discount is applicable. For online purchases, use code PASSHOLDER24 to receive 20% off with <a href=\"https://joffreys.com/\">Joffrey's Coffee & Tea Company</a>.</p>",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "18107545;entityType=restaurant",
       "isActive" : true,
       "land" : "The Landing",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/joffreys/JOH-Disney-Springs-Store-16x9.jpg?1699629047496",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.371569,
         "longitude" : -81.51782
@@ -16458,11 +16473,14 @@
       ],
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90001780;entityType=restaurant",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/joffreys/JOH-smoothies-16x9.jpg?1699629043847",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.371614,
         "longitude" : -81.515435
@@ -19153,6 +19171,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -19162,7 +19183,7 @@
       "isActive" : true,
       "land" : "Liberty Square",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/liberty-tree-tavern/liberty-tree-tavern-00.jpg?1704798644409",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4191196055,
         "longitude" : -81.5826159743
@@ -20275,6 +20296,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -20284,7 +20308,7 @@
       "isActive" : true,
       "land" : "Grand Avenue",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/mama-melroses-ristorante-italiano/mama-melrose-ristorante-italiano-00.jpg?1704795973879",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.354532,
         "longitude" : -81.559012
@@ -22769,10 +22793,13 @@
       "cuisine" : [
         "American"
       ],
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90001307;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/joffreys-coffee-and-tea-company/JOF-Blizzard-Beach-Lottawatta-Lodge-2-16x9.jpg?1700010288219",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.351516,
         "longitude" : -81.573604
@@ -25581,6 +25608,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -25590,7 +25620,7 @@
       "isActive" : true,
       "land" : "Main Street, U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/plaza-restaurant/plaza-restaurant-00.jpg?1704798770470",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4180247703,
         "longitude" : -81.5809394969
@@ -26193,6 +26223,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity) only during lunch hours from 11:00 AM to 3:00 PM, Monday to Friday, for any reservation slot. Special events and Saturday through Sunday dining excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Reservations Accepted",
         "Reservations Strongly Recommended"
@@ -26205,7 +26238,7 @@
       "isActive" : true,
       "land" : "The Landing",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/disney-springs/raglan-road-irish-pub-and-restaurant/drink-time-friends-16x9.jpg?1699628924598",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.37108,
         "longitude" : -81.517761
@@ -28130,6 +28163,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -28139,7 +28175,7 @@
       "isActive" : true,
       "land" : "Commissary Lane",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/hollywood-studios/sci-fi-dine-in-theater/sci-fi-dine-in-theater-gallery02.jpg?1704796215924",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3559,
         "longitude" : -81.559495
@@ -29809,6 +29845,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Reservations Accepted",
         "Walk-up Wait List"
@@ -29816,8 +29855,8 @@
       "id" : "17720675;entityType=restaurant",
       "isActive" : true,
       "land" : "World Showcase",
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/epcot/spice-road-table/WDW-Epcot-SpiceRoadTable-HummusFries-16x9.jpg?1704797855833",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/epcot/spice-road-table/WDW-Epcot-SpiceRoadTable-HummusFries-16x9.jpg?1706287570624",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.368468,
         "longitude" : -81.551645
@@ -29832,7 +29871,7 @@
       "serviceStyle" : [
         "à la Carte"
       ],
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/dining/epcot/spice-road-table/WDW-Epcot-SpiceRoadTable-HummusFries-1x1.jpg?1704797855833",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/dining/epcot/spice-road-table/WDW-Epcot-SpiceRoadTable-HummusFries-1x1.jpg?1706287570624",
       "sortableName" : "spice road table",
       "subLand" : "Morocco",
       "tableService" : [
@@ -30866,6 +30905,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -30874,7 +30916,7 @@
       "id" : "19631278;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-contemporary-resort/WDW_Contemporary_Steakhouse71_PorkChop_Sauce_0816ZP_0385MS-16x9.jpg?2022-03-10T19:37:24+00:00",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4151260459,
         "longitude" : -81.5743280819
@@ -32495,6 +32537,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Walk-up Wait List"
       ],
@@ -32504,7 +32549,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/coronado-springs-resort/three-bridges/three-bridges-exterior-16x9.jpg?1700010783183",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.364134,
         "longitude" : -81.573972
@@ -33089,6 +33134,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -33098,7 +33146,7 @@
       "isActive" : true,
       "land" : "Main Street, U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/tonys-town-square/tonys-town-square-restaurant-00.jpg?1704799003802",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4169323426,
         "longitude" : -81.5807276023
@@ -33507,13 +33555,16 @@
         "Disney Dining Plan",
         "Disney Quick-Service Dining Plan"
       ],
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Mobile Orders"
       ],
       "id" : "18039048;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/p-js-southern-takeout/WDW_FortWilderness_PJs_AssortedPJsLunchDinnerOfferings1_FULL_DH-16x9.jpg?2022-03-23T20:51:44+00:00",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.411751,
         "longitude" : -81.561697
@@ -36358,6 +36409,9 @@
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Dining Add-Ons",
         "Reservations Accepted",
@@ -36366,7 +36420,7 @@
       "id" : "90002412;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/yacht-club-resort/yachtsman-steakhouse/yachtsman-steakhouse-00.jpg?1700011042454",
-      "lastChangeDate" : "2024-01-19T20:18:46Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.371031,
         "longitude" : -81.558151
@@ -36867,7 +36921,7 @@
       "webLink" : "http://disneyworld.disney.go.com/shops/animal-kingdom/zuris-sweet-shop/"
     }
   ],
-  "lastUpdated" : "2024-02-01T20:03:49Z",
+  "lastUpdated" : "2024-02-02T18:20:37Z",
   "parks" : [
     {
       "changeLog" : [
@@ -36877,7 +36931,7 @@
       "id" : "80010392;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/campsites-at-fort-wilderness/campsites-at-fort-wilderness-resort-00.jpg?1704807569931",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3956842977,
         "longitude" : -81.553762014
@@ -36898,7 +36952,7 @@
       "id" : "10460;entityType=Entertainment-Venue",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/downtown-disney/downtown-disney-09.jpg?1696869513789",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.369355,
         "longitude" : -81.516818
@@ -36918,8 +36972,8 @@
       "contentType" : "Resort",
       "id" : "80010402;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-movies/all-star-movies-resort-00.jpg?1704807818300",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-movies/all-star-movies-resort-00.jpg?1706623214303",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3359770882,
         "longitude" : -81.572010423
@@ -36927,7 +36981,7 @@
       "name" : "Disney's All-Star Movies Resort",
       "resortArea" : "Disney's Animal Kingdom Resort Area",
       "searchTerms" : "Disney's All-Star Movies Resort → disneys allstar movies resort movies hotel",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/all-star-movies/all-star-movies-resort-00-sq.jpg?1704807818300",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/all-star-movies/all-star-movies-resort-00-sq.jpg?1706623214303",
       "sortableName" : "disneys allstar movies resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/all-star-movies-resort/"
     },
@@ -36939,7 +36993,7 @@
       "id" : "80010400;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-music/all-star-music-resort-00.jpg?1704807890353",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3397862116,
         "longitude" : -81.5726712621
@@ -36959,7 +37013,7 @@
       "id" : "80010401;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-sports/all-star-sports-resort-00.jpg?1704807800150",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3438277228,
         "longitude" : -81.5752542294
@@ -36979,7 +37033,7 @@
       "id" : "80010395;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/animal-kingdom/animal-kingdom-lodge-00.jpg?1704807785616",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.352330447,
         "longitude" : -81.6035840465
@@ -36999,7 +37053,7 @@
       "id" : "80007823;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/destinations/animal-kingdom/mountain-16x9.jpg?1698179123031",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3553842507,
         "longitude" : -81.5900898529
@@ -37021,7 +37075,7 @@
       "id" : "273239;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/animal-kingdom-villas-kidani/kidani-villiage-firepit-16x9.jpg?1704807763802",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3542064076,
         "longitude" : -81.6056428242
@@ -37041,7 +37095,7 @@
       "id" : "80010404;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/art-of-animation/art-of-animation-00.jpg?1706295185820",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3504267174,
         "longitude" : -81.5486088004
@@ -37061,7 +37115,7 @@
       "id" : "80010389;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/beach-club/beach-club-resort-00.jpg?1706298351951",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3712891641,
         "longitude" : -81.5563996411
@@ -37081,7 +37135,7 @@
       "id" : "80007834;entityType=water-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/blizzard-beach/frozen-summer-games-blizzard-beach-concluded-girl-blizzard-beach-16x9.jpg?1699892449751",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3525184499,
         "longitude" : -81.5731637729
@@ -37102,7 +37156,7 @@
       "id" : "80008259;entityType=Entertainment-Venue",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/boardwalk/boardwalk-00.jpg?1665038589541",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3670764086,
         "longitude" : -81.5561679555
@@ -37123,7 +37177,7 @@
       "id" : "80010386;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/boardwalk-inn/board-walk-inn-00.jpg?1706297705586",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3664226494,
         "longitude" : -81.5558658815
@@ -37143,7 +37197,7 @@
       "id" : "80010391;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/boardwalk-villas/board-walk-villas-00.jpg?1706298018662",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3664226494,
         "longitude" : -81.5558658815
@@ -37163,7 +37217,7 @@
       "id" : "80010399;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/caribbean-beach-resort/caribbean-beach-resort-porte-cochere-16x9.jpg?1706296049768",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.362584,
         "longitude" : -81.541778
@@ -37183,7 +37237,7 @@
       "id" : "80010385;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/contemporary/contemporary-resort-00.jpg?1704826979020",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4150447218,
         "longitude" : -81.5748066259
@@ -37203,7 +37257,7 @@
       "id" : "80010396;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/coronado-springs-resort/coronado-tower-5x2.jpg?1704827596359",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.363254,
         "longitude" : -81.571314
@@ -37223,7 +37277,7 @@
       "id" : "80010384;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/grand-floridian/grand-floridian-resort-and-spa-00.jpg?1704827856368",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4109434056,
         "longitude" : -81.5878207041
@@ -37243,7 +37297,7 @@
       "id" : "80007998;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/destinations/hollywood-studios/mickey-minnie-runaway-railroad-underwater-16x9.jpg?1705424205637",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3584111691,
         "longitude" : -81.558689232
@@ -37265,7 +37319,7 @@
       "id" : "80010387;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/old-key-west-resort/old-key-west-resort-dock-16x9.jpg?1704808366883",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3753790351,
         "longitude" : -81.5334281875
@@ -37285,7 +37339,7 @@
       "id" : "80010388;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/polynesian/polynesian-resort-00.jpg?1706724426854",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4052682999,
         "longitude" : -81.5851331306
@@ -37305,7 +37359,7 @@
       "id" : "80010403;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/pop-century/pop-century-resort-00.jpg?1706296190740",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3504196359,
         "longitude" : -81.5429245485
@@ -37325,7 +37379,7 @@
       "id" : "80010398;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sassagoula-floatworks-and-foot-factory-entrance-door-display-16x9-16x9.jpg?2022-03-10T19:44:57+00:00",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3802027131,
         "longitude" : -81.5367997242
@@ -37345,7 +37399,7 @@
       "id" : "80010397;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/port-orleans-resort-riverside/port-orleans-resort-riverside-00.jpg?1704808277770",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3860667583,
         "longitude" : -81.5367138935
@@ -37365,7 +37419,7 @@
       "id" : "18995875;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/riviera-resort/overview/riviera-enterance-16x9.jpg?1706297358754",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.366292,
         "longitude" : -81.541915
@@ -37385,7 +37439,7 @@
       "id" : "80010383;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/saratoga-springs-resort-and-spa/saratoga-springs-water-island-16x9.jpg?1704808208348",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3764433669,
         "longitude" : -81.5229471303
@@ -37405,7 +37459,7 @@
       "id" : "80007981;entityType=water-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/typhoon-lagoon/typhoon-lagoon-16x9.jpg?1699892360289",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3650541008,
         "longitude" : -81.5278921081
@@ -37426,7 +37480,7 @@
       "id" : "80010394;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/wilderness-lodge/wilderness-lodge-resort-00.jpg?1704827882210",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4090206747,
         "longitude" : -81.5731570674
@@ -37446,7 +37500,7 @@
       "id" : "80010390;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/yacht-club-resort/yacht-club-resort-00.jpg?1706298385654",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3707298331,
         "longitude" : -81.5586982942
@@ -37466,7 +37520,7 @@
       "id" : "80007838;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/destinations/epcot/epcot-monorail-16x9.jpg?1627073108257",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3762301397,
         "longitude" : -81.5494047655
@@ -37488,7 +37542,7 @@
       "id" : "80008033;entityType=Entertainment-Venue",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/espn-wide-world-of-sports-complex/espn-wide-world-of-sports-00.jpg?1699631738101",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3378383389,
         "longitude" : -81.5560553027
@@ -37509,7 +37563,7 @@
       "id" : "80007944;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/cinderella-castle/0724ZQ_0195MS_JLM.jpg?2023-03-06T17:58:34+00:00",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.4160036778,
         "longitude" : -81.5811902834
@@ -37531,7 +37585,7 @@
       "id" : "80069788;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/dolphin/dolphin-resort-00.jpg?1705448920572",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3674799907,
         "longitude" : -81.561050917
@@ -37551,7 +37605,7 @@
       "id" : "80069789;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/swan-resort/swan-resort-00.jpg?1705448966590",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.3655210689,
         "longitude" : -81.5585940136
@@ -37571,7 +37625,7 @@
       "id" : "19621562;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/swan-and-dolphin/A176-Exterior-2-16x9.jpg?2022-02-18T19:49:36+00:00",
-      "lastChangeDate" : "2024-02-01T20:03:49Z",
+      "lastChangeDate" : "2024-02-02T18:20:37Z",
       "location" : {
         "latitude" : 28.36461,
         "longitude" : -81.56099
