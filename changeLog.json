@@ -1492,6 +1492,13 @@
         ],
         "date" : "2024-02-02T21:14:53Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-02-04T00:27:27Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9225,6 +9232,15 @@
         ],
         "date" : "2024-02-02T21:14:53Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "about := The world-famous chocolatier delivers decadent sundaes smothered with hot, house-made fudge as well as chocolate treats and drinks. Strike It Rich with specialty San Francisco-themed sundaes, shakes and floats. Coffee is also available. --> Celebrate a noteworthy occasion—or any fun Disney day—with specialty sundaes or premium chocolate-inspired gifts.",
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/disney-springs/ghirardelli-soda-fountain/ghirardelli-soda-fountain-magical-sundae-16x9.jpg?1699632059476 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/ghirardelli-soda-fountain-and-chocolate-shop/20150218_GHIR_1023-16x9.jpg?2024-01-11T19:42:00+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/dining/disney-springs/ghirardelli-soda-fountain/ghirardelli-soda-fountain-magical-sundae-1x1.jpg?1699632059476 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/ghirardelli-soda-fountain-and-chocolate-shop/20150218_GHIR_1023-1x1.jpg?2024-01-11T19:42:00+00:00"
+        ],
+        "date" : "2024-02-04T00:27:27Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -12991,6 +13007,13 @@
           "parkShortName := Le Petit Café --> Riviera Resort"
         ],
         "date" : "2024-02-02T21:14:53Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-02-04T00:27:27Z",
         "type" : "Updated"
       }
     ]
@@ -18044,6 +18067,13 @@
         ],
         "date" : "2024-02-02T21:14:53Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-02-04T00:27:27Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -21662,6 +21692,14 @@
         ],
         "date" : "2024-02-02T21:14:53Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/summer-house/Costa-Mesa_MP_8593_HiRes-16x9.jpg?2023-03-01T20:34:49+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/summer-house-on-the-lake/2023-12-14_SHOL_YES_W-47-16x9.jpg?2023-12-28T19:13:42+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/summer-house/Costa-Mesa_MP_8593_HiRes-1x1.jpg?2023-03-01T20:34:49+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/summer-house-on-the-lake/2023-12-14_SHOL_YES_W-47-1x1.jpg?2023-12-28T19:13:42+00:00"
+        ],
+        "date" : "2024-02-04T00:27:27Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -22889,6 +22927,13 @@
           "parkShortName := Topolino's Terrace – Flavors of the Riviera --> Riviera Resort"
         ],
         "date" : "2024-02-02T21:14:53Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available.<br><p>Topolino's Terrace – Flavors of the Riviera offers 2 distinct dining experiences:</p><ul><li style=\"color:#253B56;\">Breakfast à la Art with Mickey &amp; Friends</li><li style=\"color:#253B56;\">A Signature Dining experience at dinner, featuring elevated French- and Italian-inspired cuisine (dress code required; Characters do not appear at dinner)</li></ul><a href=\"https://disneyworld.disney.go.com/experience-updates/dine/\">Review important updates to dining experiences at Walt Disney World Resort</a>. --> Topolino's Terrace – Flavors of the Riviera offers 2 distinct dining experiences:<ul><li style=\"color:#253B56;\">Breakfast à la Art with Mickey &amp; Friends</li><li style=\"color:#253B56;\">A Signature Dining experience at dinner, featuring elevated French- and Italian-inspired cuisine (dress code required; Characters do not appear at dinner)</li></ul><a href=\"https://disneyworld.disney.go.com/experience-updates/dine/\">Review important updates to dining experiences at Walt Disney World Resort</a>."
+        ],
+        "date" : "2024-02-04T00:27:27Z",
         "type" : "Updated"
       }
     ]
