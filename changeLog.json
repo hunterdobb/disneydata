@@ -1467,6 +1467,13 @@
         ],
         "date" : "2024-02-02T21:14:53Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "serviceStyle := à la Carte --> Empty"
+        ],
+        "date" : "2024-02-06T15:34:51Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1623,6 +1630,14 @@
           "parkShortName := Basin --> Disney Springs"
         ],
         "date" : "2024-02-02T21:14:53Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "Entrance.latitude := 28.373196287024534 --> 28.371499",
+          "Entrance.longitude := -81.51545681455497 --> -81.514586"
+        ],
+        "date" : "2024-02-06T15:34:51Z",
         "type" : "Updated"
       }
     ]
@@ -7194,6 +7209,20 @@
         ],
         "date" : "2024-02-02T21:14:53Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "land := Fantasyland --> Empty"
+        ],
+        "date" : "2024-02-06T15:34:51Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "land := Empty --> Fantasyland"
+        ],
+        "date" : "2024-02-06T15:37:55Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8174,6 +8203,20 @@
           "parkShortName := First Order Cargo --> Hollywood Studios"
         ],
         "date" : "2024-02-02T21:14:53Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "land := Star Wars: Galaxy's Edge --> Empty"
+        ],
+        "date" : "2024-02-06T15:34:51Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "land := Empty --> Star Wars: Galaxy's Edge"
+        ],
+        "date" : "2024-02-06T15:37:55Z",
         "type" : "Updated"
       }
     ]
@@ -14410,6 +14453,14 @@
           "parkShortName := Mardi Grogs --> Port Orleans Resort - French Quarter"
         ],
         "date" : "2024-02-02T21:14:53Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "Entrance.latitude := 28.3808406723 --> 28.38133",
+          "Entrance.longitude := -81.5360373259 --> -81.53571"
+        ],
+        "date" : "2024-02-06T15:34:51Z",
         "type" : "Updated"
       }
     ]
@@ -22424,6 +22475,20 @@
           "parkShortName := Test Track SIMporium --> EPCOT"
         ],
         "date" : "2024-02-02T21:14:53Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "land := World Discovery --> Empty"
+        ],
+        "date" : "2024-02-06T15:34:51Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "land := Empty --> World Discovery"
+        ],
+        "date" : "2024-02-06T15:37:55Z",
         "type" : "Updated"
       }
     ]
