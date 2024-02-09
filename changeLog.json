@@ -2,7 +2,7 @@
   {
     "entityContentType" : "Dining",
     "entityId" : "90001212;entityType=restaurant",
-    "entityName" : "1900 Park Fare - Temporarily Unavailable",
+    "entityName" : "1900 Park Fare – Reopening April 10, 2024",
     "log" : [
       {
         "date" : "2024-01-19T20:18:46Z",
@@ -48,6 +48,18 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/grand-floridian-resort-and-spa/1900-park-fare/1900-park-fare-07.jpg?1700004272720 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/grand-floridian-resort-and-spa/1900-park-fare/1900-park-fare-07.jpg?1700004272720"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "name := 1900 Park Fare - Temporarily Unavailable --> 1900 Park Fare – Reopening April 10, 2024",
+          "sortableName := 1900 park fare temporarily unavailable --> 1900 park fare – reopening april 10, 2024",
+          "searchTerms := 1900 Park Fare - Temporarily Unavailable | 1900 park fare temporarily unavailable --> 1900 Park Fare – Reopening April 10, 2024 | 1900 park fare – reopening april 10, 2024",
+          "tableService := Character Dining --> ",
+          "cuisine := American --> Empty",
+          "discountInfo := Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded. --> Empty"
+        ],
+        "date" : "2024-02-08T17:36:21Z",
         "type" : "Updated"
       }
     ]
