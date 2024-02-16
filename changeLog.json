@@ -61,6 +61,13 @@
         ],
         "date" : "2024-02-08T17:36:21Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discountAnnualPass := 10% --> Empty"
+        ],
+        "date" : "2024-02-16T16:52:58Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -14955,6 +14962,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "land := Main Street, U.S.A. --> Empty"
+        ],
+        "date" : "2024-02-16T16:52:58Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -24682,7 +24696,7 @@
   {
     "entityContentType" : "Shops",
     "entityId" : "18463682;entityType=MerchandiseFacility",
-    "entityName" : "Just Plumerias",
+    "entityName" : "Just Plumerias – Now Closed",
     "log" : [
       {
         "date" : "2024-01-19T20:18:46Z",
@@ -24728,6 +24742,15 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/Just-Plumerias-Kiosk-16x9.jpg?2021-11-09T23:15:56+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/Just-Plumerias-Kiosk-16x9.jpg?2021-11-09T23:15:56+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "name := Just Plumerias --> Just Plumerias – Now Closed",
+          "sortableName := just plumerias --> just plumerias – now closed",
+          "searchTerms := Just Plumerias | just plumerias --> Just Plumerias – Now Closed | just plumerias – now closed"
+        ],
+        "date" : "2024-02-15T15:23:08Z",
         "type" : "Updated"
       }
     ]
@@ -27346,6 +27369,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/typhoon-lagoon/leaning-palms/leaning-palms-00.jpg?1699630709195 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/typhoon-lagoon/leaning-palms/leaning-palms-00.jpg?1699630709195"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-16T16:52:58Z",
         "type" : "Updated"
       }
     ]
@@ -43163,6 +43193,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "land := World Discovery --> Empty"
+        ],
+        "date" : "2024-02-16T18:05:47Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -45198,6 +45235,10 @@
         ],
         "date" : "2024-02-02T21:14:53Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-16T16:52:58Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -49782,6 +49823,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-16T16:52:58Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -53301,6 +53349,17 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      }
+    ]
+  },
+  {
+    "entityContentType" : "Dining",
+    "entityId" : "412065023;entityType=restaurant",
+    "entityName" : "EPCOT International Flower and Garden Festival – Allergy-Friendly Options at Outdoor Kitchens",
+    "log" : [
+      {
+        "date" : "2024-02-16T17:59:13Z",
+        "type" : "Initial Add"
       }
     ]
   }
