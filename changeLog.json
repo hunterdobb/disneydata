@@ -128,6 +128,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -286,6 +290,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/hollywood-studios/abc-commissary/abc-commissary-buffalo-chicken-grilled-cheese-16x9.jpg?1704795452374 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/hollywood-studios/abc-commissary/abc-commissary-buffalo-chicken-grilled-cheese-16x9.jpg?1704795452374"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
         "type" : "Updated"
       }
     ]
@@ -1619,6 +1630,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2414,6 +2432,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -3003,6 +3025,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/backlot-express/DHS_BacklotExpress_SmokedBBQPulledPorkBurger-16x9.jpg?2022-04-11T13:13:41+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/backlot-express/DHS_BacklotExpress_SmokedBBQPulledPorkBurger-16x9.jpg?2022-04-11T13:13:41+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
         "type" : "Updated"
       }
     ]
@@ -5008,6 +5037,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/boardwalk-ice-cream-deli/0819ZO_2601CS_JB-16x9.jpg?2022-12-22T19:23:50+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/boardwalk-ice-cream-deli/0819ZO_2601CS_JB-16x9.jpg?2022-12-22T19:23:50+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
         "type" : "Updated"
       }
     ]
@@ -8959,6 +8995,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9489,6 +9532,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9754,6 +9804,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -10478,6 +10532,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10531,6 +10592,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -10955,6 +11020,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -11008,6 +11077,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -14471,6 +14544,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -15407,6 +15484,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -15467,6 +15548,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -15527,6 +15612,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -15587,6 +15676,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -15647,6 +15740,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -15707,6 +15804,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -15760,6 +15861,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -16986,6 +17091,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -20051,6 +20160,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -20104,6 +20217,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -26999,6 +27116,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -27052,6 +27173,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -35762,6 +35887,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -36080,6 +36209,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -37751,6 +37884,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
@@ -40097,6 +40234,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -40202,6 +40346,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/roundup-rodeo-bbq/Recco_1-16x9.jpg?2023-03-09T22:45:50+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/roundup-rodeo-bbq/Recco_1-16x9.jpg?2023-03-09T22:45:50+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
         "type" : "Updated"
       }
     ]
@@ -42495,6 +42646,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/magic-kingdom/sleepy-hollow/sleepy-hollow-gallery02.jpg?1704798830572 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/magic-kingdom/sleepy-hollow/sleepy-hollow-gallery02.jpg?1704798830572"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
         "type" : "Updated"
       }
     ]
@@ -48710,6 +48868,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -50473,6 +50638,10 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "date" : "2024-02-20T16:36:14Z",
+        "type" : "Deactivated"
       }
     ]
   },
