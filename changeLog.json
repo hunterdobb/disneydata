@@ -68,6 +68,13 @@
         ],
         "date" : "2024-02-16T16:52:58Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -297,6 +304,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -1153,6 +1167,13 @@
         ],
         "date" : "2024-02-23T15:24:16Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1643,6 +1664,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -2339,6 +2367,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-22T00:41:45Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -3046,6 +3081,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -3818,6 +3860,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3983,6 +4032,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-22T00:41:45Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -4967,6 +5023,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -5079,6 +5142,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -5298,6 +5368,13 @@
           "diningPlan := Disney Dining Plan --> Empty"
         ],
         "date" : "2024-02-23T15:24:16Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -7281,6 +7358,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9051,6 +9135,13 @@
         ],
         "date" : "2024-02-20T16:36:14Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9587,6 +9678,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -10587,6 +10685,13 @@
           "diningPlan := Disney Dining Plan --> Empty"
         ],
         "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -15289,6 +15394,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -16425,6 +16537,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-22T00:41:45Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -19016,6 +19135,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -21432,6 +21558,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -22764,6 +22897,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -23565,6 +23705,13 @@
           "diningPlan := Disney Dining Plan --> Empty"
         ],
         "date" : "2024-02-17T16:36:03Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -27168,6 +27315,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -27613,6 +27767,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-16T16:52:58Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -30451,6 +30612,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -30836,6 +31004,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-22T00:41:45Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -34952,6 +35127,13 @@
           "diningPlan := Disney Dining Plan --> Empty"
         ],
         "date" : "2024-02-22T00:41:45Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -39678,6 +39860,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -40374,6 +40563,13 @@
         ],
         "date" : "2024-02-20T16:36:14Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -40486,6 +40682,13 @@
           "diningPlan := Disney Dining Plan --> Empty"
         ],
         "date" : "2024-02-20T16:36:14Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -41076,6 +41279,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-22T00:41:45Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -42794,6 +43004,13 @@
         ],
         "date" : "2024-02-20T16:36:14Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -44261,6 +44478,13 @@
         ],
         "date" : "2024-02-22T00:41:45Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -45264,6 +45488,13 @@
         ],
         "date" : "2024-02-23T15:24:16Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -46163,6 +46394,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-22T00:41:45Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -49036,6 +49274,13 @@
         ],
         "date" : "2024-02-20T16:36:14Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -50169,6 +50414,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-16T16:52:58Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
@@ -52777,6 +53029,13 @@
           "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-22T00:41:45Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
       }
     ]
