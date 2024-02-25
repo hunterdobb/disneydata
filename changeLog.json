@@ -55884,5 +55884,16 @@
         "type" : "Updated"
       }
     ]
+  },
+  {
+    "entityContentType" : "Dining",
+    "entityId" : "90002266;entityType=restaurant",
+    "entityName" : "The Turf Club Lounge",
+    "log" : [
+      {
+        "date" : "2024-02-25T14:41:05Z",
+        "type" : "Initial Add"
+      }
+    ]
   }
 ]
