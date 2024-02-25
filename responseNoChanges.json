@@ -174,8 +174,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -184,7 +183,7 @@
       "isActive" : true,
       "land" : "Commissary Lane",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/hollywood-studios/abc-commissary/abc-commissary-buffalo-chicken-grilled-cheese-16x9.jpg?1704795452374",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.356062,
         "longitude" : -81.559872
@@ -671,11 +670,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002796;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Adventureland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/agrabah-bazaar/agrabah-bazaar-00.jpg?1705643072054",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4186634676,
         "longitude" : -81.5833950592
@@ -1165,8 +1167,7 @@
         "Bakery"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -1178,7 +1179,7 @@
       "isActive" : true,
       "land" : "Town Center",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/amorettes-patisserie/FY23-DS_Amorettes-Evergreen_YA-Couple-16x9.jpg?2023-03-08T20:05:52+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.370903,
         "longitude" : -81.515568
@@ -1527,11 +1528,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to art supplies only.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "19266309;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/the-art-corner/name-painting-16x9.jpg?1699631653176",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.372679,
         "longitude" : -81.515143
@@ -1555,11 +1559,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003394;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/art-of-disney-downtown/art-of-disney-hero-00.jpg?1675456940945",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.373063,
         "longitude" : -81.515483
@@ -1585,11 +1592,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002804;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/art-of-disney-epcot/art-of-disney-epcot-00.jpg?1661278228685",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.367642,
         "longitude" : -81.549605
@@ -1614,8 +1624,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -1623,7 +1632,7 @@
       "id" : "90002219;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/resort-dining/saratoga-springs-resort-and-spa/artists-palette/artists-palette-gallery00.jpg?1668451534961",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3762590153,
         "longitude" : -81.5226564556
@@ -1658,10 +1667,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "25145;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/saratoga-springs-resort-and-spa/the-artist-palette-shop/the-artist-palette-shop-00.jpg?1699631724078",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.37621,
         "longitude" : -81.52259
@@ -1929,8 +1941,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -1938,7 +1949,7 @@
       "id" : "90001258;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/blizzard-beach/avalunch/avalunch-00.jpg?1701817899665",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3522776001,
         "longitude" : -81.5746162087
@@ -2111,8 +2122,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -2121,7 +2131,7 @@
       "isActive" : true,
       "land" : "Echo Lake",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/backlot-express/DHS_BacklotExpress_SmokedBBQPulledPorkBurger-16x9.jpg?2022-04-11T13:13:41+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35589,
         "longitude" : -81.558388
@@ -2153,8 +2163,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "214152;entityType=restaurant",
       "interests" : [
@@ -2163,7 +2172,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/saratoga-springs-resort-and-spa/backstretch-pool-bar/backstretch-pool-bar-00.jpg?1664987998713",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.377675,
         "longitude" : -81.523737
@@ -2277,8 +2286,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "19309018;entityType=restaurant",
       "interests" : [
@@ -2286,7 +2294,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/coronado-springs-resort/barcelona-lounge/barcelona-lounge-16x9.jpg?1663374061152",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.363301,
         "longitude" : -81.571516
@@ -2611,10 +2619,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002826;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/contemporary-resort/bayview-gifts/bayview-gifts-00.jpg?1680704659585",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4156049985,
         "longitude" : -81.5742058111
@@ -2649,8 +2660,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -2662,7 +2672,7 @@
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/downtown-disney/bb-wolfs-sausage-co/disney-spings-bb-wolf-sausage-gallery01.jpg?1674533968656",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.371604,
         "longitude" : -81.516218
@@ -2753,10 +2763,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002810;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/beach-club-resort/beach-club-resort-marketplace-shop/minnie-plush-16x9.jpg?1675456551678",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.371079,
         "longitude" : -81.555931
@@ -2786,8 +2799,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -2795,7 +2807,7 @@
       "id" : "32482;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/resort-dining/beach-club-resort/beach-club-marketplace/mini-micky-waffles-bacon-crop-16x9.jpg?1662769428702",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.371079,
         "longitude" : -81.555931
@@ -2830,10 +2842,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003396;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/blizzard-beach/beach-haus/beach-haus-00.jpg?1675456599336",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.351939,
         "longitude" : -81.573051
@@ -2908,8 +2923,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90001270;entityType=restaurant",
       "interests" : [
@@ -2918,7 +2932,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/grand-floridian-resort-and-spa/beach-pool-bar/beach-pool-bar-00.jpg?1686573655517",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4102135088,
         "longitude" : -81.5872909678
@@ -3077,11 +3091,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003398;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Sunset Boulevard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/hollywood-studios/beverly-sunset/hollywood-studios-teen-16x9.jpg?1661294813392",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.357872,
         "longitude" : -81.559961
@@ -3253,11 +3270,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002830;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Frontierland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/big-als/big-als-01.jpg?1661289230474",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.418999,
         "longitude" : -81.583631
@@ -3377,11 +3397,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "16767285;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Fantasyland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/big-top-souvenirs/X-big-top-souvenirs-00-720x405.jpg?1661289567392",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4208767627,
         "longitude" : -81.5791129125
@@ -3483,11 +3506,14 @@
     {
       "about" : "<div>Outfit yourself for galactic adventure at this local tailor’s clothing shop.</div>",
       "contentType" : "Shops",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "19267169;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Star Wars: Galaxy's Edge",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disneyland/shops/disneyland/black-spire-outfitters/black-spire-outfitters-interior-16x9.jpg?1679086499428",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35431,
         "longitude" : -81.561384
@@ -3599,8 +3625,7 @@
         "Bakery"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -3608,7 +3633,7 @@
       "id" : "90001311;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/boardwalk-ice-cream-deli/0819ZO_2601CS_JB-16x9.jpg?2022-12-22T19:23:50+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.367669,
         "longitude" : -81.555514
@@ -3926,11 +3951,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "16767319;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Fantasyland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/magic-kingdom/bonjour-village-gifts/bonjour-village-gifts-16x9.jpg?1661289501971",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4212717268,
         "longitude" : -81.5802901679
@@ -3959,10 +3987,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "46687;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/polynesian-resort/bou-tiki-merchandise-shop/bou-tiki-merchandise-shop-00.jpg?1678989414980",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.405423,
         "longitude" : -81.585478
@@ -4711,8 +4742,7 @@
         "Seafood"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -4720,7 +4750,7 @@
       "id" : "90001357;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/capt-cooks/Polynesian_CaptainCooks_FULL_AlohaPorkSandwich-16x9.jpg?2022-05-19T19:10:42+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.405782,
         "longitude" : -81.5852
@@ -4791,13 +4821,12 @@
         "Bakery"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "411834571;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/lobby-coffee/WDW_Boardwalk_LobbyCoffee_Stylized_082522-7133-16x9.jpg?2022-11-09T19:00:11+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3664950615,
         "longitude" : -81.5561813665
@@ -4918,8 +4947,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -4928,7 +4956,7 @@
       "isActive" : true,
       "land" : "Main Street, U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/caseys-corner/caseys-corner-hotdog-chili-cheese-deluxe-16x9.jpg?1704798309016",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.418112,
         "longitude" : -81.581281
@@ -5089,11 +5117,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002866;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Hollywood Boulevard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/celebrity-5-and-10/celebrity-5-and-10-00.jpg?1676304934893",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.358007,
         "longitude" : -81.559424
@@ -5129,8 +5160,7 @@
         "Latin"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -5138,7 +5168,7 @@
       "id" : "19094230;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/carribean-beach-resort/centertown-market/centertown-market-16x9.jpg?1703113593832",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3627758323,
         "longitude" : -81.5417611599
@@ -5173,8 +5203,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "18710180;entityType=restaurant",
       "interests" : [
@@ -5182,7 +5211,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/carribean-beach-resort/centertown-market/centertown-market-16x9.jpg?1703113595098",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.362825,
         "longitude" : -81.541806
@@ -5457,11 +5486,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002874;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "DinoLand U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/chester-and-hester-dinosaur-treasures/chester-and-hesters-dinosaur-treasures-00.jpg?1665144079438",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3560490245,
         "longitude" : -81.587934698
@@ -6168,11 +6200,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "18665184;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Pandora – The World of Avatar",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/colors-of-moara/colors-of-moara-06.jpg?1675455623292",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.355517,
         "longitude" : -81.591463
@@ -6196,8 +6231,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -6206,7 +6240,7 @@
       "isActive" : true,
       "land" : "Liberty Square",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/columbia-harbour-house/MK_CHH_Full_NewEnglandShrimpBoilTwoBreads-16x9.jpg?2023-11-20T21:12:40+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4200310807,
         "longitude" : -81.5825126124
@@ -6302,10 +6336,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002886;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/old-key-west-resort/conch-flats-general-store/conch-flats-general-store-00.jpg?1678989256810",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3752350781,
         "longitude" : -81.5333785666
@@ -6334,14 +6371,13 @@
         "British"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "19635788;entityType=restaurant",
       "isActive" : true,
       "land" : "World Celebration",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/starbucks/starbucks-00.jpg?1704796849507",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3742425652447,
         "longitude" : -81.5488623524572
@@ -6368,8 +6404,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -6378,7 +6413,7 @@
       "isActive" : true,
       "land" : "World Celebration",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/connections-eatery/WDW_EPCOT_ConnectionsEatery_0421ZO_0516DR-16x9.jpg?2022-06-03T16:26:18+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3743400792775,
         "longitude" : -81.5484700507225
@@ -6454,8 +6489,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -6466,7 +6500,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/resort-dining/contemporary-resort/contempo-cafe/contempo-cafe-gallery00.jpg?1676560704858",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4147238883,
         "longitude" : -81.5744887842
@@ -6763,8 +6797,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -6773,7 +6806,7 @@
       "isActive" : true,
       "land" : "Tomorrowland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/magic-kingdom/cosmic-ray-starlight-cafe/cosmic-rays-stralight-cafe-cheeseburger-16x9.jpg?1704798488929",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.419477,
         "longitude" : -81.579873
@@ -6893,8 +6926,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90001423;entityType=restaurant",
       "interests" : [
@@ -6903,7 +6935,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/grand-floridian-resort-and-spa/courtyard-pool-bar/courtyard-pool-bar-00-new.jpg?1686574938267",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4115090854,
         "longitude" : -81.5862777829
@@ -6931,8 +6963,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "362428;entityType=restaurant",
       "interests" : [
@@ -6941,7 +6972,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/contemporary-resort/cove-bar/cove-bar-01-16x9.jpg?1673389167180",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.416144,
         "longitude" : -81.572738
@@ -7005,6 +7036,9 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Mobile Checkout"
       ],
@@ -7012,7 +7046,7 @@
       "isActive" : true,
       "land" : "World Celebration",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/shopping/CreationsShopMarquee-12-16x9.jpg?2022-03-30T22:04:05+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.373527651858,
         "longitude" : -81.5489240948151
@@ -7039,14 +7073,13 @@
         "Bakery"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "18058385;entityType=restaurant",
       "isActive" : true,
       "land" : "Discovery Island",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/creature-comforts/creature-comforts-fountain-view-ice-cream-16x9.jpg?1704794190952",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35781,
         "longitude" : -81.591685
@@ -7254,11 +7287,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002902;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Main Entrance - Disney's Hollywood Studios",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/crossroads-of-the-world/crossroads-of-the-world-01.jpg?1661295687745",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.358118,
         "longitude" : -81.559041
@@ -7288,11 +7324,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003408;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/the-crown-and-crest/the-crown-and-crest-00.jpg?1699630569300",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.370712,
         "longitude" : -81.552017
@@ -7506,10 +7545,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003360;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/grand-floridian-resort-and-spa/curiouser-clothiers/curiouser-clothiers-windows-16x9.jpg?1661288698944",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.410834,
         "longitude" : -81.587321
@@ -7536,11 +7578,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "15907815;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Main Street, U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/curtain-call-collectibles/curtain-call-collectibles-00.jpg?1661289587707",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4166807728,
         "longitude" : -81.5806873692
@@ -7821,11 +7866,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002916;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/der-teddybar/der-teddybar-toyshop-00.jpg?1675451392070",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.368121,
         "longitude" : -81.547049
@@ -7977,11 +8025,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003416;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "DinoLand U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/shopping/parks-merchandise/dino-institute-shop-00-16x9.jpg?2023-02-15T21:43:03+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.355361,
         "longitude" : -81.588151
@@ -8082,11 +8133,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "16502916;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "DinoLand U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/attractions/animal-kingdom/the-boneyard/the-boneyard-gallery05.jpg?1675455751551",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3566190546,
         "longitude" : -81.5880527152
@@ -8342,11 +8396,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002928;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Discovery Island",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/animal-kingdom/discovery-trading-company/discover-trading-16x9.jpg?1675457681703",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35716,
         "longitude" : -81.59003
@@ -8822,11 +8879,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002932;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Animation Courtyard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/disney-studio-store/disney-studio-store-01.jpg?1661295745223",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.357618,
         "longitude" : -81.561075
@@ -9213,11 +9273,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002946;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/disneys-wonderful-world-of-memories/disneys-wonderful-world-of-memories-hero-00.jpg?1699631450370",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.373285,
         "longitude" : -81.515373
@@ -9357,8 +9420,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -9367,7 +9429,7 @@
       "isActive" : true,
       "land" : "Town Center",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/DisneySprings_D-LuxeBurger_FULL_StackBurgerBBQ-16x9.jpg?2022-01-05T21:40:48+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.370314,
         "longitude" : -81.517603
@@ -9403,8 +9465,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -9413,7 +9474,7 @@
       "isActive" : true,
       "land" : "Star Wars: Galaxy's Edge",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disneyland/dining/disneyland/docking-bay-7-food-and-cargo/docking-bay-guests-food-16x9.jpg?1704795636712",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.354088,
         "longitude" : -81.561643
@@ -9443,8 +9504,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -9453,7 +9513,7 @@
       "isActive" : true,
       "land" : "Echo Lake",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-16x9.jpg?2022-03-10T19:41:03+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3570985,
         "longitude" : -81.559552
@@ -9520,6 +9580,9 @@
     {
       "about" : "Shop for mysterious and unique galactic artifacts collected by a legendary antiquities dealer.",
       "contentType" : "Shops",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Mobile Checkout"
       ],
@@ -9527,7 +9590,7 @@
       "isActive" : true,
       "land" : "Star Wars: Galaxy's Edge",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disneyland/shops/disneyland/dok-ondars-den-of-antiquities/dok-andars-characters-16x9.jpg?1699630584601",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.354232,
         "longitude" : -81.561758
@@ -9607,10 +9670,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002948;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/all-star-movie-resort/donalds-double-feature-00.jpg?1699631680582",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.335697,
         "longitude" : -81.572106
@@ -9805,6 +9871,9 @@
     {
       "about" : "Build your own droid at Black Spire Outpost’s industrial depot.",
       "contentType" : "Shops",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "extraDeepLink" : {
         "href" : "mdx://enchanting-extras/config?id=booking-droid-depot",
         "title" : "Book Now"
@@ -9813,7 +9882,7 @@
       "isActive" : true,
       "land" : "Star Wars: Galaxy's Edge",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/hollywood-studios/droid-depot/guests-droid-making-16x9.jpg?1699631668895",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.354551,
         "longitude" : -81.561946
@@ -9850,8 +9919,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "16472608;entityType=restaurant",
       "interests" : [
@@ -9860,7 +9928,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/art-of-animation/drop-off-pool-bar/the-drop-off-pool-bar-00.jpg?1703113497769",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3500272013,
         "longitude" : -81.5480066444
@@ -10100,11 +10168,13 @@
       "cuisine" : [
         "Indian"
       ],
+      "discountAnnualPass" : "10%",
+      "discountInfo" : "Valid on food, nonalcoholic beverages and merchandise for up to 4 Guests. Not valid on ticketed events or chef dinners.",
       "id" : "412013553;entityType=restaurant",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/eet/Maneet-Chauhan-Bangle-Wall-Headshot_credit-David-Bradley-Osprey-Media-16x9.jpg?2023-09-22T16:37:30+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.37318511,
         "longitude" : -81.51492566
@@ -10502,6 +10572,9 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Mobile Checkout"
       ],
@@ -10509,7 +10582,7 @@
       "isActive" : true,
       "land" : "Main Street, U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/emporium/emporium-00.jpg?1699630620136",
-      "lastChangeDate" : "2024-02-16T16:52:58Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4172445282,
         "longitude" : -81.5813887669
@@ -10628,8 +10701,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -10637,7 +10709,7 @@
       "id" : "90001482;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/end-zone-cafe/WDW_AllStarSports_BasesLoadedBurgerWithFries_FULL_DH-16x9.jpg?2023-06-01T17:20:42+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.343485,
         "longitude" : -81.575262
@@ -11156,10 +11228,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002908;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/espn-wide-world-of-sports/espn-clubhouse-shop/espn-clubhouse-shop-00.jpg?1699631657698",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.337445,
         "longitude" : -81.555449
@@ -11211,8 +11286,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). Special events and dining packages excluded.",
@@ -11222,7 +11296,7 @@
       "id" : "244731;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/espn-wide-world-of-sports-complex/espn-wide-world-sports-grill/espn-wide-world-sports-grill-00.jpg?1699629129216",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3380451511,
         "longitude" : -81.5563503457
@@ -11256,6 +11330,9 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "18861154;entityType=MerchandiseFacility",
       "interests" : [
         "New"
@@ -11263,7 +11340,7 @@
       "isActive" : true,
       "land" : "Town Center",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/lifestyle/FY23_DS_Ever_After_Evergreen_Couple_with_CM-16x9.jpg?2023-01-18T22:55:56+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.370196,
         "longitude" : -81.516715
@@ -11368,8 +11445,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -11377,7 +11453,7 @@
       "id" : "90001527;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/everything-pop/WDW_PopCentury_RubixCubanBurger_FULL_DH-16x9.jpg?2023-05-10T17:28:54+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35009002,
         "longitude" : -81.5429145098
@@ -11414,10 +11490,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "25144;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/pop-century-resort/everything-pop-shop/everything-pop-shop-00.jpg?1699631715604",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35009002,
         "longitude" : -81.5429145098
@@ -11578,8 +11657,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -11588,7 +11666,7 @@
       "isActive" : true,
       "land" : "Sunset Boulevard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/fairfax-fare/DHS_FairfaxFare_BOWLS_10132022_0657RC-16x9.jpg?2022-12-07T17:19:45+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3590392579,
         "longitude" : -81.5600222899
@@ -11717,11 +11795,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002974;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Fantasyland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/fantasy-faire/fantasy-faire-00.jpg?1699630622158",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4201260286,
         "longitude" : -81.5816248013
@@ -11838,14 +11919,13 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "248784;entityType=restaurant",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/epcot/fife-and-drum-tavern/fife-and-drum-tavern-00.jpg?1704797005411",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.367929,
         "longitude" : -81.549122
@@ -12046,11 +12126,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003446;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/puffins-roost/puffins-roost-00.jpg?1699631613121",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.370717,
         "longitude" : -81.546728
@@ -12115,8 +12198,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -12125,7 +12207,7 @@
       "isActive" : true,
       "land" : "Discovery Island",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/animal-kingdom/flame-tree-barbecue/flame-tree-barbecue-gallery06.jpg?1704794433469",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35734,
         "longitude" : -81.58954
@@ -12579,11 +12661,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002986;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Frontierland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/frontier-trading-post/frontier-trading-post-16x9.jpg?1699630624339",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4188327247,
         "longitude" : -81.583341415
@@ -12741,11 +12826,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003000;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Echo Lake",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/hollywood-studios/frozen-fractal-gifts/frozen-fractal-shopping-16x9.jpg?1699630588938",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35644,
         "longitude" : -81.559234
@@ -12812,10 +12900,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002988;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/port-orleans-resort-riverside/fultons-general-store/fultons-general-store-00.jpg?1699631728308",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.386333,
         "longitude" : -81.536884
@@ -13272,8 +13363,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -13284,7 +13374,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/gasparilla-island-grill/WDW_GF_Gaspys_CapreseSandwich_Full_DH-984226960465-16x9.jpg?2022-08-24T18:36:21+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4116932903,
         "longitude" : -81.5874673426
@@ -13317,14 +13407,13 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "16767318;entityType=restaurant",
       "isActive" : true,
       "land" : "Fantasyland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/magic-kingdom/gastons-tavern/gaston-exteior-16x9.jpg?1704798577362",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4213181479,
         "longitude" : -81.5804566992
@@ -13360,11 +13449,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002992;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Celebration",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/gateway-gifts/gateway-gifts-00.jpg?1699631664125",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.375436,
         "longitude" : -81.549132
@@ -13577,11 +13669,14 @@
         ]
       },
       "contentType" : "Shops",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "33947;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/ghirardelli-chocolate-shop/ghirardelli-chocolate-shop-01-listing.jpg?1699631470906",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.37171,
         "longitude" : -81.514741
@@ -13713,11 +13808,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "17427902;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/glaskunst/germany-pavilion-00.jpg?1699631563279",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.368347,
         "longitude" : -81.547418
@@ -13742,14 +13840,13 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002530;entityType=restaurant",
       "isActive" : true,
       "land" : "Frontierland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/golden-oak-outpost-00-16x9.jpg?2022-03-10T19:40:45+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4186023132,
         "longitude" : -81.584727253
@@ -13809,13 +13906,12 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90001718;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/old-key-west-resort/goods-food-to-go/goods-food-to-go-00.jpg?1699631884774",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.374945,
         "longitude" : -81.53334
@@ -13879,6 +13975,9 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Food - Mobile Order"
       ],
@@ -13886,7 +13985,7 @@
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/goofys-candy-company/goofys-candy-company-01.jpg?1699631474411",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.372798,
         "longitude" : -81.515258
@@ -14209,8 +14308,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002209;entityType=restaurant",
       "interests" : [
@@ -14219,7 +14317,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/end-zone-food-court/WDW_MOD-VAL_A-Zcocktails_FULL_DH-16x9.jpg?2022-03-17T17:33:57+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.343554,
         "longitude" : -81.575592
@@ -14637,8 +14735,7 @@
         "African"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -14647,7 +14744,7 @@
       "isActive" : true,
       "land" : "Africa",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/harambe-market/harambe-market-00.jpg?1704794443055",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.359161,
         "longitude" : -81.591369
@@ -15303,11 +15400,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "15678548;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Fantasyland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/hundred-acre-goods/hundred-acre-goods-00.jpg?1699630626545",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4201496181,
         "longitude" : -81.5804727925
@@ -15336,8 +15436,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90001758;entityType=restaurant",
       "interests" : [
@@ -15346,7 +15445,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/beach-club-resort/hurricane-hanna-grill/hurricane-hanna-grill-00-new.jpg?1699631995704",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3706917473,
         "longitude" : -81.5572656691
@@ -15411,11 +15510,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003040;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/il-bel-cristallo/il-bel-cristallo-00.jpg?1699631587220",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.368027,
         "longitude" : -81.548114
@@ -15519,11 +15621,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "55296;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Celebration",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/imageworks-what-if-labs/imageworks-00.jpg?1699631589320",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.372797,
         "longitude" : -81.551071
@@ -15648,11 +15753,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003042;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Animation Courtyard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/hollywood-studios/in-character-disneys-costume-shop/plush-minnie-mouse-dolls-16x9.jpg?1699630591343",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35758,
         "longitude" : -81.560879
@@ -15817,8 +15925,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -15826,7 +15933,7 @@
       "id" : "90001762;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/all-star-music-resort-intermission-food-court/WDW_ModVal_AllStarMusic_BleusBurger_FULL_DH-16x9.jpg?2023-05-23T17:44:53+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3393907868,
         "longitude" : -81.5728647066
@@ -15931,6 +16038,9 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Mobile Checkout"
       ],
@@ -15938,7 +16048,7 @@
       "isActive" : true,
       "land" : "Discovery Island",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/island-mercantile/island-mercantile-00.jpg?1699631452621",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.357008,
         "longitude" : -81.590633
@@ -16149,10 +16259,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003058;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/port-orleans-resort-french-quarter/jackson-square-gifts/jackson-square-gifts-00.jpg?1699631717775",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3803698331,
         "longitude" : -81.5365737677
@@ -16996,10 +17109,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "293703;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom-villas-kidani/johari-treasures-00.jpg?1699631693971",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.354126,
         "longitude" : -81.605646
@@ -17797,11 +17913,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003072;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Hollywood Boulevard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/keystone-clothiers/keystone-clothiers-00.jpg?1699630594814",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.357472,
         "longitude" : -81.559577
@@ -17925,11 +18044,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "54859;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Africa",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/kilimanjaro-safari-cart/kilimanjaro-safari-cart-00.jpg?1699631430292",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.359992,
         "longitude" : -81.591924
@@ -18358,11 +18480,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003084;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/la-bottega-italiana/la-bottega-italiana-00.jpg?1699631619091",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.367989,
         "longitude" : -81.548328
@@ -18658,11 +18783,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "10%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003096;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/la-princesa-de-cristal-mexico/la-princesa-de-cristal-mexico-00.jpg?1699631666408",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.37158,
         "longitude" : -81.547334
@@ -18691,11 +18819,14 @@
         ]
       },
       "contentType" : "Shops",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003100;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/la-signature/la-signature-00.jpg?1699631655653",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.368959,
         "longitude" : -81.553033
@@ -18842,8 +18973,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -18851,7 +18981,7 @@
       "id" : "16472580;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/landscape-of-flavors/WDW_DAAR_LandscapeOfFlavors_BenedictBurger_FULL_DH-16x9.jpg?2023-05-16T08:02:11+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3508297728,
         "longitude" : -81.5485538151
@@ -18985,10 +19115,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "18283033;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/star-wars-launch-bay-cargo-store/star-wars-launch-bay-cargo-store-00.jpg?1699630611441",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.357946,
         "longitude" : -81.560941
@@ -19105,13 +19238,10 @@
       "cuisine" : [
         "American"
       ],
-      "diningPlan" : [
-        "Disney Quick-Service Dining Plan"
-      ],
       "id" : "19402402;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/riviera-resort/le-petit-cafe/riviera-le-petit-desserts-16x9.jpg?1706561848202",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.365835,
         "longitude" : -81.542008
@@ -19139,8 +19269,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -19148,7 +19277,7 @@
       "id" : "90001800;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/typhoon-lagoon/leaning-palms/leaning-palms-00.jpg?1699630709195",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3650655553,
         "longitude" : -81.5287088407
@@ -19179,8 +19308,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90001802;entityType=restaurant",
       "interests" : [
@@ -19189,7 +19317,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/boardwalk/leaping-horse-libations/leaping-horse-libations-00.jpg?1699632012324",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3662361975,
         "longitude" : -81.5566400243
@@ -19255,11 +19383,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003106;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Sunset Boulevard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/legends/legends-00.jpg?1699630597004",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.358043,
         "longitude" : -81.559715
@@ -19564,14 +19695,13 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90001815;entityType=restaurant",
       "isActive" : true,
       "land" : "Liberty Square",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/liberty-square-market/liberty-square-market-03.jpg?1704798638080",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4195299,
         "longitude" : -81.5825378
@@ -19925,8 +20055,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -19934,7 +20063,7 @@
       "id" : "90001827;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/blizzard-beach/lottawatta-lodge/lottawatta-lodge-00.jpg?1701817924839",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.351487,
         "longitude" : -81.573231
@@ -20030,13 +20159,12 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90001831;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/typhoon-lagoon/low-tide-lou/low-tide-lou-00.jpg?1699628831996",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3655058603,
         "longitude" : -81.5301636136
@@ -20200,10 +20328,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003116;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/grand-floridian-resort-and-spa/m-mouse-mercantile/m-mouse-mercantile-00.jpg?1699631707745",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.410694,
         "longitude" : -81.587883
@@ -20384,10 +20515,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003118;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/all-star-music-resort/maestro-mickeys-00.jpg?1699631682651",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.339522,
         "longitude" : -81.572633
@@ -20590,14 +20724,13 @@
         "Bakery"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002590;entityType=restaurant",
       "isActive" : true,
       "land" : "Main Street, U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/main-street-bakery/main-street-bakery-updated-00.jpg?1704798647239",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4177865948,
         "longitude" : -81.5811298822
@@ -20665,11 +20798,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003130;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Main Street, U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/shopping/main-street-confectionery/Main-Street-Confectionery.jpg?2022-08-19T02:11:15+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.417116,
         "longitude" : -81.581023
@@ -20809,8 +20945,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "293709;entityType=restaurant",
       "interests" : [
@@ -20819,7 +20954,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/animal-kingdom-lodge/maji-pool-bar/maji-pool-bar-00.jpg?1699631911853",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35551,
         "longitude" : -81.60661
@@ -21076,8 +21211,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90001869;entityType=restaurant",
       "interests" : [
@@ -21086,7 +21220,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/port-orleans-resort-french-quarter/mardi-grogs/mardi-grogs-00.jpg?1699631934482",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.38133,
         "longitude" : -81.53571
@@ -21216,11 +21350,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "55247;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Africa",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/maryias-souvenirs/mariyas-souvenirs-00-new.jpg?1699631437187",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.358381,
         "longitude" : -81.592325
@@ -21291,8 +21428,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -21303,7 +21439,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/resort-dining/yacht-club-resort/ale-and-compass-market/ale-and-compass-gallery-market-interior-16x9.jpg?1668452246962",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.370279,
         "longitude" : -81.559077
@@ -21395,11 +21531,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "17843648;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/shopping/co-op-marketplace/0912ZN_033-e-16x9.jpg?2023-11-08T18:06:46+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.372163,
         "longitude" : -81.514592
@@ -21435,11 +21574,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "17829386;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/disney-centerpiece/disney-centerpiece-00.jpg?1675457436879",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.372119,
         "longitude" : -81.514398
@@ -21497,11 +21639,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "17829384;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/d-tech-on-demand/d-tech-on-demand-00.jpg?1675457401176",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.372124,
         "longitude" : -81.514503
@@ -21834,8 +21979,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002223;entityType=restaurant",
       "interests" : [
@@ -21844,7 +21988,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/cabins-at-fort-wilderness-resort/meadow-snack-bar/meadow-snack-bar-00.jpg?1699632009856",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.405861,
         "longitude" : -81.557358
@@ -21874,10 +22018,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003148;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/fort-wilderness-and-campground/meadow-trading-post-00.jpg?1699631696314",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.405748,
         "longitude" : -81.558418
@@ -22934,11 +23081,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "17901683;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Liberty Square",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/magic-kingdom/memento-mori/momento-mori-sign-16x9.jpg?1699631730428",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.420138,
         "longitude" : -81.582614
@@ -23106,6 +23256,9 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Mobile Checkout"
       ],
@@ -23113,7 +23266,7 @@
       "isActive" : true,
       "land" : "Hollywood Boulevard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/mickeys-of-hollywood/mickeys-of-hollywood-01.jpg?1699630599222",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3579525934,
         "longitude" : -81.5591043234
@@ -23585,11 +23738,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "55277;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Discovery",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/mission-space-cargo-bay/mission-space-cargo-bay-00.jpg?1699630551406",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.374185,
         "longitude" : -81.547156
@@ -23681,10 +23837,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "17806861;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/polynesian-resort/moana-mercantile/moana-mercantile-00.jpg?1699631713427",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.405338,
         "longitude" : -81.584919
@@ -23716,11 +23875,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003184;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Africa",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/mombasa-marketplace/mombasa-marketplace-00.jpg?1699631428104",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.358944,
         "longitude" : -81.591941
@@ -24006,8 +24168,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002604;entityType=restaurant",
       "interests" : [
@@ -24016,7 +24177,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/port-orleans-resort-riverside/muddy-rivers/muddy-rivers-00.jpg?1699629483948",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.387508,
         "longitude" : -81.536134
@@ -24269,11 +24430,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003200;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Main Street, U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/newsstand/newsstand-00.jpg?1699630635352",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.41631,
         "longitude" : -81.581678
@@ -24456,8 +24620,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "18394219;entityType=restaurant",
       "interests" : [
@@ -24466,7 +24629,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/WDW_RoseGold2019_Polynesian_OasisPoolBar_RoseGoldMargarita_0328ZR_0221CMG.jpg?2022-03-10T19:39:31+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.405726,
         "longitude" : -81.583975
@@ -24821,11 +24984,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003208;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Sunset Boulevard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/once-upon-a-time/once-upon-a-time-00.jpg?1699630602604",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35858,
         "longitude" : -81.559772
@@ -24847,11 +25013,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003210;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/once-upon-a-toy/once-upon-a-toy-hero-00.jpg?1699631519013",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.372618,
         "longitude" : -81.514359
@@ -24971,11 +25140,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003444;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Main Entrance - Disney's Animal Kingdom",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/the-outpost-shop/the-outpost-shop-00.jpg?1699631504790",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.354435,
         "longitude" : -81.590196
@@ -25057,8 +25229,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "16018746;entityType=restaurant",
       "interests" : [
@@ -25067,7 +25238,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/saratoga-springs-resort-and-spa/paddock-grill/paddock-grill-00.jpg?1699632085574",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3789776531,
         "longitude" : -81.5197965307
@@ -25172,10 +25343,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003224;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/coronado-springs-resort/panchitos-gifts-and-sundries/panchitos-gifts-exterior-16x9.jpg?1699631705402",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.362671,
         "longitude" : -81.572896
@@ -25390,8 +25564,7 @@
         "Mexican"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -25400,7 +25573,7 @@
       "isActive" : true,
       "land" : "Frontierland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/pecos-bill/WDW_MK_PecosBills-_Fajita-Platter_FULL_100923_8256_CJ-16x9.jpg?2023-11-14T18:20:10+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4188897676,
         "longitude" : -81.5844008876
@@ -25508,8 +25681,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002026;entityType=restaurant",
       "interests" : [
@@ -25518,7 +25690,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/pop-century-resort/petals-pool-bar/petals-pool-bar-00.jpg?1703113789873",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3507275,
         "longitude" : -81.5434268
@@ -25711,11 +25883,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90002850;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Celebration",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/camera-center-future-world/camera-center-future-world-00.jpg?1661276851133",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.375436,
         "longitude" : -81.54967
@@ -25776,8 +25951,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -25786,7 +25960,7 @@
       "isActive" : true,
       "land" : "Fantasyland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/pinnocchio-village-haus/pinocchio-village-haus-00.jpg?1704798770317",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.42041,
         "longitude" : -81.58143
@@ -25957,8 +26131,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -25966,7 +26139,7 @@
       "id" : "90002038;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/boardwalk/pizza-window/pizza-window-00.jpg?1703197227297",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.367483,
         "longitude" : -81.555673
@@ -25997,8 +26170,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -26007,7 +26179,7 @@
       "isActive" : true,
       "land" : "Discovery Island",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/pizzafari/wdw-dak-pizza-full-pepperoni-pizza-hero-16x9.jpg?1704794677836",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3572167558,
         "longitude" : -81.5912854671
@@ -26078,8 +26250,7 @@
         "Italian"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -26088,7 +26259,7 @@
       "isActive" : true,
       "land" : "Grand Avenue",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/pizzerizzo/pizzerizzo-00.jpg?1704796138727",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.355049,
         "longitude" : -81.559074
@@ -26198,11 +26369,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003250;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/plaza-de-los-amigos/plaza-de-los-amigos-00.jpg?1699630555626",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.37158,
         "longitude" : -81.547368
@@ -26233,11 +26407,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003252;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Adventureland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/pirates-bazaar/pirates-bazaar-00.jpg?1699630637456",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.418056,
         "longitude" : -81.584571
@@ -26598,11 +26775,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003268;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/port-of-entry/port-of-entry-00.jpg?1699630560151",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.371661,
         "longitude" : -81.549831
@@ -26629,8 +26809,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -26638,7 +26817,7 @@
       "id" : "19401806;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/primo-piatto/WDW_Riviera_PrimoPiatto_PrimoBreakfastPlatter_FULL_DH-16x9.jpg?2022-10-11T23:41:21+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.365388,
         "longitude" : -81.541979
@@ -27316,14 +27495,13 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002672;entityType=restaurant",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-arts/culinary-arts/fota-24-refreshment-port-16x9.jpg?2023-12-07T18:00:07+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.371781,
         "longitude" : -81.550562
@@ -27390,8 +27568,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -27400,7 +27577,7 @@
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/epcot/liberty-inn/regal-eagle-kansas-city-half-chicken-16x9.jpg?1704797564569",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.367579,
         "longitude" : -81.549003
@@ -27553,8 +27730,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -27563,7 +27739,7 @@
       "isActive" : true,
       "land" : "DinoLand U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/restaurantosaurus/restaurantosaurus-00-new.jpg?1704794809020",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.356138,
         "longitude" : -81.588996
@@ -27660,11 +27836,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "18441731;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Discovery Island",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/riverside-depot/riverside-depot-01.jpg?1699631457265",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.357129,
         "longitude" : -81.590228
@@ -27694,8 +27873,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -27703,7 +27881,7 @@
       "id" : "90002077;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/riverside-mill/WDW_PortOrleans_Riverside_BayouAmberAleBurger_FULL_DH-16x9.jpg?2023-02-15T16:26:03+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3867516,
         "longitude" : -81.5366925
@@ -27778,8 +27956,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -27787,7 +27964,7 @@
       "id" : "90002080;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/roaring-fork/WDW_WildernessLodge_RoaringFork_BrisketPlatter_FULL_DH-16x9.jpg?2022-10-10T22:32:12+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.409622,
         "longitude" : -81.57253
@@ -27822,11 +27999,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003290;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Sunset Boulevard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/rock-around-the-shop/rock-around-the-shop-00.jpg?1699630607068",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.359383,
         "longitude" : -81.560853
@@ -27950,8 +28130,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -27960,7 +28139,7 @@
       "isActive" : true,
       "land" : "Star Wars: Galaxy's Edge",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/hollywood-studios/ronto-roasters/rontos-roasters-16x9.jpg?1704796185738",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.354341,
         "longitude" : -81.561652
@@ -28204,8 +28383,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -28214,7 +28392,7 @@
       "isActive" : true,
       "land" : "Sunset Boulevard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rosies-all-american-cafe/rosies-all-america-cafe-16x9.jpg?2023-11-16T18:41:07+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.358821,
         "longitude" : -81.560268
@@ -28648,10 +28826,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003296;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/grand-floridian-resort-and-spa/sandy-cove/sandy-cove-00.jpg?1699631711374",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.411193,
         "longitude" : -81.587471
@@ -28757,8 +28938,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -28770,7 +28950,7 @@
       "isActive" : true,
       "land" : "Pandora – The World of Avatar",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/satuli-canteen/WDW_DAK_SatuliCanteen_BraisedBeefAdultBowl_Stylized_041323-6986_AW-6986-16x9.jpg?2023-07-21T19:40:37+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3560347386574,
         "longitude" : -81.5924408283262
@@ -28823,6 +29003,9 @@
     {
       "about" : "Build your own custom lightsaber at this secret workshop and continue the way of the Force.",
       "contentType" : "Shops",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "extraDeepLink" : {
         "href" : "mdx://enchanting-extras/config?id=booking-savis-workshop-handbuilt-lightsabers",
         "title" : "Book Now"
@@ -28831,7 +29014,7 @@
       "isActive" : true,
       "land" : "Star Wars: Galaxy's Edge",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/hollywood-studios/savis-workshop-handbuilt-lightsabers/guests-raised-lightsabers-16x9.jpg?1699631643562",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35438,
         "longitude" : -81.561928
@@ -29091,11 +29274,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003304;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Nature",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/sea-base-alpha-gift-shop/sea-base-alpha-gift-shop-00.jpg?1699630563615",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.375155,
         "longitude" : -81.551158
@@ -29305,11 +29491,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "89614;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Asia",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/serka-zong-bazaar/serka-zong-bazaar-00.jpg?1699631441399",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35839,
         "longitude" : -81.58702
@@ -29339,10 +29528,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003306;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/wilderness-lodge/settlement-trading-post/settlement-trading-post-00.jpg?1699631702706",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.412405,
         "longitude" : -81.560991
@@ -29749,8 +29941,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002134;entityType=restaurant",
       "interests" : [
@@ -29759,7 +29950,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/all-star-movies-resort/silver-screen-spirits-pool-bar/silver-screen-spirits-pool-bar-00.jpg?1699631821887",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3359755,
         "longitude" : -81.5725132
@@ -29789,10 +29980,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003320;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/typhoon-lagoon-water-park/singapore-sals/singapore-sals-00.jpg?1699630648284",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.365781,
         "longitude" : -81.528216
@@ -29817,8 +30011,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002136;entityType=restaurant",
       "interests" : [
@@ -29827,7 +30020,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/all-star-music-resort/singing-spirits-pool-bar/singing-spirits-pool-bar-00.jpg?1699631844130",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.339648,
         "longitude" : -81.573113
@@ -29857,11 +30050,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003322;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Fantasyland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/guest-services/photopass/experience/MK23-MarketingTimothy0307-7631-16x9.jpg?2023-07-21T19:44:01+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4198553384,
         "longitude" : -81.5810410952
@@ -29927,8 +30123,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -29937,7 +30132,7 @@
       "isActive" : true,
       "land" : "Liberty Square",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/magic-kingdom/sleepy-hollow/sleepy-hollow-gallery02.jpg?1704798830572",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4192798,
         "longitude" : -81.5820112
@@ -30143,13 +30338,12 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002146;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/typhoon-lagoon/snack-shack/snack-shack-00.jpg?1700010619607",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.366708,
         "longitude" : -81.529509
@@ -30303,8 +30497,7 @@
         "German"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -30313,7 +30506,7 @@
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/epcot/sommerfest/block-hans-prezel-16x9.jpg?1704797768593",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.368123,
         "longitude" : -81.546902
@@ -30859,10 +31052,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003342;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/all-star-sports-resort/sport-goofy-g-and-s/sport-goofy-g-and-s-00.jpg?1699631684838",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.34382,
         "longitude" : -81.575313
@@ -31005,8 +31201,7 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "features" : [
         "Mobile Orders"
@@ -31018,7 +31213,7 @@
       ],
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/caribbean-beach-resort/spyglass-grill/spyglass-grill-landing-couple-16x9.jpg?1703113733544",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.35773,
         "longitude" : -81.542924
@@ -31050,10 +31245,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "16662358;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/espn-wide-world-of-sports/stadium-clubhouse/stadium-clubhouse-00-sq.JPG?1699631623788",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.337579,
         "longitude" : -81.556395
@@ -31080,11 +31278,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003344;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Grand Avenue",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/stage-1-company-store/stage-1-company-store-00.jpg?1699631425861",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3547084233,
         "longitude" : -81.5590969277
@@ -31205,6 +31406,9 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Mobile Checkout"
       ],
@@ -31212,7 +31416,7 @@
       "isActive" : true,
       "land" : "Tomorrowland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/mickeys-star-traders/mickeys-star-traders-00.jpg?1699631726124",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.419022,
         "longitude" : -81.579543
@@ -31239,11 +31443,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "18298749;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "West Side",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/disney-springs/star-wars-galactic-outpost/star-wars-galactic-outpost-boys-16x9.jpg?1699631551772",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.370168,
         "longitude" : -81.519814
@@ -31461,11 +31668,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "37573;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/marletplace-fun-finds/disney-springs-marketplace-finds-star-wars-merchandise-boy-16x9.jpg?1699631598618",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.37269633,
         "longitude" : -81.51498934
@@ -32519,13 +32729,12 @@
         "American"
       ],
       "diningPlan" : [
-        "Disney Dining Plan",
-        "Disney Quick-Service Dining Plan"
+        "Disney Dining Plan"
       ],
       "id" : "90002195;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/boardwalk/boardwalk-hot-dog-cart/boardwalk-hot-dog-cart-00.jpg?1699630706893",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3660851619,
         "longitude" : -81.5288778394
@@ -32925,11 +33134,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003388;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Echo Lake",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/tatooine-traders/tatooine-traders-00.jpg?1699630613638",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.355424,
         "longitude" : -81.559009
@@ -32963,11 +33175,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003452;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/the-tea-caddy/the-tea-caddy-00.jpg?1699630571432",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.370448,
         "longitude" : -81.551989
@@ -33270,11 +33485,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "55286;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Discovery",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/attractions/epcot/test-track/test-track-gallery14.jpg?1699630565810",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.372939,
         "longitude" : -81.547682
@@ -34166,11 +34384,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003470;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Sunset Boulevard",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/tower-shop/tower-shop-00.jpg?1699630615895",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.359834,
         "longitude" : -81.559681
@@ -34418,11 +34639,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003480;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/epcot/trading-post/trading-post-canada-pavillion-16x9.jpg?1699630574789",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.371403,
         "longitude" : -81.551463
@@ -34685,11 +34909,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "328488;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/trend/trend-hero-00.jpg?1699631558787",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.372433,
         "longitude" : -81.514406
@@ -35607,11 +35834,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003492;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Main Street, U.S.A.",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/uptown-jewelers/uptown-jewelers-00.jpg?1699630641942",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4174433265,
         "longitude" : -81.5810286607
@@ -35640,11 +35870,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003494;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Tomorrowland",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/ursas-major-minor-mart/ursas-major-minor-mart-00-01.jpg?1699630644293",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.418648,
         "longitude" : -81.57844
@@ -35886,11 +36119,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003496;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/village-traders/village-traders-00.jpg?1699630576873",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.369009,
         "longitude" : -81.54626
@@ -36916,10 +37152,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003508;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/wilderness-lodge/wilderness-mercantile/wilderness-mercantile-00.jpg?1699631719762",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.408904,
         "longitude" : -81.572726
@@ -37005,11 +37244,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "18665183;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Pandora – The World of Avatar",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/windtraders/windtraders-banshee-toys-16x9.jpg?1699631484268",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.355678,
         "longitude" : -81.592751
@@ -37239,6 +37481,9 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "features" : [
         "Mobile Checkout"
       ],
@@ -37246,7 +37491,7 @@
       "isActive" : true,
       "land" : "Marketplace",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/lifestyle/FY23_DS_WOD_Evergreen_Child_at_Plush_Wall-16x9.jpg?2023-01-18T23:24:35+00:00",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.371464,
         "longitude" : -81.515097
@@ -37324,11 +37569,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003516;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "World Showcase",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/world-traveler/world-traveler-00.jpg?1699630582359",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.36987,
         "longitude" : -81.552843
@@ -37587,11 +37835,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003522;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Liberty Square",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/ye-olde-christmas-shoppe/ye-olde-christmas-shoppe-00.jpg?1699630646188",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.41912,
         "longitude" : -81.582248
@@ -37773,10 +38024,13 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "90003532;entityType=MerchandiseFacility",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/animal-kingdom-lodge/zawadi-marketplace/zawadi-marketplace-exterior-16x9.jpg?1699631691739",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.352236,
         "longitude" : -81.603475
@@ -37830,11 +38084,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "17367054;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Africa",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/ziwani-traders/ziwani-traders-00.jpg?1699631439272",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3590644688,
         "longitude" : -81.5919016851
@@ -37893,11 +38150,14 @@
       "contentType" : "Shops",
       "discountAnnualPass" : "20%",
       "discountInfo" : "Discount applies to select regularly priced merchandise.",
+      "discounts" : [
+        "Disney® Visa® Cardmember Perks"
+      ],
       "id" : "18073137;entityType=MerchandiseFacility",
       "isActive" : true,
       "land" : "Africa",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/zuris-sweet-shop/zuris-sweet-shop-00.jpg?1699631435024",
-      "lastChangeDate" : "2024-02-07T17:39:42Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.359071,
         "longitude" : -81.591605
@@ -37940,7 +38200,7 @@
       "webLink" : "https://disneyworld.disney.go.com/dining/epcot/outdoor-kitchens-allergy-friendly/"
     }
   ],
-  "lastUpdated" : "2024-02-23T15:38:34Z",
+  "lastUpdated" : "2024-02-25T13:28:30Z",
   "parks" : [
     {
       "changeLog" : [
@@ -37950,7 +38210,7 @@
       "id" : "80010402;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-movies/all-star-movies-resort-00.jpg?1706623214303",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3359770882,
         "longitude" : -81.572010423
@@ -37971,7 +38231,7 @@
       "id" : "80010400;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-music/all-star-music-resort-00.jpg?1706623230248",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3397862116,
         "longitude" : -81.5726712621
@@ -37992,7 +38252,7 @@
       "id" : "80010401;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-sports/all-star-sports-resort-00.jpg?1706623205433",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3438277228,
         "longitude" : -81.5752542294
@@ -38013,7 +38273,7 @@
       "id" : "80007823;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/destinations/animal-kingdom/mountain-16x9.jpg?1706140843577",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3553842507,
         "longitude" : -81.5900898529
@@ -38036,7 +38296,7 @@
       "id" : "80010395;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/animal-kingdom/animal-kingdom-lodge-00.jpg?1706623243174",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.352330447,
         "longitude" : -81.6035840465
@@ -38057,7 +38317,7 @@
       "id" : "273239;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/animal-kingdom-villas-kidani/kidani-villiage-firepit-16x9.jpg?1706623883535",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3542064076,
         "longitude" : -81.6056428242
@@ -38078,7 +38338,7 @@
       "id" : "80010404;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/art-of-animation/art-of-animation-00.jpg?1706623172995",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3504267174,
         "longitude" : -81.5486088004
@@ -38099,7 +38359,7 @@
       "id" : "80010389;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/beach-club/beach-club-resort-00.jpg?1706642288920",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3712891641,
         "longitude" : -81.5563996411
@@ -38120,7 +38380,7 @@
       "id" : "80007834;entityType=water-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/blizzard-beach/frozen-summer-games-blizzard-beach-concluded-girl-blizzard-beach-16x9.jpg?1706631056534",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3525184499,
         "longitude" : -81.5731637729
@@ -38142,7 +38402,7 @@
       "id" : "80008259;entityType=Entertainment-Venue",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/boardwalk/boardwalk-00.jpg?1665038589541",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3670764086,
         "longitude" : -81.5561679555
@@ -38164,7 +38424,7 @@
       "id" : "80010386;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/boardwalk-inn/board-walk-inn-00.jpg?1706642322622",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3664226494,
         "longitude" : -81.5558658815
@@ -38185,7 +38445,7 @@
       "id" : "80010391;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/boardwalk-villas/board-walk-villas-00.jpg?1706642197466",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3664226494,
         "longitude" : -81.5558658815
@@ -38206,7 +38466,7 @@
       "id" : "80010392;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/campsites-at-fort-wilderness/campsites-at-fort-wilderness-resort-00.jpg?1706623235676",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3956842977,
         "longitude" : -81.553762014
@@ -38227,7 +38487,7 @@
       "id" : "80010399;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/caribbean-beach-resort/caribbean-beach-resort-porte-cochere-16x9.jpg?1706642259367",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.362584,
         "longitude" : -81.541778
@@ -38248,7 +38508,7 @@
       "id" : "80010385;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/contemporary/contemporary-resort-00.jpg?1706724366391",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4150447218,
         "longitude" : -81.5748066259
@@ -38269,7 +38529,7 @@
       "id" : "80010396;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/coronado-springs-resort/coronado-tower-5x2.jpg?1706724206128",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.363254,
         "longitude" : -81.571314
@@ -38291,7 +38551,7 @@
       "id" : "10460;entityType=Entertainment-Venue",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/downtown-disney/downtown-disney-09.jpg?1696869513789",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.369355,
         "longitude" : -81.516818
@@ -38313,7 +38573,7 @@
       "id" : "80069788;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/dolphin/dolphin-resort-00.jpg?1705612222831",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3674799907,
         "longitude" : -81.561050917
@@ -38334,7 +38594,7 @@
       "id" : "80007838;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/destinations/epcot/epcot-monorail-16x9.jpg?1627073108257",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3762301397,
         "longitude" : -81.5494047655
@@ -38357,7 +38617,7 @@
       "id" : "80008033;entityType=Entertainment-Venue",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/espn-wide-world-of-sports-complex/espn-wide-world-of-sports-00.jpg?1699631738101",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3378383389,
         "longitude" : -81.5560553027
@@ -38379,7 +38639,7 @@
       "id" : "80010384;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/grand-floridian/grand-floridian-resort-and-spa-00.jpg?1706723798989",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4109434056,
         "longitude" : -81.5878207041
@@ -38400,7 +38660,7 @@
       "id" : "80007998;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/destinations/hollywood-studios/mickey-minnie-runaway-railroad-underwater-16x9.jpg?1705424205637",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3584111691,
         "longitude" : -81.558689232
@@ -38423,7 +38683,7 @@
       "id" : "80007944;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/cinderella-castle/0724ZQ_0195MS_JLM.jpg?2023-03-06T17:58:34+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4160036778,
         "longitude" : -81.5811902834
@@ -38446,7 +38706,7 @@
       "id" : "80010387;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/old-key-west-resort/old-key-west-resort-dock-16x9.jpg?1706623819589",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3753790351,
         "longitude" : -81.5334281875
@@ -38467,7 +38727,7 @@
       "id" : "80010388;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/polynesian/polynesian-resort-00.jpg?1706724426854",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4052682999,
         "longitude" : -81.5851331306
@@ -38488,7 +38748,7 @@
       "id" : "80010403;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/pop-century/pop-century-resort-00.jpg?1706623319563",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3504196359,
         "longitude" : -81.5429245485
@@ -38509,7 +38769,7 @@
       "id" : "80010398;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sassagoula-floatworks-and-foot-factory-entrance-door-display-16x9-16x9.jpg?2022-03-10T19:44:57+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3802027131,
         "longitude" : -81.5367997242
@@ -38530,7 +38790,7 @@
       "id" : "80010397;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/port-orleans-resort-riverside/port-orleans-resort-riverside-00.jpg?1706623294668",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3860667583,
         "longitude" : -81.5367138935
@@ -38551,7 +38811,7 @@
       "id" : "18995875;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/riviera-resort/overview/riviera-enterance-16x9.jpg?1706623687213",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.366292,
         "longitude" : -81.541915
@@ -38572,7 +38832,7 @@
       "id" : "80010383;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/saratoga-springs-resort-and-spa/saratoga-springs-water-island-16x9.jpg?1706623939417",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3764433669,
         "longitude" : -81.5229471303
@@ -38593,7 +38853,7 @@
       "id" : "80069789;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/swan-resort/swan-resort-00.jpg?1705612305831",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3655210689,
         "longitude" : -81.5585940136
@@ -38614,7 +38874,7 @@
       "id" : "19621562;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/swan-and-dolphin/A176-Exterior-2-16x9.jpg?2022-02-18T19:49:36+00:00",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.36461,
         "longitude" : -81.56099
@@ -38635,7 +38895,7 @@
       "id" : "80007981;entityType=water-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/typhoon-lagoon/typhoon-lagoon-16x9.jpg?1699892360289",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3650541008,
         "longitude" : -81.5278921081
@@ -38657,7 +38917,7 @@
       "id" : "80010394;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/wilderness-lodge/wilderness-lodge-resort-00.jpg?1706724306244",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.4090206747,
         "longitude" : -81.5731570674
@@ -38678,7 +38938,7 @@
       "id" : "80010390;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/yacht-club-resort/yacht-club-resort-00.jpg?1706642010433",
-      "lastChangeDate" : "2024-02-23T15:38:34Z",
+      "lastChangeDate" : "2024-02-25T13:28:30Z",
       "location" : {
         "latitude" : 28.3707298331,
         "longitude" : -81.5586982942

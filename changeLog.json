@@ -312,6 +312,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1001,6 +1008,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1672,6 +1686,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2202,6 +2223,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2255,6 +2283,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2307,6 +2342,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/epcot/art-of-disney-epcot/art-of-disney-epcot-00.jpg?1661278228685 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/art-of-disney-epcot/art-of-disney-epcot-00.jpg?1661278228685"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -2375,6 +2417,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2427,6 +2476,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/saratoga-springs-resort-and-spa/the-artist-palette-shop/the-artist-palette-shop-00.jpg?1699631724078 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/saratoga-springs-resort-and-spa/the-artist-palette-shop/the-artist-palette-shop-00.jpg?1699631724078"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -2856,6 +2912,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3089,6 +3152,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3141,6 +3211,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/saratoga-springs-resort-and-spa/backstretch-pool-bar/backstretch-pool-bar-00.jpg?1664987998713 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/saratoga-springs-resort-and-spa/backstretch-pool-bar/backstretch-pool-bar-00.jpg?1664987998713"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -3314,6 +3391,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/coronado-springs-resort/barcelona-lounge/barcelona-lounge-16x9.jpg?1663374061152 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/coronado-springs-resort/barcelona-lounge/barcelona-lounge-16x9.jpg?1663374061152"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -3800,6 +3884,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3866,6 +3957,13 @@
           "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -3973,6 +4071,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4040,6 +4145,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4092,6 +4204,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/blizzard-beach/beach-haus/beach-haus-00.jpg?1675456599336 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/blizzard-beach/beach-haus/beach-haus-00.jpg?1675456599336"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -4205,6 +4324,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/grand-floridian-resort-and-spa/beach-pool-bar/beach-pool-bar-00.jpg?1686573655517 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/grand-floridian-resort-and-spa/beach-pool-bar/beach-pool-bar-00.jpg?1686573655517"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -4417,6 +4543,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/shops/hollywood-studios/beverly-sunset/hollywood-studios-teen-16x9.jpg?1661294813392 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/hollywood-studios/beverly-sunset/hollywood-studios-teen-16x9.jpg?1661294813392"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -4683,6 +4816,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4803,6 +4943,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/big-top-souvenirs/X-big-top-souvenirs-00-720x405.jpg?1661289567392 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/big-top-souvenirs/X-big-top-souvenirs-00-720x405.jpg?1661289567392"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -4962,6 +5109,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disneyland/shops/disneyland/black-spire-outfitters/black-spire-outfitters-interior-16x9.jpg?1679086499428 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disneyland/shops/disneyland/black-spire-outfitters/black-spire-outfitters-interior-16x9.jpg?1679086499428"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -5149,6 +5303,13 @@
           "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -5588,6 +5749,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -5640,6 +5808,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/polynesian-resort/bou-tiki-merchandise-shop/bou-tiki-merchandise-shop-00.jpg?1678989414980 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/polynesian-resort/bou-tiki-merchandise-shop/bou-tiki-merchandise-shop-00.jpg?1678989414980"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -6761,6 +6936,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -6866,6 +7048,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/lobby-coffee/WDW_Boardwalk_LobbyCoffee_Stylized_082522-7133-16x9.jpg?2022-11-09T19:00:11+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/lobby-coffee/WDW_Boardwalk_LobbyCoffee_Stylized_082522-7133-16x9.jpg?2022-11-09T19:00:11+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -7079,6 +7268,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7291,6 +7487,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7365,6 +7568,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7417,6 +7627,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/carribean-beach-resort/centertown-market/centertown-market-16x9.jpg?1703113595098 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/carribean-beach-resort/centertown-market/centertown-market-16x9.jpg?1703113595098"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -7788,6 +8005,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/chester-and-hester-dinosaur-treasures/chester-and-hesters-dinosaur-treasures-00.jpg?1665144079438 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/chester-and-hester-dinosaur-treasures/chester-and-hesters-dinosaur-treasures-00.jpg?1665144079438"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -8810,6 +9034,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8862,6 +9093,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/columbia-harbour-house/MK_CHH_Full_NewEnglandShrimpBoilTwoBreads-16x9.jpg?2023-11-20T21:12:40+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/columbia-harbour-house/MK_CHH_Full_NewEnglandShrimpBoilTwoBreads-16x9.jpg?2023-11-20T21:12:40+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -9022,6 +9260,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9074,6 +9319,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/starbucks/starbucks-00.jpg?1704796849507 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/starbucks/starbucks-00.jpg?1704796849507"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -9141,6 +9393,13 @@
           "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -9247,6 +9506,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/resort-dining/contemporary-resort/contempo-cafe/contempo-cafe-gallery00.jpg?1676560704858 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/resort-dining/contemporary-resort/contempo-cafe/contempo-cafe-gallery00.jpg?1676560704858"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -9686,6 +9952,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9845,6 +10118,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9897,6 +10177,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/contemporary-resort/cove-bar/cove-bar-01-16x9.jpg?1673389167180 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/contemporary-resort/cove-bar/cove-bar-01-16x9.jpg?1673389167180"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -10022,6 +10309,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10074,6 +10368,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/creature-comforts/creature-comforts-fountain-view-ice-cream-16x9.jpg?1704794190952 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/creature-comforts/creature-comforts-fountain-view-ice-cream-16x9.jpg?1704794190952"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -10393,6 +10694,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10445,6 +10753,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/epcot/the-crown-and-crest/the-crown-and-crest-00.jpg?1699630569300 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/the-crown-and-crest/the-crown-and-crest-00.jpg?1699630569300"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -10803,6 +11118,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10855,6 +11177,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/curtain-call-collectibles/curtain-call-collectibles-00.jpg?1661289587707 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/curtain-call-collectibles/curtain-call-collectibles-00.jpg?1661289587707"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -11288,6 +11617,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -11507,6 +11843,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -11665,6 +12008,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/attractions/animal-kingdom/the-boneyard/the-boneyard-gallery05.jpg?1675455751551 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/attractions/animal-kingdom/the-boneyard/the-boneyard-gallery05.jpg?1675455751551"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -12050,6 +12400,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/shops/animal-kingdom/discovery-trading-company/discover-trading-16x9.jpg?1675457681703 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/animal-kingdom/discovery-trading-company/discover-trading-16x9.jpg?1675457681703"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -12761,6 +13118,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -13433,6 +13797,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -13645,6 +14016,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -13698,6 +14076,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -13750,6 +14135,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-16x9.jpg?2022-03-10T19:41:03+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-16x9.jpg?2022-03-10T19:41:03+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -13856,6 +14248,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disneyland/shops/disneyland/dok-ondars-den-of-antiquities/dok-andars-characters-16x9.jpg?1699630584601 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disneyland/shops/disneyland/dok-ondars-den-of-antiquities/dok-andars-characters-16x9.jpg?1699630584601"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -13969,6 +14368,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/all-star-movie-resort/donalds-double-feature-00.jpg?1699631680582 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/all-star-movie-resort/donalds-double-feature-00.jpg?1699631680582"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -14235,6 +14641,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -14287,6 +14700,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/art-of-animation/drop-off-pool-bar/the-drop-off-pool-bar-00.jpg?1703113497769 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/art-of-animation/drop-off-pool-bar/the-drop-off-pool-bar-00.jpg?1703113497769"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -14605,6 +15025,14 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/eet/Maneet-Chauhan-Bangle-Wall-Headshot_credit-David-Bradley-Osprey-Media-16x9.jpg?2023-09-22T16:37:30+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/eet/Maneet-Chauhan-Bangle-Wall-Headshot_credit-David-Bradley-Osprey-Media-16x9.jpg?2023-09-22T16:37:30+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discountAnnualPass := Empty --> 10%",
+          "discountInfo := Empty --> Valid on food, nonalcoholic beverages and merchandise for up to 4 Guests. Not valid on ticketed events or chef dinners."
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -15214,6 +15642,13 @@
         ],
         "date" : "2024-02-16T16:52:58Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -15400,6 +15835,13 @@
           "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -16206,6 +16648,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -16312,6 +16761,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -16371,6 +16827,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/lifestyle/FY23_DS_Ever_After_Evergreen_Couple_with_CM-16x9.jpg?2023-01-18T22:55:56+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/lifestyle/FY23_DS_Ever_After_Evergreen_Couple_with_CM-16x9.jpg?2023-01-18T22:55:56+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -16545,6 +17008,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -16597,6 +17067,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/pop-century-resort/everything-pop-shop/everything-pop-shop-00.jpg?1699631715604 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/pop-century-resort/everything-pop-shop/everything-pop-shop-00.jpg?1699631715604"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -16863,6 +17340,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -17075,6 +17559,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -17233,6 +17724,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/epcot/fife-and-drum-tavern/fife-and-drum-tavern-00.jpg?1704797005411 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/epcot/fife-and-drum-tavern/fife-and-drum-tavern-00.jpg?1704797005411"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -17584,6 +18082,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -17689,6 +18194,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/animal-kingdom/flame-tree-barbecue/flame-tree-barbecue-gallery06.jpg?1704794433469 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/animal-kingdom/flame-tree-barbecue/flame-tree-barbecue-gallery06.jpg?1704794433469"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -18326,6 +18838,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -18545,6 +19064,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -18650,6 +19176,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/port-orleans-resort-riverside/fultons-general-store/fultons-general-store-00.jpg?1699631728308 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/port-orleans-resort-riverside/fultons-general-store/fultons-general-store-00.jpg?1699631728308"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -19301,6 +19834,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -19354,6 +19894,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -19406,6 +19953,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/epcot/gateway-gifts/gateway-gifts-00.jpg?1699631664125 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/gateway-gifts/gateway-gifts-00.jpg?1699631664125"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -19734,6 +20288,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -19946,6 +20507,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -19998,6 +20566,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/golden-oak-outpost-00-16x9.jpg?2022-03-10T19:40:45+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/golden-oak-outpost-00-16x9.jpg?2022-03-10T19:40:45+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -20105,6 +20680,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -20210,6 +20792,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/goofys-candy-company/goofys-candy-company-01.jpg?1699631474411 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/goofys-candy-company/goofys-candy-company-01.jpg?1699631474411"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -20642,6 +21231,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/end-zone-food-court/WDW_MOD-VAL_A-Zcocktails_FULL_DH-16x9.jpg?2022-03-17T17:33:57+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/end-zone-food-court/WDW_MOD-VAL_A-Zcocktails_FULL_DH-16x9.jpg?2022-03-17T17:33:57+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -21232,6 +21828,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/harambe-market/harambe-market-00.jpg?1704794443055 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/harambe-market/harambe-market-00.jpg?1704794443055"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -22148,6 +22751,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -22200,6 +22810,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/beach-club-resort/hurricane-hanna-grill/hurricane-hanna-grill-00-new.jpg?1699631995704 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/beach-club-resort/hurricane-hanna-grill/hurricane-hanna-grill-00-new.jpg?1699631995704"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -22306,6 +22923,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/epcot/il-bel-cristallo/il-bel-cristallo-00.jpg?1699631587220 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/il-bel-cristallo/il-bel-cristallo-00.jpg?1699631587220"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -22466,6 +23090,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -22624,6 +23255,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/shops/hollywood-studios/in-character-disneys-costume-shop/plush-minnie-mouse-dolls-16x9.jpg?1699630591343 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/hollywood-studios/in-character-disneys-costume-shop/plush-minnie-mouse-dolls-16x9.jpg?1699630591343"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -22904,6 +23542,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -23062,6 +23707,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/island-mercantile/island-mercantile-00.jpg?1699631452621 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/island-mercantile/island-mercantile-00.jpg?1699631452621"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -23327,6 +23979,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/port-orleans-resort-french-quarter/jackson-square-gifts/jackson-square-gifts-00.jpg?1699631717775 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/port-orleans-resort-french-quarter/jackson-square-gifts/jackson-square-gifts-00.jpg?1699631717775"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -24628,6 +25287,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -25757,6 +26423,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -25915,6 +26588,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/kilimanjaro-safari-cart/kilimanjaro-safari-cart-00.jpg?1699631430292 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/kilimanjaro-safari-cart/kilimanjaro-safari-cart-00.jpg?1699631430292"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -26552,6 +27232,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -26990,6 +27677,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -27042,6 +27736,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/epcot/la-signature/la-signature-00.jpg?1699631655653 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/la-signature/la-signature-00.jpg?1699631655653"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -27322,6 +28023,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -27542,6 +28250,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -27708,6 +28423,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -27775,6 +28497,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -27827,6 +28556,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/boardwalk/leaping-horse-libations/leaping-horse-libations-00.jpg?1699632012324 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/boardwalk/leaping-horse-libations/leaping-horse-libations-00.jpg?1699632012324"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -27933,6 +28669,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/legends/legends-00.jpg?1699630597004 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/legends/legends-00.jpg?1699630597004"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -28410,6 +29153,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/liberty-square-market/liberty-square-market-03.jpg?1704798638080 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/liberty-square-market/liberty-square-market-03.jpg?1704798638080"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -28948,6 +29698,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -29106,6 +29863,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/typhoon-lagoon/low-tide-lou/low-tide-lou-00.jpg?1699628831996 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/typhoon-lagoon/low-tide-lou/low-tide-lou-00.jpg?1699628831996"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -29379,6 +30143,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -29643,6 +30414,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/all-star-music-resort/maestro-mickeys-00.jpg?1699631682651 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/all-star-music-resort/maestro-mickeys-00.jpg?1699631682651"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -29962,6 +30740,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -30067,6 +30852,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/shopping/main-street-confectionery/Main-Street-Confectionery.jpg?2022-08-19T02:11:15+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/shopping/main-street-confectionery/Main-Street-Confectionery.jpg?2022-08-19T02:11:15+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -30279,6 +31071,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/animal-kingdom-lodge/maji-pool-bar/maji-pool-bar-00.jpg?1699631911853 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/animal-kingdom-lodge/maji-pool-bar/maji-pool-bar-00.jpg?1699631911853"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -30680,6 +31479,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -30892,6 +31698,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -31011,6 +31824,13 @@
           "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -31171,6 +31991,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -31223,6 +32050,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/disney-centerpiece/disney-centerpiece-00.jpg?1675457436879 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/disney-centerpiece/disney-centerpiece-00.jpg?1675457436879"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -31329,6 +32163,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/d-tech-on-demand/d-tech-on-demand-00.jpg?1675457401176 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/d-tech-on-demand/d-tech-on-demand-00.jpg?1675457401176"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -31807,6 +32648,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -31859,6 +32707,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/fort-wilderness-and-campground/meadow-trading-post-00.jpg?1699631696314 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/fort-wilderness-and-campground/meadow-trading-post-00.jpg?1699631696314"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -33298,6 +34153,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -33509,6 +34371,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/mickeys-of-hollywood/mickeys-of-hollywood-01.jpg?1699630599222 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/mickeys-of-hollywood/mickeys-of-hollywood-01.jpg?1699630599222"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -34107,6 +34976,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -34266,6 +35142,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -34318,6 +35201,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/mombasa-marketplace/mombasa-marketplace-00.jpg?1699631428104 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/mombasa-marketplace/mombasa-marketplace-00.jpg?1699631428104"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -34690,6 +35580,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -35015,6 +35912,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -35293,6 +36197,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/WDW_RoseGold2019_Polynesian_OasisPoolBar_RoseGoldMargarita_0328ZR_0221CMG.jpg?2022-03-10T19:39:31+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/polynesian-resort/WDW_RoseGold2019_Polynesian_OasisPoolBar_RoseGoldMargarita_0328ZR_0221CMG.jpg?2022-03-10T19:39:31+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -35771,6 +36682,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -35823,6 +36741,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/once-upon-a-toy/once-upon-a-toy-hero-00.jpg?1699631519013 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/once-upon-a-toy/once-upon-a-toy-hero-00.jpg?1699631519013"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -36036,6 +36961,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -36141,6 +37073,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/saratoga-springs-resort-and-spa/paddock-grill/paddock-grill-00.jpg?1699632085574 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/saratoga-springs-resort-and-spa/paddock-grill/paddock-grill-00.jpg?1699632085574"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -36304,6 +37243,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/shops/coronado-springs-resort/panchitos-gifts-and-sundries/panchitos-gifts-exterior-16x9.jpg?1699631705402 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/coronado-springs-resort/panchitos-gifts-and-sundries/panchitos-gifts-exterior-16x9.jpg?1699631705402"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -36680,6 +37626,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -36838,6 +37791,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/pop-century-resort/petals-pool-bar/petals-pool-bar-00.jpg?1703113789873 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/pop-century-resort/petals-pool-bar/petals-pool-bar-00.jpg?1703113789873"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -37104,6 +38064,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -37209,6 +38176,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/pinnocchio-village-haus/pinocchio-village-haus-00.jpg?1704798770317 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/pinnocchio-village-haus/pinocchio-village-haus-00.jpg?1704798770317"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -37443,6 +38417,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -37495,6 +38476,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/pizzafari/wdw-dak-pizza-full-pepperoni-pizza-hero-16x9.jpg?1704794677836 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/pizzafari/wdw-dak-pizza-full-pepperoni-pizza-hero-16x9.jpg?1704794677836"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -37601,6 +38589,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/pizzerizzo/pizzerizzo-00.jpg?1704796138727 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/pizzerizzo/pizzerizzo-00.jpg?1704796138727"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -37761,6 +38756,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -37813,6 +38815,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/pirates-bazaar/pirates-bazaar-00.jpg?1699630637456 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/pirates-bazaar/pirates-bazaar-00.jpg?1699630637456"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -38355,6 +39364,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -38414,6 +39430,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/primo-piatto/WDW_Riviera_PrimoPiatto_PrimoBreakfastPlatter_FULL_DH-16x9.jpg?2022-10-11T23:41:21+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/primo-piatto/WDW_Riviera_PrimoPiatto_PrimoBreakfastPlatter_FULL_DH-16x9.jpg?2022-10-11T23:41:21+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -39323,6 +40346,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -39428,6 +40458,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/epcot/liberty-inn/regal-eagle-kansas-city-half-chicken-16x9.jpg?1704797564569 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/epcot/liberty-inn/regal-eagle-kansas-city-half-chicken-16x9.jpg?1704797564569"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -39641,6 +40678,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -39800,6 +40844,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -39866,6 +40917,13 @@
           "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -39973,6 +41031,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -40025,6 +41090,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/rock-around-the-shop/rock-around-the-shop-00.jpg?1699630607068 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/rock-around-the-shop/rock-around-the-shop-00.jpg?1699630607068"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -40184,6 +41256,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/hollywood-studios/ronto-roasters/rontos-roasters-16x9.jpg?1704796185738 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/hollywood-studios/ronto-roasters/rontos-roasters-16x9.jpg?1704796185738"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -40569,6 +41648,13 @@
           "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -41167,6 +42253,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -41340,6 +42433,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -41445,6 +42545,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/shops/hollywood-studios/savis-workshop-handbuilt-lightsabers/guests-raised-lightsabers-16x9.jpg?1699631643562 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/hollywood-studios/savis-workshop-handbuilt-lightsabers/guests-raised-lightsabers-16x9.jpg?1699631643562"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -41824,6 +42931,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -42089,6 +43203,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -42141,6 +43262,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/wilderness-lodge/settlement-trading-post/settlement-trading-post-00.jpg?1699631702706 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/wilderness-lodge/settlement-trading-post/settlement-trading-post-00.jpg?1699631702706"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -42732,6 +43860,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -42784,6 +43919,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/typhoon-lagoon-water-park/singapore-sals/singapore-sals-00.jpg?1699630648284 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/typhoon-lagoon-water-park/singapore-sals/singapore-sals-00.jpg?1699630648284"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -42838,6 +43980,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -42890,6 +44039,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/guest-services/photopass/experience/MK23-MarketingTimothy0307-7631-16x9.jpg?2023-07-21T19:44:01+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/guest-services/photopass/experience/MK23-MarketingTimothy0307-7631-16x9.jpg?2023-07-21T19:44:01+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -43010,6 +44166,13 @@
           "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -43283,6 +44446,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -43494,6 +44664,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/epcot/sommerfest/block-hans-prezel-16x9.jpg?1704797768593 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/epcot/sommerfest/block-hans-prezel-16x9.jpg?1704797768593"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -44259,6 +45436,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -44485,6 +45669,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -44538,6 +45729,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -44590,6 +45788,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/stage-1-company-store/stage-1-company-store-00.jpg?1699631425861 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/hollywood-studios/stage-1-company-store/stage-1-company-store-00.jpg?1699631425861"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -44764,6 +45969,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -44816,6 +46028,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/shops/disney-springs/star-wars-galactic-outpost/star-wars-galactic-outpost-boys-16x9.jpg?1699631551772 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/disney-springs/star-wars-galactic-outpost/star-wars-galactic-outpost-boys-16x9.jpg?1699631551772"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -45095,6 +46314,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/marletplace-fun-finds/disney-springs-marketplace-finds-star-wars-merchandise-boy-16x9.jpg?1699631598618 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/marletplace-fun-finds/disney-springs-marketplace-finds-star-wars-merchandise-boy-16x9.jpg?1699631598618"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -46614,6 +47840,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -47197,6 +48430,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -47249,6 +48489,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/epcot/the-tea-caddy/the-tea-caddy-00.jpg?1699630571432 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/the-tea-caddy/the-tea-caddy-00.jpg?1699630571432"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -47634,6 +48881,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/attractions/epcot/test-track/test-track-gallery14.jpg?1699630565810 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/attractions/epcot/test-track/test-track-gallery14.jpg?1699630565810"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -48783,6 +50037,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -49153,6 +50414,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/shops/epcot/trading-post/trading-post-canada-pavillion-16x9.jpg?1699630574789 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/epcot/trading-post/trading-post-canada-pavillion-16x9.jpg?1699630574789"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -49545,6 +50813,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/trend/trend-hero-00.jpg?1699631558787 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/trend/trend-hero-00.jpg?1699631558787"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -50740,6 +52015,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -50792,6 +52074,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/ursas-major-minor-mart/ursas-major-minor-mart-00-01.jpg?1699630644293 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/magic-kingdom/ursas-major-minor-mart/ursas-major-minor-mart-00-01.jpg?1699630644293"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -51167,6 +52456,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/epcot/village-traders/village-traders-00.jpg?1699630576873 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/village-traders/village-traders-00.jpg?1699630576873"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -52546,6 +53842,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -52651,6 +53954,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/windtraders/windtraders-banshee-toys-16x9.jpg?1699631484268 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/windtraders/windtraders-banshee-toys-16x9.jpg?1699631484268"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -52970,6 +54280,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -53103,6 +54420,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/epcot/world-traveler/world-traveler-00.jpg?1699630582359 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/epcot/world-traveler/world-traveler-00.jpg?1699630582359"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
@@ -53482,6 +54806,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -53747,6 +55078,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -53853,6 +55191,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -53958,6 +55303,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/zuris-sweet-shop/zuris-sweet-shop-00.jpg?1699631435024 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/more/shops/animal-kingdom/zuris-sweet-shop/zuris-sweet-shop-00.jpg?1699631435024"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "discounts := Empty --> Disney® Visa® Cardmember Perks"
+        ],
+        "date" : "2024-02-25T13:28:30Z",
         "type" : "Updated"
       }
     ]
