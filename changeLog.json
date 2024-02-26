@@ -75,6 +75,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -192,6 +199,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -244,6 +258,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/50s-prime-time/WDW_DHS_PrimeTime_FriedChicken_FULL_DH-16x9.jpg?2023-01-05T22:17:31+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/50s-prime-time/WDW_DHS_PrimeTime_FriedChicken_FULL_DH-16x9.jpg?2023-01-05T22:17:31+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -325,6 +346,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -1075,6 +1103,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1127,6 +1162,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/yacht-club-resort/ale-and-compass-lounge/ale-and-compass-lounge-01.jpg?1664393570921 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/yacht-club-resort/ale-and-compass-lounge/ale-and-compass-lounge-01.jpg?1664393570921"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -1195,6 +1237,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1254,6 +1303,13 @@
           "diningPlan := Empty --> Disney Dining Plan"
         ],
         "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -1713,6 +1769,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -2452,6 +2515,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2954,6 +3024,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3201,6 +3278,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3268,6 +3352,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3328,6 +3419,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3387,6 +3485,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/riviera-resort/bar-riva/wdw-riviera-beverage-lemon-16x9.jpg?1706561817460 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/riviera-resort/bar-riva/wdw-riviera-beverage-lemon-16x9.jpg?1706561817460"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -3454,6 +3559,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -4028,6 +4140,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4080,6 +4199,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/be-our-guest-restaurant/be-our-guest-restaurant-00.jpg?1704798259079 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/be-our-guest-restaurant/be-our-guest-restaurant-00.jpg?1704798259079"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -4222,6 +4348,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4342,6 +4475,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4408,6 +4548,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -4840,6 +4987,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -5261,6 +5415,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -5394,6 +5555,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -5621,6 +5789,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -5674,6 +5849,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -5726,6 +5908,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/animal-kingdom-lodge/boma-flavors-of-africa/boma-flavors-of-africa-00.jpg?1700004972134 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/animal-kingdom-lodge/boma-flavors-of-africa/boma-flavors-of-africa-00.jpg?1700004972134"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -6536,6 +6725,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -6914,6 +7110,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -6966,6 +7169,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/global-marketplaces/cape-town-lounge-and-wine-bar-gallery10-16x9.jpg?2022-01-10T15:00:37+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/global-marketplaces/cape-town-lounge-and-wine-bar-gallery10-16x9.jpg?2022-01-10T15:00:37+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -7033,6 +7243,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -7153,6 +7370,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -7380,6 +7604,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7539,6 +7770,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7687,6 +7925,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7760,6 +8005,13 @@
           "quickService :=  --> Quick Service Restaurant"
         ],
         "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -7920,6 +8172,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7973,6 +8232,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8025,6 +8291,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/epcot/chefs-de-france/chefs-de-france-gallery05.jpg?1704796801956 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/epcot/chefs-de-france/chefs-de-france-gallery05.jpg?1704796801956"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -8191,6 +8464,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/disney-springs/chicken-guy/tenders-meal-tray-16x9.jpg?1666991563897 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/disney-springs/chicken-guy/tenders-meal-tray-16x9.jpg?1666991563897"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -8457,6 +8737,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8616,6 +8903,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8722,6 +9016,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8775,6 +9076,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8827,6 +9135,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-springs/dining/city-works/short-rib-tacos-16x9.jpg?1691683271925 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-springs/dining/city-works/short-rib-tacos-16x9.jpg?1691683271925"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -9234,6 +9549,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9467,6 +9789,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9547,6 +9876,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -9668,6 +10004,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9773,6 +10116,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/disney-springs/cookes-of-dublin/cookes-fish-chips-16x9.jpg?1663099392849 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/disney-springs/cookes-of-dublin/cookes-fish-chips-16x9.jpg?1663099392849"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -9880,6 +10230,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9932,6 +10289,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/epcot/coral-reef-restaurant/coral-reef-restaurant-gallery01.jpg?1704796877974 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/epcot/coral-reef-restaurant/coral-reef-restaurant-gallery01.jpg?1704796877974"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -10120,6 +10484,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10293,6 +10664,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10359,6 +10737,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -10558,6 +10943,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10664,6 +11056,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10717,6 +11116,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10769,6 +11175,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/crocketts-tavern/WDW_FortWilderness_Crocketts_CrockettsBeveragesArrayStrawberry_FULL_DH-16x9.jpg?2023-07-20T19:02:30+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/crocketts-tavern/WDW_FortWilderness_Crocketts_CrockettsBeveragesArrayStrawberry_FULL_DH-16x9.jpg?2023-07-20T19:02:30+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -11190,6 +11603,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -11420,6 +11840,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -11472,6 +11899,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/daily-poutine/daily-poutine-01.png?1663100850811 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/daily-poutine/daily-poutine-01.png?1663100850811"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -11865,6 +12299,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/diamond-horseshoe/0303ZV_0066MW-16x9.jpg?2022-03-10T19:15:27+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/diamond-horseshoe/0303ZV_0066MW-16x9.jpg?2022-03-10T19:15:27+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -14212,6 +14653,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -14279,6 +14727,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -14345,6 +14800,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -14918,6 +15380,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -15024,6 +15493,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -15076,6 +15552,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/disney-springs/the-edison-burger-disney-springs-16x9.jpg?1699632043766 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/disney-springs/the-edison-burger-disney-springs-16x9.jpg?1699632043766"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -15406,6 +15889,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/coronado-springs-resort/mercado-coronado/mercado-coronado-sign-16x9.jpg?1699632022609 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/coronado-springs-resort/mercado-coronado/mercado-coronado-sign-16x9.jpg?1699632022609"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -15912,6 +16402,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -16059,6 +16556,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -16271,6 +16775,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/disney-springs/enzos-hideaway/enzos-interior-5-16x9.jpg?1699632045798 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/disney-springs/enzos-hideaway/enzos-interior-5-16x9.jpg?1699632045798"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -16992,6 +17503,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -17245,6 +17763,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -17584,6 +18109,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -17976,6 +18508,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -18454,6 +18993,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -18612,6 +19158,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/flying-fish/WDW_BoardWalk_FlyingFish_GrilledOctopus_Full_0316ZN_0371KP-16x9.jpg?2023-06-14T18:16:56+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/flying-fish/WDW_BoardWalk_FlyingFish_GrilledOctopus_Full_0316ZN_0371KP-16x9.jpg?2023-06-14T18:16:56+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -18930,6 +19483,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/friars-nook/friars-nook-00.jpg?1704798480945 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/friars-nook/friars-nook-00.jpg?1704798480945"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -19927,6 +20487,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -20033,6 +20600,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -20100,6 +20674,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -20166,6 +20747,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -20386,6 +20974,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -20445,6 +21040,13 @@
           "diningPlan := Empty --> Disney Dining Plan"
         ],
         "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -20854,6 +21456,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -20973,6 +21582,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -21413,6 +22029,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -21532,6 +22155,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -21744,6 +22374,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/old-key-west-resort/gurgling-suitcase-libations-and-spirits/gurgling-suitcase-libations-and-spirits-00-new.jpg?1699631886712 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/old-key-west-resort/gurgling-suitcase-libations-and-spirits/gurgling-suitcase-libations-and-spirits-00-new.jpg?1699631886712"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -22137,6 +22774,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -22469,6 +23113,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -22522,6 +23173,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -22574,6 +23232,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-brown-derby-lounge/hollywood-brown-derby-lounge-gallery01.jpg?1704795900692 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-brown-derby-lounge/hollywood-brown-derby-lounge-gallery01.jpg?1704795900692"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -22839,6 +23504,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/house-of-blues/house-of-blues-restaurant-00.jpg?1699632064725 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/house-of-blues/house-of-blues-restaurant-00.jpg?1699632064725"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -23125,6 +23797,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -23864,6 +24543,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -24355,6 +25041,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -24567,6 +25260,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -24686,6 +25386,13 @@
           "diningPlan := Empty --> Disney Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -25987,6 +26694,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -26525,6 +27239,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/epcot/katsura-grill/katsura-grill-gallery04.jpg?1704797142285 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/epcot/katsura-grill/katsura-grill-gallery04.jpg?1704797142285"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -27123,6 +27844,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -27182,6 +27910,13 @@
           "diningPlan := Empty --> Disney Dining Plan"
         ],
         "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -27341,6 +28076,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/epcot/kringla-bakeri-og-kafe/kringla-skoolbread-16x9.jpg?1704797158059 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/epcot/kringla-bakeri-og-kafe/kringla-skoolbread-16x9.jpg?1704797158059"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -27667,6 +28409,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -27773,6 +28522,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -27878,6 +28634,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/epcot/la-hacienda-de-san-angel/hacienda-de-san-angel-00.jpg?1704797245072 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/epcot/la-hacienda-de-san-angel/hacienda-de-san-angel-00.jpg?1704797245072"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -28366,6 +29129,13 @@
         ],
         "date" : "2024-02-26T14:25:28Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -28699,6 +29469,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -28772,6 +29549,13 @@
           "diningPlan := Empty --> Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Quick-Service Dining Plan --> 2024 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -28854,6 +29638,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -28920,6 +29711,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -29192,6 +29990,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/epcot/les-halles-boulangerie-and-patisserie/les-halles-boulangerie-patisserie-strawberry-dessert-16x9.jpg?1704797309730 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/epcot/les-halles-boulangerie-and-patisserie/les-halles-boulangerie-patisserie-strawberry-dessert-16x9.jpg?1704797309730"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -29525,6 +30330,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -29743,6 +30555,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/liberty-tree-tavern/liberty-tree-tavern-00.jpg?1704798644409 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/liberty-tree-tavern/liberty-tree-tavern-00.jpg?1704798644409"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -30076,6 +30895,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -30128,6 +30954,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/epcot/lotus-blossom-cafe/lotus-blossom-cafe-gallery03.jpg?1704797401032 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/epcot/lotus-blossom-cafe/lotus-blossom-cafe-gallery03.jpg?1704797401032"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -30248,6 +31081,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -30414,6 +31254,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/the-lunching-pad/lunching-pad-00.jpg?1704799065482 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/magic-kingdom/the-lunching-pad/lunching-pad-00.jpg?1704799065482"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -31132,6 +31979,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -31471,6 +32325,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -31530,6 +32391,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/mama-melroses-ristorante-italiano/mama-melrose-ristorante-italiano-00.jpg?1704795973879 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/mama-melroses-ristorante-italiano/mama-melrose-ristorante-italiano-00.jpg?1704795973879"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -31810,6 +32678,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -31885,6 +32760,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -31937,6 +32819,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/disney-springs/maria-and-enzos-pasta-disney-springs-16x9.jpg?1699632080943 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/disney-springs/maria-and-enzos-pasta-disney-springs-16x9.jpg?1699632080943"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -32237,6 +33126,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -32736,6 +33632,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -32842,6 +33745,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -32947,6 +33857,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/coronado-springs-resort/maya-grill/maya-grill-dining-area-3-16x9.jpg?1699629464141 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/coronado-springs-resort/maya-grill/maya-grill-dining-area-3-16x9.jpg?1699629464141"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -33067,6 +33984,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -35781,6 +36705,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -35833,6 +36764,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/AVP_7088-16x9.jpg?2022-01-05T21:39:44+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/AVP_7088-16x9.jpg?2022-01-05T21:39:44+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -36007,6 +36945,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -36165,6 +37110,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/narcoossees/Image1-GF-Narcoossees-Blackened_Redfish-16x9.jpg?2023-02-08T13:30:36+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/narcoossees/Image1-GF-Narcoossees-Blackened_Redfish-16x9.jpg?2023-02-08T13:30:36+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -36392,6 +37344,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -36458,6 +37417,13 @@
           "diningPlan := Empty --> Disney Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -36631,6 +37597,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -36844,6 +37817,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -36950,6 +37930,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -37010,6 +37997,13 @@
         ],
         "date" : "2024-02-26T14:25:28Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -37069,6 +38063,13 @@
           "diningPlan := Empty --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -37462,6 +38463,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -37528,6 +38536,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -37858,6 +38873,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -38088,6 +39110,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -38194,6 +39223,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -38260,6 +39296,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -38653,6 +39696,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -38833,6 +39883,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -38900,6 +39957,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -38966,6 +40030,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -39087,6 +40158,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -39139,6 +40217,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/planet-hollywood-observatory/disney-springs-planet-hollywood-observatory-16x9-01.jpg?1699628725405 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/planet-hollywood-observatory/disney-springs-planet-hollywood-observatory-16x9-01.jpg?1699628725405"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -39426,6 +40511,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -39584,6 +40676,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/polite-pig/FY23-DS_Polite-Pig-Evergreen_Family-with-CM-16x9.jpg?2023-02-07T18:15:40+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/polite-pig/FY23-DS_Polite-Pig-Evergreen_Family-with-CM-16x9.jpg?2023-02-07T18:15:40+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -39935,6 +41034,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -40093,6 +41199,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/resorts/grand-floridian/overview/grand-floridian-resort-and-spa-gallery01.jpg?1699628846076 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/resorts/grand-floridian/overview/grand-floridian-resort-and-spa-gallery01.jpg?1699628846076"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -40366,6 +41479,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -40419,6 +41539,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -40471,6 +41598,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/rainforest-cafe-animal-kingdom/rainforest-cafe-animal-kingdom-00.jpg?1704794767443 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/rainforest-cafe-animal-kingdom/rainforest-cafe-animal-kingdom-00.jpg?1704794767443"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -40857,6 +41991,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -40976,6 +42117,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -41203,6 +42351,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -41308,6 +42463,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/boatwrights/HERO-WDW_Riverside_BoatwrightsRiverRoost_DrinkArray_FULL_DH-16x9.jpg?2022-09-29T17:14:08+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/boatwrights/HERO-WDW_Riverside_BoatwrightsRiverRoost_DrinkArray_FULL_DH-16x9.jpg?2022-09-29T17:14:08+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -41450,6 +42612,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -41502,6 +42671,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/resorts/coronado-springs-resort/dining/coronado-springs-rix-sports-bar-fries-16x9.jpg?1700010520894 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/coronado-springs-resort/dining/coronado-springs-rix-sports-bar-fries-16x9.jpg?1700010520894"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -41569,6 +42745,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -41803,6 +42986,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -41961,6 +43151,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/epcot/rose-and-crown-pub-and-dining-room/rose-and-crown-pub-and-dining-room-gallery11.jpg?1704797601185 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/epcot/rose-and-crown-pub-and-dining-room/rose-and-crown-pub-and-dining-room-gallery11.jpg?1704797601185"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -42202,6 +43399,13 @@
         ],
         "date" : "2024-02-25T13:37:40Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -42321,6 +43525,13 @@
           "diningPlan := Empty --> Disney Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -42481,6 +43692,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -42541,6 +43759,13 @@
         ],
         "date" : "2024-02-26T14:25:28Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -42593,6 +43818,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/animal-kingdom-villas-kidani/sanaa/sanaa-lounge-00.jpg?1699629481804 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/animal-kingdom-villas-kidani/sanaa/sanaa-lounge-00.jpg?1699629481804"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -42647,6 +43879,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -42699,6 +43938,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/contemporary-resort/sand-bar-and-grill/sand-bar-00.jpg?1699629261418 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/contemporary-resort/sand-bar-and-grill/sand-bar-00.jpg?1699629261418"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -42933,6 +44179,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -42999,6 +44252,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -43166,6 +44426,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -43218,6 +44485,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/1120ZR_1786MS_JB-16x9.jpg?2022-03-10T19:21:21+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/1120ZR_1786MS_JB-16x9.jpg?2022-03-10T19:21:21+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -43278,6 +44552,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/hollywood-studios/sci-fi-dine-in-theater/sci-fi-dine-in-theater-gallery02.jpg?1704796215924 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/hollywood-studios/sci-fi-dine-in-theater/sci-fi-dine-in-theater-gallery02.jpg?1704796215924"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -43603,6 +44884,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sebastians-bistro/WDW_CaribbeanBeach_Sebastians_SebastiansArray_FULLclose_DH-16x9.jpg?2023-03-14T15:45:31+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sebastians-bistro/WDW_CaribbeanBeach_Sebastians_SebastiansArray_FULLclose_DH-16x9.jpg?2023-03-14T15:45:31+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -43996,6 +45284,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -44314,6 +45609,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -44433,6 +45735,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -44560,6 +45869,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -44754,6 +46070,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -44974,6 +46297,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -45040,6 +46370,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -45266,6 +46603,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -45766,6 +47110,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -45924,6 +47275,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/splitsville/splitsville-dining-hero-00.jpg?1699628737602 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/splitsville/splitsville-dining-hero-00.jpg?1699628737602"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -46277,6 +47635,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -47323,6 +48688,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -47375,6 +48747,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-contemporary-resort/WDW_Contemporary_Steakhouse71_Beverages_0816ZP_0410MS-16x9.jpg?2022-03-10T19:37:13+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-contemporary-resort/WDW_Contemporary_Steakhouse71_Beverages_0816ZP_0410MS-16x9.jpg?2022-03-10T19:37:13+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -47435,6 +48814,13 @@
           "diningPlan := Empty --> Disney Dining Plan"
         ],
         "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -47729,6 +49115,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/1215ZS_0055KP_jrod-16x9.jpg?2022-03-10T19:21:45+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/disneys-wilderness-lodge/1215ZS_0055KP_jrod-16x9.jpg?2022-03-10T19:21:45+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -48237,6 +49630,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -48462,6 +49862,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -48780,6 +50187,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/polynesian-resort/tambu-lounge/tambu-lounge-00.jpg?1699631890993 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/polynesian-resort/tambu-lounge/tambu-lounge-00.jpg?1699631890993"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -49219,6 +50633,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -49325,6 +50746,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -49377,6 +50805,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/wilderness-lodge-resort/territory-lounge/territory-lounge-00.jpg?1699628836502 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/wilderness-lodge-resort/territory-lounge/territory-lounge-00.jpg?1699628836502"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -49671,6 +51106,13 @@
         ],
         "date" : "2024-02-26T14:25:28Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -49731,6 +51173,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -49783,6 +51232,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/tiffins/tiffin-surf-turf-16x9.jpg?2023-06-27T03:23:39+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/tiffins/tiffin-surf-turf-16x9.jpg?2023-06-27T03:23:39+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -50101,6 +51557,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/coronado-springs-resort/toledo/coronado-toledo-scallops-16x9.jpg?1700010819458 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/coronado-springs-resort/toledo/coronado-toledo-scallops-16x9.jpg?1700010819458"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -50494,6 +51957,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -50554,6 +52024,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -50606,6 +52083,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/riverside-mill-food-court/PORS_The_Mill_Food_Court_Full_Pull_Pork_Sandwich-16x9.jpg?2023-04-18T20:24:13+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/riverside-mill-food-court/PORS_The_Mill_Food_Court_Full_Pull_Pork_Sandwich-16x9.jpg?2023-04-18T20:24:13+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -51105,6 +52589,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -51172,6 +52663,13 @@
         ],
         "date" : "2024-02-23T15:38:34Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -51231,6 +52729,13 @@
           "diningPlan := Empty --> Disney Dining Plan"
         ],
         "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -51504,6 +53009,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -51662,6 +53174,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trolley-car-cafe/cafe-with-beans-16x9.jpg?2023-05-26T17:39:47+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trolley-car-cafe/cafe-with-beans-16x9.jpg?2023-05-26T17:39:47+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -51889,6 +53408,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -51941,6 +53467,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/old-key-west-resort/turtle-shack-poolside-snacks/turtle-shack-poolside-snacks-00.jpg?1699631888815 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/old-key-west-resort/turtle-shack-poolside-snacks/turtle-shack-poolside-snacks-00.jpg?1699631888815"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -52048,6 +53581,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -52101,6 +53641,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -52153,6 +53700,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/epcot/tutto-italia-ristorante/tutto-italia-ristorante-gallery02.jpg?1704798023424 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/epcot/tutto-italia-ristorante/tutto-italia-ristorante-gallery02.jpg?1704798023424"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -52326,6 +53880,13 @@
           "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -52924,6 +54485,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -53033,6 +54601,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/gallery/dining/resort-dining/animal-kingdom-lodge/victoria-falls-lounge/victoria-falls-lounge-gallery01.jpg?1699632027934 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/resort-dining/animal-kingdom-lodge/victoria-falls-lounge/victoria-falls-lounge-gallery01.jpg?1699632027934"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -53942,6 +55517,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -54312,6 +55894,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/disney-world/dining/wilderness-lodge-resort/whispering-canyon-cafe/wIldernesslodge-whisperingcanyon-lunchskillet-16x9.jpg?1703600224875 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/wilderness-lodge-resort/whispering-canyon-cafe/wIldernesslodge-whisperingcanyon-lunchskillet-16x9.jpg?1703600224875"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -54857,6 +56446,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -54983,6 +56579,13 @@
           "diningPlan := Disney Quick-Service Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-23T15:38:34Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -55171,6 +56774,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -55277,6 +56887,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -55382,6 +56999,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-restaurant/yak-and-yeti-restaurant-00.jpg?1704795256724 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-restaurant/yak-and-yeti-restaurant-00.jpg?1704795256724"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -55549,6 +57173,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> Empty"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -55601,6 +57232,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/epcot/yorkshire-county-fish-shop/yorkshire-county-fish-shop-00.jpg?1704798104079 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/epcot/yorkshire-county-fish-shop/yorkshire-county-fish-shop-00.jpg?1704798104079"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan, Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
         "type" : "Updated"
       }
     ]
@@ -55970,6 +57608,13 @@
       {
         "date" : "2024-02-25T14:41:05Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:51:37Z",
+        "type" : "Updated"
       }
     ]
   }
