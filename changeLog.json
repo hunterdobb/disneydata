@@ -1248,6 +1248,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7746,6 +7753,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "quickService :=  --> Quick Service Restaurant"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
         "type" : "Updated"
       }
     ]
@@ -20425,6 +20439,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -27155,6 +27176,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -28330,6 +28358,13 @@
           "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
         ],
         "date" : "2024-02-25T13:37:40Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "quickService := Food Court --> Food Court, Quick Service Restaurant"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
         "type" : "Updated"
       }
     ]
@@ -36968,6 +37003,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -37020,6 +37062,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/dam/wdpro-assets/things-to-do/dining/resort-dining/saratoga-springs-resort-and-spa/on-the-rocks/on-the-rocks-00.jpg?1699628710253 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/saratoga-springs-resort-and-spa/on-the-rocks/on-the-rocks-00.jpg?1699628710253"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
         "type" : "Updated"
       }
     ]
@@ -42485,6 +42534,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Disney Dining Plan --> Disney Dining Plan, Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -47373,6 +47429,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -49601,6 +49664,13 @@
         ],
         "date" : "2024-02-07T17:39:42Z",
         "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -51154,6 +51224,13 @@
           "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/1140/641/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trattoria/LasagnaBolognese-16x9.jpg?2023-02-08T18:49:44+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trattoria/LasagnaBolognese-16x9.jpg?2023-02-08T18:49:44+00:00"
         ],
         "date" : "2024-02-07T17:39:42Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> Disney Dining Plan"
+        ],
+        "date" : "2024-02-26T14:25:28Z",
         "type" : "Updated"
       }
     ]
