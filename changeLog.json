@@ -975,6 +975,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := 2024 Disney Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-27T15:01:15Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3945,6 +3952,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := 2024 Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-27T15:01:15Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -5408,6 +5422,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-27T15:01:15Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -6178,6 +6199,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := 2024 Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-27T15:01:15Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -6200,6 +6228,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := 2024 Disney Dining Plan, 2025 Disney Dining Plan --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-02-27T15:01:15Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -6816,6 +6851,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-27T15:01:15Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7817,6 +7859,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := 2024 Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan"
+        ],
+        "date" : "2024-02-27T15:01:15Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8422,6 +8471,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan --> 2024 Disney Dining Plan, 2024 Disney Quick-Service Dining Plan, 2025 Disney Dining Plan, 2025 Disney Quick-Service Dining Plan"
+        ],
+        "date" : "2024-02-27T15:01:15Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10687,6 +10743,39 @@
     "log" : [
       {
         "date" : "2024-02-26T15:11:11Z",
+        "type" : "Initial Add"
+      }
+    ]
+  },
+  {
+    "entityContentType" : "Entertainment",
+    "entityId" : "17198736;entityType=Entertainment",
+    "entityName" : "EPCOT International Flower & Garden Festival – Garden Rocks Concert Series",
+    "log" : [
+      {
+        "date" : "2024-02-27T15:01:15Z",
+        "type" : "Initial Add"
+      }
+    ]
+  },
+  {
+    "entityContentType" : "Dining",
+    "entityId" : "17195851;entityType=restaurant",
+    "entityName" : "Outdoor Kitchen - Hanami",
+    "log" : [
+      {
+        "date" : "2024-02-27T15:01:15Z",
+        "type" : "Initial Add"
+      }
+    ]
+  },
+  {
+    "entityContentType" : "Dining",
+    "entityId" : "18373716;entityType=restaurant",
+    "entityName" : "Outdoor Kitchen - La Isla Fresca",
+    "log" : [
+      {
+        "date" : "2024-02-27T15:01:15Z",
         "type" : "Initial Add"
       }
     ]
