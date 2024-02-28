@@ -7,6 +7,17 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "priceRangeDining := $$$ ($35 to $59.99 per adult) --> $$$$ (over $60 per adult)",
+          "tableService :=  --> Character Dining",
+          "meals := Breakfast, Brunch, Dinner --> Breakfast, Dinner",
+          "diningPlan := 2024 Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan",
+          "cuisine := Empty --> American"
+        ],
+        "date" : "2024-02-28T13:55:25Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1895,6 +1906,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "priceRangeDining := $$$ ($35 to $59.99 per adult) --> $$ ($15 to $34.99 per adult)"
+        ],
+        "date" : "2024-02-28T13:55:25Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2797,6 +2815,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "discounts := Disney® Visa® Cardmember Perks --> Empty"
+        ],
+        "date" : "2024-02-28T13:55:25Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8207,6 +8232,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "discounts := Disney® Visa® Cardmember Perks --> Empty"
+        ],
+        "date" : "2024-02-28T13:55:25Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10776,6 +10808,17 @@
     "log" : [
       {
         "date" : "2024-02-27T15:01:15Z",
+        "type" : "Initial Add"
+      }
+    ]
+  },
+  {
+    "entityContentType" : "Attractions",
+    "entityId" : "20194;entityType=Attraction",
+    "entityName" : "Soarin' Around the World",
+    "log" : [
+      {
+        "date" : "2024-02-28T13:55:25Z",
         "type" : "Initial Add"
       }
     ]

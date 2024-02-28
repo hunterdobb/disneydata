@@ -6,11 +6,26 @@
         {
           "date" : "2024-02-26T15:11:11Z",
           "type" : "Initial Add"
+        },
+        {
+          "changes" : [
+            "priceRangeDining := $$$ ($35 to $59.99 per adult) --> $$$$ (over $60 per adult)",
+            "tableService :=  --> Character Dining",
+            "meals := Breakfast, Brunch, Dinner --> Breakfast, Dinner",
+            "diningPlan := 2024 Disney Dining Plan --> 2024 Disney Dining Plan, 2025 Disney Dining Plan",
+            "cuisine := Empty --> American"
+          ],
+          "date" : "2024-02-28T13:55:25Z",
+          "type" : "Updated"
         }
       ],
       "contentType" : "Dining",
+      "cuisine" : [
+        "American"
+      ],
       "diningPlan" : [
-        "2024 Disney Dining Plan"
+        "2024 Disney Dining Plan",
+        "2025 Disney Dining Plan"
       ],
       "features" : [
         "Reservations Accepted"
@@ -18,21 +33,20 @@
       "id" : "90001212;entityType=restaurant",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/grand-floridian-resort-and-spa/1900-park-fare/1900-park-fare-07.jpg?1700004272720",
-      "lastChangeDate" : "2024-02-26T15:11:11Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.4111208,
         "longitude" : -81.5877097
       },
       "meals" : [
         "Breakfast",
-        "Brunch",
         "Dinner"
       ],
       "name" : "1900 Park Fare – Reopening April 10, 2024",
       "park" : "Disney's Grand Floridian Resort & Spa",
       "parkShortName" : "Grand Floridian Resort & Spa",
       "priceRangeDining" : [
-        "$$$ ($35 to $59.99 per adult)"
+        "$$$$ (over $60 per adult)"
       ],
       "resortArea" : "Magic Kingdom Resort Area",
       "searchTerms" : "1900 Park Fare – Reopening April 10, 2024 | 1900 park fare – reopening april 10, 2024",
@@ -42,7 +56,7 @@
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/things-to-do/dining/resort-dining/grand-floridian-resort-and-spa/1900-park-fare/1900-park-fare-07-sq.jpg?1700004272720",
       "sortableName" : "1900 park fare – reopening april 10, 2024",
       "tableService" : [
-
+        "Character Dining"
       ],
       "webLink" : "http://disneyworld.disney.go.com/dining/grand-floridian-resort-and-spa/1900-park-fare/"
     },
@@ -7684,6 +7698,13 @@
         {
           "date" : "2024-02-26T15:11:11Z",
           "type" : "Initial Add"
+        },
+        {
+          "changes" : [
+            "priceRangeDining := $$$ ($35 to $59.99 per adult) --> $$ ($15 to $34.99 per adult)"
+          ],
+          "date" : "2024-02-28T13:55:25Z",
+          "type" : "Updated"
         }
       ],
       "contentType" : "Dining",
@@ -7709,7 +7730,7 @@
       "isActive" : true,
       "land" : "World Nature",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/epcot/coral-reef-restaurant/coral-reef-restaurant-gallery01.jpg?1704796877974",
-      "lastChangeDate" : "2024-02-26T15:11:11Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.375096,
         "longitude" : -81.550458
@@ -7722,7 +7743,7 @@
       "park" : "EPCOT",
       "parkShortName" : "EPCOT",
       "priceRangeDining" : [
-        "$$$ ($35 to $59.99 per adult)"
+        "$$ ($15 to $34.99 per adult)"
       ],
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Coral Reef Restaurant | coral reef restaurant coral reef restaurant | coral reef | nemo restaurant | the seas restaurant | nemo and friends pavilion | seafood | sea food | unique dining | under the sea | epcot restaurants | epcot dining",
@@ -11272,12 +11293,16 @@
         {
           "date" : "2024-02-26T15:11:11Z",
           "type" : "Initial Add"
+        },
+        {
+          "changes" : [
+            "discounts := Disney® Visa® Cardmember Perks --> Empty"
+          ],
+          "date" : "2024-02-28T13:55:25Z",
+          "type" : "Updated"
         }
       ],
       "contentType" : "Shops",
-      "discounts" : [
-        "Disney® Visa® Cardmember Perks"
-      ],
       "extraDeepLink" : {
         "href" : "mdx://enchanting-extras/config?id=booking-droid-depot",
         "title" : "Book Now"
@@ -11286,7 +11311,7 @@
       "isActive" : true,
       "land" : "Star Wars: Galaxy's Edge",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/hollywood-studios/droid-depot/guests-droid-making-16x9.jpg?1699631668895",
-      "lastChangeDate" : "2024-02-26T15:11:11Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.354551,
         "longitude" : -81.561946
@@ -33041,12 +33066,16 @@
         {
           "date" : "2024-02-26T15:11:11Z",
           "type" : "Initial Add"
+        },
+        {
+          "changes" : [
+            "discounts := Disney® Visa® Cardmember Perks --> Empty"
+          ],
+          "date" : "2024-02-28T13:55:25Z",
+          "type" : "Updated"
         }
       ],
       "contentType" : "Shops",
-      "discounts" : [
-        "Disney® Visa® Cardmember Perks"
-      ],
       "extraDeepLink" : {
         "href" : "mdx://enchanting-extras/config?id=booking-savis-workshop-handbuilt-lightsabers",
         "title" : "Book Now"
@@ -33055,7 +33084,7 @@
       "isActive" : true,
       "land" : "Star Wars: Galaxy's Edge",
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/shops/hollywood-studios/savis-workshop-handbuilt-lightsabers/guests-raised-lightsabers-16x9.jpg?1699631643562",
-      "lastChangeDate" : "2024-02-26T15:11:11Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.35438,
         "longitude" : -81.561928
@@ -43776,9 +43805,70 @@
       "searchTerms" : "Outdoor Kitchen - La Isla Fresca | outdoor kitchen la isla fresca",
       "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/La_Isla_Fresca-1x1.jpg?2023-01-17T20:30:58+00:00",
       "sortableName" : "outdoor kitchen la isla fresca"
+    },
+    {
+      "about" : "Take flight on a breezy, airborne adventure as you hang glide above the breathtaking wonders of the world.",
+      "aboutThis" : [
+        "Supervise children at all times. Children under age 7 years must be accompanied by a person age 14 years or older."
+      ],
+      "accessibility" : {
+        "hearingAndVisual" : [
+          "Video Captioning"
+        ],
+        "mobilityDisabilities" : [
+          "Must Transfer from Wheelchair/ECV"
+        ],
+        "serviceAnimals" : [
+          "Not Permitted"
+        ]
+      },
+      "ages" : [
+        "Adults",
+        "Kids",
+        "Teens",
+        "Tweens"
+      ],
+      "changeLog" : [
+        {
+          "date" : "2024-02-28T13:55:25Z",
+          "type" : "Initial Add"
+        }
+      ],
+      "contentType" : "Attractions",
+      "height" : [
+        "40in (102cm) or taller"
+      ],
+      "id" : "20194;entityType=Attraction",
+      "interests" : [
+        "Experiences for Little Ones",
+        "Indoor",
+        "Play Disney Parks"
+      ],
+      "isActive" : true,
+      "land" : "World Nature",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/attractions/epcot/soarin/soarin-06.jpg?1695346565531",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
+      "location" : {
+        "latitude" : 28.373592,
+        "longitude" : -81.552248
+      },
+      "name" : "Soarin' Around the World",
+      "park" : "EPCOT",
+      "parkShortName" : "EPCOT",
+      "refurbishmentMessage" : "For a limited time, Soarin’ Around the World is unavailable. We welcome you to glide through the air on <a href=\"/attractions/epcot/soarin-over-california/\">Soarin’ Over California</a>.",
+      "resortArea" : "EPCOT Resort Area",
+      "searchTerms" : "Soarin' Around the World | soarin around the world california",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/attractions/epcot/soarin/soarin-06-sq.jpg?1695346565531",
+      "sortableName" : "soarin around the world",
+      "subLand" : "The Land",
+      "thrillFactor" : [
+        "Slow Rides",
+        "Small Drops"
+      ],
+      "webLink" : "http://disneyworld.disney.go.com/attractions/epcot/soarin-around-world/"
     }
   ],
-  "lastUpdated" : "2024-02-27T15:01:15Z",
+  "lastUpdated" : "2024-02-28T13:55:25Z",
   "parks" : [
     {
       "changeLog" : [
@@ -43787,8 +43877,8 @@
       "contentType" : "Resort",
       "id" : "80010402;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-movies/all-star-movies-resort-00.jpg?1706623214303",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-movies/all-star-movies-resort-00.jpg?1709060992860",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3359770882,
         "longitude" : -81.572010423
@@ -43797,7 +43887,7 @@
       "parkShortName" : "All-Star Movies Resort",
       "resortArea" : "Disney's Animal Kingdom Resort Area",
       "searchTerms" : "Disney's All-Star Movies Resort → disneys allstar movies resort movies hotel",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/all-star-movies/all-star-movies-resort-00-sq.jpg?1706623214303",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/all-star-movies/all-star-movies-resort-00-sq.jpg?1709060992860",
       "sortableName" : "allstar movies resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/all-star-movies-resort/"
     },
@@ -43808,8 +43898,8 @@
       "contentType" : "Resort",
       "id" : "80010400;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-music/all-star-music-resort-00.jpg?1706623230248",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-music/all-star-music-resort-00.jpg?1709061243194",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3397862116,
         "longitude" : -81.5726712621
@@ -43818,7 +43908,7 @@
       "parkShortName" : "All-Star Music Resort",
       "resortArea" : "Disney's Animal Kingdom Resort Area",
       "searchTerms" : "Disney's All-Star Music Resort → disneys allstar music resort music hotel",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/all-star-music/all-star-music-resort-00-sq.jpg?1706623230248",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/all-star-music/all-star-music-resort-00-sq.jpg?1709061243194",
       "sortableName" : "allstar music resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/all-star-music-resort/"
     },
@@ -43829,8 +43919,8 @@
       "contentType" : "Resort",
       "id" : "80010401;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-sports/all-star-sports-resort-00.jpg?1706623205433",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/all-star-sports/all-star-sports-resort-00.jpg?1709061453869",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3438277228,
         "longitude" : -81.5752542294
@@ -43839,7 +43929,7 @@
       "parkShortName" : "All-Star Sports Resort",
       "resortArea" : "Disney's Animal Kingdom Resort Area",
       "searchTerms" : "Disney's All-Star Sports Resort → disneys allstar sports resort sports hotel",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/places-to-stay/all-star-sports/all-star-sports-resort-00-sq.jpg?1706623205432",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/places-to-stay/all-star-sports/all-star-sports-resort-00-sq.jpg?1709061453869",
       "sortableName" : "allstar sports resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/all-star-sports-resort/"
     },
@@ -43851,7 +43941,7 @@
       "id" : "80007823;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/destinations/animal-kingdom/mountain-16x9.jpg?1706140843577",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3553842507,
         "longitude" : -81.5900898529
@@ -43873,8 +43963,8 @@
       "contentType" : "Resort",
       "id" : "80010395;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/animal-kingdom/animal-kingdom-lodge-00.jpg?1709009618590",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/animal-kingdom/animal-kingdom-lodge-00.jpg?1709061438767",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.352330447,
         "longitude" : -81.6035840465
@@ -43883,7 +43973,7 @@
       "parkShortName" : "Animal Kingdom Lodge",
       "resortArea" : "Disney's Animal Kingdom Resort Area",
       "searchTerms" : "Disney's Animal Kingdom Lodge → disneys animal kingdom lodge",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/animal-kingdom/animal-kingdom-lodge-00-sq.jpg?1709009618590",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/animal-kingdom/animal-kingdom-lodge-00-sq.jpg?1709061438767",
       "sortableName" : "animal kingdom lodge",
       "webLink" : "http://disneyworld.disney.go.com/resorts/animal-kingdom-lodge/"
     },
@@ -43894,8 +43984,8 @@
       "contentType" : "Resort",
       "id" : "273239;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/animal-kingdom-villas-kidani/kidani-villiage-firepit-16x9.jpg?1709009580695",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/animal-kingdom-villas-kidani/kidani-villiage-firepit-16x9.jpg?1709061347507",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3542064076,
         "longitude" : -81.6056428242
@@ -43904,7 +43994,7 @@
       "parkShortName" : "Animal Kingdom Villas - Kidani Village",
       "resortArea" : "Disney's Animal Kingdom Resort Area",
       "searchTerms" : "Disney's Animal Kingdom Villas - Kidani Village → disneys animal kingdom villas kidani village",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/animal-kingdom-villas-kidani/kidani-villiage-firepit-1x1.jpg?1709009580695",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/animal-kingdom-villas-kidani/kidani-villiage-firepit-1x1.jpg?1709061347507",
       "sortableName" : "animal kingdom villas kidani village",
       "webLink" : "http://disneyworld.disney.go.com/resorts/animal-kingdom-villas-kidani/"
     },
@@ -43915,8 +44005,8 @@
       "contentType" : "Resort",
       "id" : "80010404;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/art-of-animation/art-of-animation-00.jpg?1706623172995",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/art-of-animation/art-of-animation-00.jpg?1709061400896",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3504267174,
         "longitude" : -81.5486088004
@@ -43925,7 +44015,7 @@
       "parkShortName" : "Art of Animation Resort",
       "resortArea" : "Wide World of Sports Resort Area",
       "searchTerms" : "Disney's Art of Animation Resort → disneys art of animation resort",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/art-of-animation/art-of-animation-1x1.jpg?1706623172995",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/art-of-animation/art-of-animation-1x1.jpg?1709061400896",
       "sortableName" : "art of animation resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/art-of-animation-resort/"
     },
@@ -43936,8 +44026,8 @@
       "contentType" : "Resort",
       "id" : "80010389;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/beach-club/beach-club-resort-00.jpg?1709009516603",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/beach-club/beach-club-resort-00.jpg?1709061060807",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3712891641,
         "longitude" : -81.5563996411
@@ -43946,7 +44036,7 @@
       "parkShortName" : "Beach Club Resort",
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Disney's Beach Club Resort → disneys beach club resort",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/beach-club/beach-club-resort-00-sq.jpg?1709009516603",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/beach-club/beach-club-resort-00-sq.jpg?1709061060807",
       "sortableName" : "beach club resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/beach-club-resort/"
     },
@@ -43958,7 +44048,7 @@
       "id" : "80007834;entityType=water-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/blizzard-beach/frozen-summer-games-blizzard-beach-concluded-girl-blizzard-beach-16x9.jpg?1706631056534",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3525184499,
         "longitude" : -81.5731637729
@@ -43980,7 +44070,7 @@
       "id" : "80008259;entityType=Entertainment-Venue",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/boardwalk/boardwalk-00.jpg?1665038589541",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3670764086,
         "longitude" : -81.5561679555
@@ -44001,8 +44091,8 @@
       "contentType" : "Resort",
       "id" : "80010386;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/boardwalk-inn/board-walk-inn-00.jpg?1709009636977",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/boardwalk-inn/board-walk-inn-00.jpg?1709061089037",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3664226494,
         "longitude" : -81.5558658815
@@ -44011,7 +44101,7 @@
       "parkShortName" : "BoardWalk Inn",
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Disney's BoardWalk Inn → disneys boardwalk inn boardwalk inn boardwalk resort boarwalk hotel deluxe resort deluxe hotel deluxe inn epcot hotels epcot area",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/boardwalk-inn/board-walk-inn-00-sq.jpg?1709009636977",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/boardwalk-inn/board-walk-inn-00-sq.jpg?1709061089037",
       "sortableName" : "boardwalk inn",
       "webLink" : "http://disneyworld.disney.go.com/resorts/boardwalk-inn/"
     },
@@ -44022,8 +44112,8 @@
       "contentType" : "Resort",
       "id" : "80010391;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/boardwalk-villas/board-walk-villas-00.jpg?1709009495588",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/boardwalk-villas/board-walk-villas-00.jpg?1709061320978",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3664226494,
         "longitude" : -81.5558658815
@@ -44032,7 +44122,7 @@
       "parkShortName" : "BoardWalk Villas",
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Disney's BoardWalk Villas → disneys boardwalk villas",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/boardwalk-villas/board-walk-villas-00-sq.jpg?1709009495588",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/boardwalk-villas/board-walk-villas-00-sq.jpg?1709061320978",
       "sortableName" : "boardwalk villas",
       "webLink" : "http://disneyworld.disney.go.com/resorts/boardwalk-villas/"
     },
@@ -44043,8 +44133,8 @@
       "contentType" : "Resort",
       "id" : "80010392;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/campsites-at-fort-wilderness/campsites-at-fort-wilderness-resort-00.jpg?1709010694797",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/campsites-at-fort-wilderness/campsites-at-fort-wilderness-resort-00.jpg?1709047087039",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3956842977,
         "longitude" : -81.553762014
@@ -44053,7 +44143,7 @@
       "parkShortName" : "The Campsites at Fort Wilderness Resort",
       "resortArea" : "Magic Kingdom Resort Area",
       "searchTerms" : "The Campsites at Disney's Fort Wilderness Resort → campsites at disneys fort wilderness resort campground camping camp camp site",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/campsites-at-fort-wilderness/campsites-at-fort-wilderness-resort-00-sq.jpg?1709010694797",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/campsites-at-fort-wilderness/campsites-at-fort-wilderness-resort-00-sq.jpg?1709047087039",
       "sortableName" : "campsites at fort wilderness resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/campsites-at-fort-wilderness-resort"
     },
@@ -44064,8 +44154,8 @@
       "contentType" : "Resort",
       "id" : "80010399;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/caribbean-beach-resort/caribbean-beach-resort-porte-cochere-16x9.jpg?1706642259367",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/caribbean-beach-resort/caribbean-beach-resort-porte-cochere-16x9.jpg?1709061173689",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.362584,
         "longitude" : -81.541778
@@ -44074,7 +44164,7 @@
       "parkShortName" : "Caribbean Beach Resort",
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Disney's Caribbean Beach Resort → disneys caribbean beach resort",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/caribbean-beach-resort/caribbean-beach-resort-porte-cochere-1x1.jpg?1706642259367",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/caribbean-beach-resort/caribbean-beach-resort-porte-cochere-1x1.jpg?1709061173689",
       "sortableName" : "caribbean beach resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/caribbean-beach-resort/"
     },
@@ -44085,8 +44175,8 @@
       "contentType" : "Resort",
       "id" : "80010385;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/contemporary/contemporary-resort-00.jpg?1709009381075",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/contemporary/contemporary-resort-00.jpg?1709061132754",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.4150447218,
         "longitude" : -81.5748066259
@@ -44095,7 +44185,7 @@
       "parkShortName" : "Contemporary Resort",
       "resortArea" : "Magic Kingdom Resort Area",
       "searchTerms" : "Disney's Contemporary Resort → disneys contemporary resort monorail",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/contemporary/contemporary-resort-00-sq.jpg?1709009381076",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/contemporary/contemporary-resort-00-sq.jpg?1709061132754",
       "sortableName" : "contemporary resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/contemporary-resort/"
     },
@@ -44106,8 +44196,8 @@
       "contentType" : "Resort",
       "id" : "80010396;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/coronado-springs-resort/coronado-tower-5x2.jpg?1709009504578",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/coronado-springs-resort/coronado-tower-5x2.jpg?1709061253200",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.363254,
         "longitude" : -81.571314
@@ -44116,7 +44206,7 @@
       "parkShortName" : "Coronado Springs Resort",
       "resortArea" : "Disney's Animal Kingdom Resort Area",
       "searchTerms" : "Disney's Coronado Springs Resort → disneys coronado springs resort",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/coronado-springs-resort/coronado-tower-1x1.jpg?1709009504578",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/coronado-springs-resort/coronado-tower-1x1.jpg?1709061253200",
       "sortableName" : "coronado springs resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/coronado-springs-resort/"
     },
@@ -44129,7 +44219,7 @@
       "id" : "10460;entityType=Entertainment-Venue",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/downtown-disney/downtown-disney-09.jpg?1696869513789",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.369355,
         "longitude" : -81.516818
@@ -44151,7 +44241,7 @@
       "id" : "80069788;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/dolphin/dolphin-resort-00.jpg?1705612222831",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3674799907,
         "longitude" : -81.561050917
@@ -44172,7 +44262,7 @@
       "id" : "80007838;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/destinations/epcot/epcot-monorail-16x9.jpg?1627073108257",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3762301397,
         "longitude" : -81.5494047655
@@ -44195,7 +44285,7 @@
       "id" : "80008033;entityType=Entertainment-Venue",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/espn-wide-world-of-sports-complex/espn-wide-world-of-sports-00.jpg?1699631738101",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3378383389,
         "longitude" : -81.5560553027
@@ -44216,8 +44306,8 @@
       "contentType" : "Resort",
       "id" : "80010384;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/grand-floridian/grand-floridian-resort-and-spa-00.jpg?1709009397093",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/grand-floridian/grand-floridian-resort-and-spa-00.jpg?1709061511630",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.4109434056,
         "longitude" : -81.5878207041
@@ -44226,7 +44316,7 @@
       "parkShortName" : "Grand Floridian Resort & Spa",
       "resortArea" : "Magic Kingdom Resort Area",
       "searchTerms" : "Disney's Grand Floridian Resort & Spa → disneys grand floridian resort & spa grand floridian resort grand floridian deluxe resort seven seas lagoon hotel grand floridian spa water view hotel magic kingdom hotel",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/grand-floridian/grand-floridian-resort-and-spa-00-sq.jpg?1709009397093",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/grand-floridian/grand-floridian-resort-and-spa-00-sq.jpg?1709061511630",
       "sortableName" : "grand floridian resort & spa",
       "webLink" : "http://disneyworld.disney.go.com/resorts/grand-floridian-resort-and-spa/"
     },
@@ -44238,7 +44328,7 @@
       "id" : "80007998;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/destinations/hollywood-studios/mickey-minnie-runaway-railroad-underwater-16x9.jpg?1705424205637",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3584111691,
         "longitude" : -81.558689232
@@ -44261,7 +44351,7 @@
       "id" : "80007944;entityType=theme-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/cinderella-castle/0724ZQ_0195MS_JLM.jpg?2023-03-06T17:58:34+00:00",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.4160036778,
         "longitude" : -81.5811902834
@@ -44283,8 +44373,8 @@
       "contentType" : "Resort",
       "id" : "80010387;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/old-key-west-resort/old-key-west-resort-dock-16x9.jpg?1706623819589",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/old-key-west-resort/old-key-west-resort-dock-16x9.jpg?1709060848172",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3753790351,
         "longitude" : -81.5334281875
@@ -44293,7 +44383,7 @@
       "parkShortName" : "Old Key West Resort",
       "resortArea" : "Disney Springs Resort Area",
       "searchTerms" : "Disney's Old Key West Resort → disneys old key west resort",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/old-key-west-resort/old-key-west-resort-dock-1x1.jpg?1706623819589",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/old-key-west-resort/old-key-west-resort-dock-1x1.jpg?1709060848172",
       "sortableName" : "old key west resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/old-key-west-resort/"
     },
@@ -44304,8 +44394,8 @@
       "contentType" : "Resort",
       "id" : "80010388;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/polynesian/polynesian-resort-00.jpg?1709025508487",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/polynesian/polynesian-resort-00.jpg?1709060849912",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.4052682999,
         "longitude" : -81.5851331306
@@ -44314,7 +44404,7 @@
       "parkShortName" : "Polynesian Village Resort",
       "resortArea" : "Magic Kingdom Resort Area",
       "searchTerms" : "Disney's Polynesian Village Resort → disneys polynesian village resort",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/polynesian/polynesian-resort-00-sq.jpg?1709025508487",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/polynesian/polynesian-resort-00-sq.jpg?1709060849912",
       "sortableName" : "polynesian village resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/polynesian-resort/"
     },
@@ -44325,8 +44415,8 @@
       "contentType" : "Resort",
       "id" : "80010403;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/pop-century/pop-century-resort-00.jpg?1706623319563",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/pop-century/pop-century-resort-00.jpg?1709060784259",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3504196359,
         "longitude" : -81.5429245485
@@ -44335,7 +44425,7 @@
       "parkShortName" : "Pop Century Resort",
       "resortArea" : "Wide World of Sports Resort Area",
       "searchTerms" : "Disney's Pop Century Resort → disneys pop century resort",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/pop-century/pop-century-resort-00-sq.jpg?1706623319563",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/pop-century/pop-century-resort-00-sq.jpg?1709060784259",
       "sortableName" : "pop century resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/pop-century-resort/"
     },
@@ -44347,7 +44437,7 @@
       "id" : "80010398;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sassagoula-floatworks-and-foot-factory-entrance-door-display-16x9-16x9.jpg?2022-03-10T19:44:57+00:00",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3802027131,
         "longitude" : -81.5367997242
@@ -44367,8 +44457,8 @@
       "contentType" : "Resort",
       "id" : "80010397;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/port-orleans-resort-riverside/port-orleans-resort-riverside-00.jpg?1706623294668",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/port-orleans-resort-riverside/port-orleans-resort-riverside-00.jpg?1709046932033",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3860667583,
         "longitude" : -81.5367138935
@@ -44377,7 +44467,7 @@
       "parkShortName" : "Port Orleans Resort - Riverside",
       "resortArea" : "Disney Springs Resort Area",
       "searchTerms" : "Disney's Port Orleans Resort - Riverside → disneys port orleans resort riverside",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/port-orleans-resort-riverside/port-orleans-resort-riverside-00-sq.jpg?1706623294669",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/port-orleans-resort-riverside/port-orleans-resort-riverside-00-sq.jpg?1709046932033",
       "sortableName" : "port orleans resort riverside",
       "webLink" : "http://disneyworld.disney.go.com/resorts/port-orleans-resort-riverside/"
     },
@@ -44388,8 +44478,8 @@
       "contentType" : "Resort",
       "id" : "18995875;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/riviera-resort/overview/riviera-enterance-16x9.jpg?1709009350072",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/riviera-resort/overview/riviera-enterance-16x9.jpg?1709047114287",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.366292,
         "longitude" : -81.541915
@@ -44398,7 +44488,7 @@
       "parkShortName" : "Riviera Resort",
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Disney's Riviera Resort → disneys riviera resort",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/riviera-resort/overview/riviera-enterance-1x1.jpg?1709009350072",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/riviera-resort/overview/riviera-enterance-1x1.jpg?1709047114287",
       "sortableName" : "riviera resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/riviera-resort/"
     },
@@ -44409,8 +44499,8 @@
       "contentType" : "Resort",
       "id" : "80010383;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/saratoga-springs-resort-and-spa/saratoga-springs-water-island-16x9.jpg?1706623939417",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/resorts/saratoga-springs-resort-and-spa/saratoga-springs-water-island-16x9.jpg?1709047061372",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3764433669,
         "longitude" : -81.5229471303
@@ -44419,7 +44509,7 @@
       "parkShortName" : "Saratoga Springs Resort & Spa",
       "resortArea" : "Disney Springs Resort Area",
       "searchTerms" : "Disney's Saratoga Springs Resort & Spa → disneys saratoga springs resort & spa",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/saratoga-springs-resort-and-spa/saratoga-springs-water-island-1x1.jpg?1706623939417",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/resorts/saratoga-springs-resort-and-spa/saratoga-springs-water-island-1x1.jpg?1709047061372",
       "sortableName" : "saratoga springs resort & spa",
       "webLink" : "http://disneyworld.disney.go.com/resorts/saratoga-springs-resort-and-spa/"
     },
@@ -44431,7 +44521,7 @@
       "id" : "80069789;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/swan-resort/swan-resort-00.jpg?1705612305831",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3655210689,
         "longitude" : -81.5585940136
@@ -44452,7 +44542,7 @@
       "id" : "19621562;entityType=resort",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/resorts/swan-and-dolphin/A176-Exterior-2-16x9.jpg?2022-02-18T19:49:36+00:00",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.36461,
         "longitude" : -81.56099
@@ -44473,7 +44563,7 @@
       "id" : "80007981;entityType=water-park",
       "isActive" : true,
       "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/destinations/typhoon-lagoon/typhoon-lagoon-16x9.jpg?1699892360289",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3650541008,
         "longitude" : -81.5278921081
@@ -44494,8 +44584,8 @@
       "contentType" : "Resort",
       "id" : "80010394;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/wilderness-lodge/wilderness-lodge-resort-00.jpg?1709009195524",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/wilderness-lodge/wilderness-lodge-resort-00.jpg?1709046680050",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.4090206747,
         "longitude" : -81.5731570674
@@ -44504,7 +44594,7 @@
       "parkShortName" : "Wilderness Lodge",
       "resortArea" : "Magic Kingdom Resort Area",
       "searchTerms" : "Disney's Wilderness Lodge → disneys wilderness lodge",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/wilderness-lodge/wilderness-lodge-resort-00-sq.jpg?1709009195524",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/wilderness-lodge/wilderness-lodge-resort-00-sq.jpg?1709046680050",
       "sortableName" : "wilderness lodge",
       "webLink" : "http://disneyworld.disney.go.com/resorts/wilderness-lodge-resort/"
     },
@@ -44515,8 +44605,8 @@
       "contentType" : "Resort",
       "id" : "80010390;entityType=resort",
       "isActive" : true,
-      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/yacht-club-resort/yacht-club-resort-00.jpg?1709009197103",
-      "lastChangeDate" : "2024-02-27T15:01:15Z",
+      "largeImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/places-to-stay/yacht-club-resort/yacht-club-resort-00.jpg?1709046847977",
+      "lastChangeDate" : "2024-02-28T13:55:25Z",
       "location" : {
         "latitude" : 28.3707298331,
         "longitude" : -81.5586982942
@@ -44525,7 +44615,7 @@
       "parkShortName" : "Yacht Club Resort",
       "resortArea" : "EPCOT Resort Area",
       "searchTerms" : "Disney's Yacht Club Resort → disneys yacht club resort stormalong bay",
-      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/yacht-club-resort/yacht-club-resort-00-sq.jpg?1709009197103",
+      "smallImageURL" : "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/places-to-stay/yacht-club-resort/yacht-club-resort-00-sq.jpg?1709046847977",
       "sortableName" : "yacht club resort",
       "webLink" : "http://disneyworld.disney.go.com/resorts/yacht-club-resort/"
     }
