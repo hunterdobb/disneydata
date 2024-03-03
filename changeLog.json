@@ -6960,6 +6960,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-03-03T14:42:00Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8111,6 +8118,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-03-03T14:42:00Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8415,6 +8429,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-03-03T14:42:00Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8800,6 +8821,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-03-03T14:42:00Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10032,6 +10060,13 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "discountInfo := Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). The 20% discount is a limited-time offer that will be available January 1, 2024 to March 31, 2024. A 10% discount will be available April 1, 2024 to December 31, 2024. Discount is not valid on New Year’s Day, Easter, Independence Day, Thanksgiving, Christmas Eve, Christmas Day and New Year’s Eve. Special events and dining packages excluded. --> Discount applies to the regular price of food and nonalcoholic beverages (excluding applicable tax and gratuity). The 20% discount is a limited-time offer that will be available January 1, 2024 to September 30, 2024. A 10% discount will be available October 1, 2024 to December 31, 2024. Discount is not valid on New Year’s Day, Easter, Independence Day, Thanksgiving, Christmas Eve, Christmas Day and New Year’s Eve. Special events and dining packages excluded."
+        ],
+        "date" : "2024-03-03T14:42:00Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10351,6 +10386,14 @@
       {
         "date" : "2024-02-26T15:11:11Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "mobilityDisabilities := Empty --> Must Transfer to Wheelchair",
+          "hearingAndVisual := Empty --> Handheld Captioning"
+        ],
+        "date" : "2024-03-03T14:42:00Z",
+        "type" : "Updated"
       }
     ]
   },
