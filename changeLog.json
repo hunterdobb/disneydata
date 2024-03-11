@@ -2651,6 +2651,10 @@
       {
         "date" : "2024-03-11T13:39:21Z",
         "type" : "Deactivated"
+      },
+      {
+        "date" : "2024-03-11T13:40:08Z",
+        "type" : "Reactivated"
       }
     ]
   },
@@ -2822,6 +2826,13 @@
           "subLand := Storybook Circus --> Empty"
         ],
         "date" : "2024-03-11T13:39:21Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "subLand := Empty --> Storybook Circus"
+        ],
+        "date" : "2024-03-11T13:40:08Z",
         "type" : "Updated"
       }
     ]
@@ -5642,6 +5653,13 @@
           "subLand := The Land --> Empty"
         ],
         "date" : "2024-03-11T13:39:21Z",
+        "type" : "Updated"
+      },
+      {
+        "changes" : [
+          "subLand := Empty --> The Land"
+        ],
+        "date" : "2024-03-11T13:40:08Z",
         "type" : "Updated"
       }
     ]
