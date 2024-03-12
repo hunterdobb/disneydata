@@ -7714,6 +7714,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "diningPlan := Empty --> 2024 Disney Dining Plan"
+        ],
+        "date" : "2024-03-12T12:26:17Z",
+        "type" : "Updated"
       }
     ]
   },
