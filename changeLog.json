@@ -7,6 +7,16 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> 1900 Park Fare will reopen with new dining offerings on April 10, 2024.",
+          "about := Delight in breakfast and dinner buffets, plus a merry afternoon tea party, each hosted by Disney Characters. --> Delight in breakfast and dinner buffets while celebrating the magical power of a wish alongside beloved Disney Characters.",
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/resort-dining/grand-floridian-resort-and-spa/1900-park-fare/1900-park-fare-07.jpg?1700004272720 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/1900-park-fare/WDW_GF_1900ParkFare_Tiana-sGumboAndRice_16x9_0209ZM_0280KP.JPG?2024-02-19T16:56:05+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/things-to-do/dining/resort-dining/grand-floridian-resort-and-spa/1900-park-fare/1900-park-fare-07-sq.jpg?1700004272720 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/1900-park-fare/WDW_GF_1900ParkFare_Tiana-sGumboAndRice_16x9_0209ZM_0280KP-1x1.jpg?2024-02-19T16:56:05+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -414,6 +424,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> Disney’s Blizzard Beach water park is temporarily closed. We welcome you to explore attractions and dining options at <a href=\"https://disneyworld.disney.go.com/destinations/typhoon-lagoon/\">Disney’s Typhoon Lagoon water park.</a>"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -546,6 +563,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> Disney’s Blizzard Beach water park is temporarily closed. We welcome you to explore attractions and dining options at <a href=\"https://disneyworld.disney.go.com/destinations/typhoon-lagoon/\">Disney’s Typhoon Lagoon water park</a>."
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -612,6 +636,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -678,6 +709,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := <strong>Something New Is Bubbling Up at Basin</strong><p>During this refurbishment, please visit our temporary location next to <a href=\"https://www.disneysprings.com/shopping/the-art-of-disney/\">The Art of Disney</a></p> --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -920,6 +958,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 to January 20, 2024, Big Thunder Mountain Railroad will be unavailable due to regularly scheduled maintenance. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1085,6 +1130,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Say hello to Disney-themed arts and collectibles—plus remember “a tale as old as time” with magical <em>Beauty and the Beast</em> merchandise. --> Bring fantasy and storytelling into reality with the Disney ily 4EVER Collection––featuring merchandise inspired by <em>Beauty and the Beast</em>."
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1448,6 +1500,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1459,6 +1518,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1609,6 +1675,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/the-chuck-wagon/WDW_FortWilderness_ChuckWagon_MacCheeseBurger_FULL_DH-16x9.jpg?2023-04-21T16:23:04+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-cruise-line/dining/the-chuck-wagon/WDW_FW_CW_SmorePack_STYLIZED_022224_2747_GT-16x9.jpg?2024-03-11T17:38:13+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/the-chuck-wagon/WDW_FortWilderness_ChuckWagon_MacCheeseBurger_FULL_DH-1x1.jpg?2023-04-21T16:23:04+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-cruise-line/dining/the-chuck-wagon/WDW_FW_CW_SmorePack_STYLIZED_022224_2747_GT-1x1.jpg?2024-03-11T17:38:13+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1741,6 +1815,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Explore classic and exotic flavors from around the world while taking in panoramic views of Disney Springs atop the Coca-Cola Store. --> Explore classic and exotic flavors from all corners of the globe while drinking in panoramic views of Disney Springs!"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1884,6 +1965,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> Disney’s Blizzard Beach water park is temporarily closed. We welcome you to explore attractions and dining options at <a href=\"https://disneyworld.disney.go.com/destinations/typhoon-lagoon/\">Disney’s Typhoon Lagoon water park.</a>"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -1950,6 +2038,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> An exciting refresh is coming soon! Country Bear Jamboree is currently closed and is undergoing a transformation. The attraction will reopen in summer 2024.&nbsp;<a title=\"Follow link\" href=\"https://disneyparks.disney.go.com/blog/2024/01/new-details-about-country-bear-musical-jamboree-and-more/\" target=\"_blank\" rel=\"nofollow noopener\">Learn more about the future of this iconic Frontierland experience.</a>"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2137,6 +2232,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Thrill to a show-stopping selection of plush, apparel and toys—featuring items sure to delight every Tinker Bell fan. --> Discover a show-stopping selection of headwear, apparel, plush and toys—featuring onsite embroidery and items sure to delight every Mickey Mouse fan."
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2357,6 +2459,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Discover the need for gifts while you navigate through Disney’s Animal Kingdom park. As you make your way, be sure to tuck inside Disney Trading Company to find memories and mementos featuring some of your favorite Disney characters! --> Discover the need for gifts while you navigate through Disney's Animal Kingdom Theme Park. As you make your way, be sure to tuck inside Discovery Trading Company to find memories and mementos featuring some of your favorite Disney characters!"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2467,6 +2576,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-springs/shopping/disneys-photopass-studio/ds-disney-photopass-studio-kids-costume-16x9.jpg?1699631448102 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/guest-services/photopass/experience/DS23-Marketing-Photographer-0913-6862-Edit-16x9.jpg?2024-01-11T20:18:54+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-springs/shopping/disneys-photopass-studio/ds-disney-photopass-studio-kids-costume-1x1.jpg?1699631448102 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/guest-services/photopass/experience/DS23-Marketing-Photographer-0913-6862-Edit-1x1.jpg?2024-01-11T20:18:54+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2621,6 +2738,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Remember your favorite Disney characters, attractions, parks or shows with pins that capture each magical moment! --> Browse pins featuring your favorite Disney characters, attractions and shows—plus, shop for a stylish new MagicBand.",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/disneys-pin-traders/disneys-pin-traders-02-sq.jpg?1687296317789 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/things-to-do/more/shops/downtown-disney/disneys-pin-traders/disneys-pin-traders-01-sq.jpg?1709759272277"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2816,6 +2941,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2951,6 +3083,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04.jpg?1699628109803 --> Empty",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04-sq.jpg?1699628109804 --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2962,6 +3102,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04.jpg?1699627677524 --> Empty",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04-sq.jpg?1699627677524 --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2973,6 +3121,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04.jpg?1699627982754 --> Empty",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04-sq.jpg?1699627982754 --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2984,6 +3140,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04.jpg?1699627697814 --> Empty",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04-sq.jpg?1699627697814 --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -2995,6 +3159,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04.jpg?1699627698761 --> Empty",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/parks-and-tickets/entertainment/magic-kingdom/electrical-water-pageant/electrical-water-pageant-04-sq.jpg?1699627698761 --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3050,6 +3222,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/Raffy-16x9.jpg?2023-01-12T20:40:38+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/2023-Les-Raftsmen-MDX-2-16x9.jpg?2023-05-13T18:57:20+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/Raffy-1x1.jpg?2023-01-12T20:40:38+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/2023-Les-Raftsmen-MDX-2-1x1.jpg?2023-05-13T18:57:20+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3061,6 +3241,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/2022-Julia-Scheeser-Promo-Photo-16x9.jpg?2023-01-11T17:53:17+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/Julian-Adler-B-16x9.jpg?2024-03-20T17:27:48+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/2022-Julia-Scheeser-Promo-Photo-1x1.jpg?2023-01-11T17:53:17+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/entertainment/live-performances/Julian-Adler-B-1x1.jpg?2024-03-20T17:27:48+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3094,6 +3282,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Get ready to rock at this popular concert series during <a href=\"/events-tours/epcot/epcot-international-flower-and-garden-festival/\">EPCOT International Flower &amp; Garden Festival</a>. Check back later for more information! --> Empty",
+          "webLink := http://disneyworld.disney.go.com/entertainment/epcot/flower-garden-rocks-concert-series/ --> https://disneyworld.disney.go.com/entertainment/epcot/flower-garden-rocks-concert-series/"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3138,6 +3334,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Experience the thrill of victory with a “wide world” of ESPN and sports merchandise—including hats, pins and apparel featuring many of your favorite professional and college teams! Please note: store hours are subject to change based on events. --> Experience the thrill of victory with a “wide world” of ESPN and sports merchandise—including hats, pins and apparel featuring many of your favorite professional and college teams!<p>The ESPN Clubhouse Shop is temporarily closed. Please check back for more details.</p>"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3201,6 +3404,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Everything But Water is temporarily closed and will reopen in a new location at Disney Springs later this year. --> Empty",
+          "about := Dip into a beach-chic atmosphere for an unparalleled selection of women’s designer swimwear, resort wear and accessories. Fit-savvy sales members will help you discover the perfect pieces to pack on your next glam getaway. --> Dip into this beach-chic boutique for an unparalleled section of women’s designer swimwear and vacation essentials."
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3212,6 +3423,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3586,6 +3804,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> Disney’s Blizzard Beach water park is temporarily closed. We welcome you to explore attractions and dining options at <a href=\"https://disneyworld.disney.go.com/destinations/typhoon-lagoon/\">Disney’s Typhoon Lagoon water park.</a>"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3597,6 +3822,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Starting January 24, 2024, Frozen Ever After will be closed for routine maintenance. It is expected to reopen on January 25, 2024. While the attraction is closed, all other areas and experiences will remain open to Guests in the Norway Pavilion. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3641,6 +3873,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/epcot/funnel-cake/funnel-cake-01.jpg?1704797021812 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/WDW_EPCOT_FG_FunnelCake_FunnelCakeWithStrawberries_FULL_1215ZN_0131KP-16x9.jpg?2024-01-31T19:30:54+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/things-to-do/dining/epcot/funnel-cake/funnel-cake-01-sq.jpg?1704797021812 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/WDW_EPCOT_FG_FunnelCake_FunnelCakeWithStrawberries_FULL_1215ZN_0131KP-1x1.jpg?2024-01-31T19:30:54+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -3847,6 +4087,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Celebrate a noteworthy occasion—or any fun Disney day—with specialty sundaes or premium chocolate-inspired gifts. --> Indulge in world-famous hot fudge sundaes, hot cocoas, premium chocolate gifts and more!"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4056,6 +4303,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/guardians-of-the-galaxy-cosmic-rewind/GOTG-CR_KV_Horizontal-16x9.jpg?2021-12-22T00:03:14+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/guest-services/photopass/memory-maker/output_v1_831691417-16x9.jpg?2022-05-20T14:23:28+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/attractions/guardians-of-the-galaxy-cosmic-rewind/GOTG-CR_KV_Horizontal-1x1-medium.jpg?2021-12-22T00:03:14+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/guest-services/photopass/memory-maker/output_v1_831691417-1x1.jpg?2022-05-20T14:23:28+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4210,6 +4465,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/hollywood-studios/hollywood-and-vine/H-V-Minnie-Holiday-close-16x9.jpg?1704795884615 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-and-vine/H-V-Minnie-Spring-holding-dress-16x9-16x9.jpg?2023-04-10T18:08:09+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/dining/hollywood-studios/hollywood-and-vine/H-V-Minnie-Holiday-close-1x1.jpg?1704795884615 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-and-vine/H-V-Minnie-Spring-holding-dress-16x9-1x1.jpg?2023-04-10T18:08:09+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4243,6 +4506,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-scoops/hollywood-scoops-gallery00.jpg?1704795915847 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-scoops/WDW_DHS_HollywoodScoops_MinnieKitchenSinkSundae_STYLIZED_010424_4534_CJ-16x9.jpg?2024-01-17T21:37:14+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-scoops/hollywood-scoops-gallery00-sq.jpg?1704795915847 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-scoops/WDW_DHS_HollywoodScoops_MinnieKitchenSinkSundae_STYLIZED_010424_4534_CJ-1x1.jpg?2024-01-17T21:37:14+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4353,6 +4624,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> Disney’s Blizzard Beach water park is temporarily closed. We welcome you to explore attractions and dining options at <a href=\"https://disneyworld.disney.go.com/destinations/typhoon-lagoon/\">Disney’s Typhoon Lagoon water park.</a>"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4683,6 +4961,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/joffreys-coffee-and-tea-company/JOF-Epcot-Monorail-Entrance-2-16x9.jpg?1699626106273 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/joffreys/JOF-Epcot-Monorail-Entrance-2-16x9.jpg?1708966351610",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/dining/joffreys-coffee-and-tea-company/JOF-Epcot-Monorail-Entrance-2-1x1.jpg?1699626106273 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/dining/joffreys/JOF-Epcot-Monorail-Entrance-2-1x1.jpg?1708966351610"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -4962,6 +5248,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 8, 2024 to mid-March, Kali River Rapids will be temporarily unavailable due to regularly scheduled maintenance. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -5391,6 +5684,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -5720,6 +6020,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> Disney’s Blizzard Beach water park is temporarily closed. We welcome you to explore attractions and dining options at <a href=\"https://disneyworld.disney.go.com/destinations/typhoon-lagoon/\">Disney’s Typhoon Lagoon water park.</a>"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -5885,6 +6192,16 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "searchTerms := Magic Kingdom Special Activities | magic kingdom special activities --> Magic Kingdom Special Activities | magic kingdom special activities Wishes fireworks | fireworks | disney fireworks | cruise | dessert party | fireworks party | fireworks cruise | dessert cruise | seven seas lagoon | seven seas lagoon cruise | dining event | casual dining | ferrytale wishes | exclusive dining | cruise dining | cruise dining event",
+          "refurbishmentMessage := Empty --> Ferrytale Fireworks: A Sparkling Dessert Cruise is temporarily unavailable. Please check back later for updated availability.",
+          "about := Empty --> Sweeten your night with a dazzling cruise on the water—featuring dreamy desserts and a dazzling view of the fireworks from Magic Kingdom park.",
+          "webLink := Empty --> http://disneyworld.disney.go.com/dining/magic-kingdom/ferrytale-wishes-dessert-cruise/"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -6072,6 +6389,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> From February 5, 2024 to April 2024, the Mardi Grogs pool bar will be closed for refurbishment. During this time, the Mardi Grogs menu will be available at the nearby temporary pool bar."
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -6138,6 +6462,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Navigate to this all-in-one emporium to stock up on everyday essentials, souvenirs, chilled beverages and snacks. You can also shop the theme parks with ease and have your goods delivered here, where they’ll be available for pickup later. --> Navigate to this all-in-one emporium to stock up on everyday essentials, souvenirs, chilled beverages and snacks."
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -6732,6 +7063,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> Disney’s Blizzard Beach water park is temporarily closed. We welcome you to explore attractions and dining options at <a href=\"https://disneyworld.disney.go.com/destinations/typhoon-lagoon/\">Disney’s Typhoon Lagoon water park.</a>"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -6904,6 +7242,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Don’t miss a sippy—let the good times roll at this poolside bar at lushly wooded Ol’ Man Island. Party with frozen and rocks specialty drinks, draft beer, wine, superfruit sangria and nonalcoholic beverages. --> Don’t miss a sippy—let the good times roll at this poolside bar at lushly wooded Ol’ Man Island. Party with frozen and rocks specialty drinks, draft beer, wine and nonalcoholic beverages."
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7168,6 +7513,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/Hanami-16x9.jpg?2023-01-17T20:30:58+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/WDW_EPCOT_FG_Japan_Frushi_FULL_1207ZO_0284KP-16x9.jpg?2024-01-31T19:30:54+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/Hanami-1x1.jpg?2023-01-17T20:30:58+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/WDW_EPCOT_FG_Japan_Frushi_FULL_1207ZO_0284KP-1x1.jpg?2024-01-31T19:30:54+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7340,6 +7693,15 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Savor Spanish sandwiches, gazpacho and refreshing sangría—from famed award-winning chef, José Andrés. --> Savor amazing Spanish food-truck fare from famed chef José Andrés—it’s perfect for quick ‘n’ pleasing meals!",
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/dining/disney-springs/pepe/belt-angle-16x9.jpg?1699628728323 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/pepe/Jaleo-Disney11824_Pepe_Rey-Lopez-16x9.jpg?2023-02-28T18:28:53+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/disney-world/dining/disney-springs/pepe/belt-angle-1x1.jpg?1699628728323 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-springs/dining/pepe/Jaleo-Disney11824_Pepe_Rey-Lopez-1x1.jpg?2023-02-28T18:28:53+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7351,6 +7713,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7527,6 +7896,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-standard-assets/parks/cards/pdp-trivia-wk128-minnie-mouse-trivia-quiz_1920.png?2022-11-01T18:14:50+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/disney-world/mdx/playapp/pdp-trivia-template_1920-generic-blue.png?1706296228959"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7593,6 +7969,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> Disney’s Blizzard Beach water park is temporarily closed. We welcome you to explore attractions and dining options at <a href=\"https://disneyworld.disney.go.com/destinations/typhoon-lagoon/\">Disney’s Typhoon Lagoon water park.</a>"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7659,6 +8042,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "resortArea := EPCOT Resort Area --> Empty"
+        ],
+        "date" : "2024-03-24T12:06:09Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -7853,6 +8243,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-arts/culinary-arts/fota-24-refreshment-port-16x9.jpg?2023-12-07T18:00:07+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/WDW_EPCOT_FG_RefreshmentPort_ImpossibleBuffaloChickenTenderPoutine_FULL_1214ZN_0436KP-1-16x9.jpg?2024-01-31T19:30:54+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/festival-of-the-arts/culinary-arts/fota-24-refreshment-port-1x1.jpg?2023-12-07T18:00:07+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/WDW_EPCOT_FG_RefreshmentPort_ImpossibleBuffaloChickenTenderPoutine_FULL_1214ZN_0436KP-1-1x1.jpg?2024-01-31T19:30:54+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8381,6 +8779,15 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty",
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sebastians-bistro/WDW_CaribbeanBeach_Sebastians_SebastiansArray_FULLclose_DH-16x9.jpg?2023-03-14T15:45:31+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sebastians-bistro/WDW_CaribbeanBeach_Sebastians_Sebastians_DH-16x9.jpg?2024-02-27T21:47:59+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sebastians-bistro/WDW_CaribbeanBeach_Sebastians_SebastiansArray_FULLclose_DH-1x1.jpg?2023-03-14T15:45:31+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sebastians-bistro/WDW_CaribbeanBeach_Sebastians_Sebastians_DH-1x1.jpg?2024-02-27T21:47:59+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8678,6 +9085,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := For a limited time, Soarin’ Around the World is unavailable. We welcome you to glide through the air on <a href=\"/attractions/epcot/soarin-over-california/\">Soarin’ Over California</a>. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8843,6 +9257,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Enjoy an upscale spin on a classic American pastime at this modern take on bowling. --> Bowl down memory lane while enjoying an upscale spin on this classic American pastime—with fun to spare!"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -8898,6 +9319,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 16, 2024 through January 21, 2024, Disney Skyliner will be closed for routine maintenance. Disney Skyliner service to and from Disney’s Riviera Resort and International Gateway at EPCOT will remain closed through January 27, 2024. During this time, complimentary bus service will be available. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9426,6 +9854,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/Tangierine_Cafe-16x9.jpg?2023-01-17T20:30:58+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/WDW_EPCOT_FG_TangierineCafe_OrangeBlossom-SaffronCake_FULL_1219ZO_0296KP-1-16x9.jpg?2024-01-31T19:30:54+00:00",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/Tangierine_Cafe-1x1.jpg?2023-01-17T20:30:58+00:00 --> https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/epcot-international-flower-and-garden-festival/dining/WDW_EPCOT_FG_TangierineCafe_OrangeBlossom-SaffronCake_FULL_1219ZO_0296KP-1-1x1.jpg?2024-01-31T19:30:54+00:00"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9492,6 +9928,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Delight in waterfront views as you indulge in classic Italian flavors from Executive Chef Claudio Daggio.&nbsp; --> Delight in waterfront views as you indulge in classic Italian flavors from Executive Chef Claudio Daggio.&nbsp;&nbsp;"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9800,6 +10243,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "about := Browse handcrafted toys and collectibles at this whimsical workshop in <em>Star Wars</em>: Galaxy’s Edge. --> Browse handcrafted toys and collectibles at this whimsical workshop in <em>Star Wars: Galaxy’s Edge</em>."
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -9844,6 +10294,15 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := During the refurbishment of <a href=\"https://disneyworld.disney.go.com/dining/cabins-at-fort-wilderness-resort/trails-end-restaurant/\">Trail’s End Restaurant</a> and <a href=\"https://disneyworld.disney.go.com/dining/cabins-at-fort-wilderness-resort/crockett-tavern/\">Crockett’s Tavern</a>—scheduled to last until summer 2023— the menu of P&amp;J’s Southern Takeout will be available through mobile order only. Mobile orders can be picked up at Davy Crockett’s Wilderness Arcade—located in the same building. --> Empty",
+          "about := Wheel yer wagon over to this Old West eatery where you can grab some grub––morning, noon or night! --> Wheel yer wagon over to this Old West eatery where you can grab some grub—morning, noon or night!",
+          "webLink := https://disneyworld.disney.go.com/dining/cabins-at-fort-wilderness-resort/p-and-js-southern-takeout/ --> http://disneyworld.disney.go.com/dining/cabins-at-fort-wilderness-resort/trails-end-restaurant/"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10152,6 +10611,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := From January 23 through March 17, 2023, UNOde50 will be closed for refurbishment. --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10262,6 +10728,14 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "largeImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/720/405/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/wetzels-pretzels-haagen-dazs/wetzels-pretzels-espn-mobile-00.jpg?1699628348571 --> Empty",
+          "smallImageURL := https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/125/125/75/dam/wdpro-assets/things-to-do/dining/downtown-disney/wetzels-pretzels-haagen-dazs/wetzels-pretzels-espn-mobile-00-sq.jpg?1699628348572 --> Empty"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
@@ -10416,6 +10890,13 @@
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "refurbishmentMessage := Empty --> Disney’s Blizzard Beach water park is temporarily closed. We welcome you to explore attractions and dining options at <a href=\"https://disneyworld.disney.go.com/destinations/typhoon-lagoon/\">Disney’s Typhoon Lagoon water park.</a>"
+        ],
+        "date" : "2024-03-26T14:32:28Z",
+        "type" : "Updated"
       }
     ]
   },
