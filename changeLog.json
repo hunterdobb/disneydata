@@ -10469,11 +10469,20 @@
   {
     "entityContentType" : "Attractions",
     "entityId" : "411504498;entityType=Attraction",
-    "entityName" : "TRON Lightcycle / Run – New!",
+    "entityName" : "TRON Lightcycle / Run",
     "log" : [
       {
         "date" : "2024-03-08T14:35:17Z",
         "type" : "Initial Add"
+      },
+      {
+        "changes" : [
+          "name := TRON Lightcycle / Run – New! --> TRON Lightcycle / Run",
+          "sortableName := tron lightcycle / run – new! --> tron lightcycle / run",
+          "searchTerms := TRON Lightcycle / Run – New! | tron lightcycle / run – new! --> TRON Lightcycle / Run | tron lightcycle / run"
+        ],
+        "date" : "2024-03-30T15:39:43Z",
+        "type" : "Updated"
       }
     ]
   },
